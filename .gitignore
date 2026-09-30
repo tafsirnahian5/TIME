@@ -1,0 +1,51 @@
+# Built application files
+*.apk
+*.aab
+*.ap_
+*.aar
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# Gradle files
+.gradle/
+build/
+app/build/
+**/build/
+
+# Local configuration file (sdk path, etc.), never commit
+local.properties
+
+# Log/OS files
+*.log
+.DS_Store
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+.kotlin/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystore files — never commit release signing keys
+*.jks
+*.keystore
+
+# Google Services (if added later)
+google-services.json
+
+# Claude Code session-local state
+.claude/
+
+# Release signing secrets (see app/build.gradle.kts)
+keystore.properties

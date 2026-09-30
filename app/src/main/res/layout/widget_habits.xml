@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The habit widget: today's habits, one tap to check a plain one off. -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/habit_widget_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="14dp"
+    android:background="@drawable/widget_background">
+
+    <TextView
+        android:id="@+id/habit_widget_heading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/widget_accent"
+        android:textSize="13sp"
+        android:textStyle="bold"
+        android:maxLines="1" />
+
+    <TextView android:id="@+id/habit_row1" style="@style/WidgetLine" android:minHeight="40dp" android:gravity="center_vertical" />
+    <TextView android:id="@+id/habit_row2" style="@style/WidgetLine" android:minHeight="40dp" android:gravity="center_vertical" />
+    <TextView android:id="@+id/habit_row3" style="@style/WidgetLine" android:minHeight="40dp" android:gravity="center_vertical" />
+    <TextView android:id="@+id/habit_row4" style="@style/WidgetLine" android:minHeight="40dp" android:gravity="center_vertical" />
+
+    <TextView
+        android:id="@+id/habit_widget_footer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:textColor="@color/widget_muted"
+        android:textSize="11sp"
+        android:maxLines="1" />
+</LinearLayout>

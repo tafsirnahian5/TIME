@@ -1,0 +1,8 @@
+<resources>
+    <!-- Shown by Android itself (widget picker), so it follows the phone's language rather than
+         T!ME's own setting. The app name stays T!ME. -->
+    <string name="widget_habits_description">আজকের অভ্যাস — টিক দিতে একটিতে ট্যাপ করুন। T!ME লক থাকলে শুধু সংখ্যা দেখায়।</string>
+    <string name="widget_today_description">আজ যা আছে: চলমান কাজ, পরের ব্লক আর অভ্যাস। T!ME লক থাকলে শুধু সংখ্যা দেখায়।</string>
+    <string name="widget_focus_description">চলমান টাইমার, থামান ও শেষ করুন বোতামসহ। T!ME লক থাকলে কাজের নাম বা বোতাম দেখায় না।</string>
+    <string name="widget_money_description">এ সপ্তাহের বিল, আর চালু করলে তবেই আপনার মোট ব্যালেন্স। T!ME লক থাকলে শুধু সংখ্যা।</string>
+</resources>

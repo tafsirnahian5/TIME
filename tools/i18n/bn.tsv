@@ -1,0 +1,2196 @@
+# English (exactly as written in the code, runtime form)	Bangla. Tabs/newlines as \t / \n.
+ Exact alarms are off for T!ME, so a timer may ring a few minutes late.	 T!ME-এর জন্য নির্ভুল অ্যালার্ম বন্ধ, তাই টাইমার কয়েক মিনিট দেরিতে বাজতে পারে।
+ Hold a day to add a note. Rest days are left out of streaks and the rate.	 নোট যোগ করতে একটি দিন চেপে ধরুন। ছুটির দিন ধারা ও হারের হিসাবে ধরা হয় না।
+ and %1$s archived	 এবং %1$sটি আর্কাইভ করা
+ and %1$s more	 এবং আরও %1$sটি
+ from 	 থেকে
+ of %1$s earned	 — %1$sটির মধ্যে অর্জিত
+ of tracked time	 গোনা সময়
+ on %1$s	 — %1$s
+ per working day	 প্রতি কর্মদিবসে
+ · %1$s AGO	 · %1$s আগে
+ · %1$s over	 · %1$s বেশি
+ · Pomodoro	 · পোমোডোরো
+ · To date	 · আজ পর্যন্ত
+ · by %1$s	 · %1$s-এর মধ্যে
+ · countdown	 · কাউন্টডাউন
+ · counted above	 · ওপরে গোনা হয়েছে
+ · due 	 · বাকি
+ · due %1$s	 · শেষ তারিখ %1$s
+ · fixed	 · স্থির
+ · limit %1$s	 · সীমা %1$s
+ · not counted above	 · ওপরে গোনা হয়নি
+ · payment	 · পরিশোধ
+ · planned	 · পরিকল্পিত
+ · refund	 · ফেরত
+ · reminds at %1$s	 · %1$s-এ মনে করায়
+ · running	 · চলছে
+ · tap to change	 · বদলাতে ট্যাপ করুন
+ · was 	 · আগে ছিল
+ – %1$s · fixed by you	 – %1$s · আপনার স্থির করা
+ – %1$s · flexible	 – %1$s · নমনীয়
+ — it still holds %1$s, which keeps counting in your total. 	 — এতে এখনো %1$s আছে, যা আপনার মোটে গোনা হতে থাকবে।
+ — those import uncategorised.	 — সেগুলো ক্যাটাগরি ছাড়াই ইমপোর্ট হবে।
+%1$s	%1$s
+%1$s %2$s · %3$s repaid	%1$s %2$s · %3$s শোধ হয়েছে
+%1$s (%2$s switches)	%1$s (%2$sবার কাজ বদল)
+%1$s / %2$s min	%1$s / %2$s মিনিট
+%1$s Tap to fix it in Data & backup.	%1$s ঠিক করতে ডেটা ও ব্যাকআপে ট্যাপ করুন।
+%1$s a month	মাসে %1$s
+%1$s a month gets you there	মাসে %1$s রাখলে পৌঁছাবেন
+%1$s above	%1$s বেশি
+%1$s active habits · %2$s rest days	%1$sটি চালু অভ্যাস · %2$sটি ছুটির দিন
+%1$s already imported — tick one to update it	%1$sটি আগেই ইমপোর্ট করা — হালনাগাদ করতে একটিতে টিক দিন
+%1$s already saved — left unticked	%1$sটি আগেই সংরক্ষিত — টিক ছাড়া রাখা হয়েছে
+%1$s aren't web links and can't be saved	%1$sটি ওয়েব লিংক নয়, সংরক্ষণ করা যায় না
+%1$s becomes outstanding again.	%1$s আবার বাকি হবে।
+%1$s below	%1$s কম
+%1$s bills due in 7 days	৭ দিনে %1$sটি বিল
+%1$s can't be imported — each says why below	%1$sটি ইমপোর্ট করা যাবে না — প্রতিটির কারণ নিচে লেখা
+%1$s days	%1$s দিন
+%1$s due · %2$s outstanding	%1$s বাকি · %2$s পরিশোধ বাকি
+%1$s due — this only reminds you, it pays nothing	%1$s বাকি — এটি শুধু মনে করায়, কিছু পরিশোধ করে না
+%1$s est · %2$s tracked	আনুমানিক %1$s · গোনা %2$s
+%1$s events imported	%1$sটি ইভেন্ট ইমপোর্ট হয়েছে
+%1$s h %2$s min	%1$s ঘণ্টা %2$s মিনিট
+%1$s h a week — switch to Week to see progress.	সপ্তাহে %1$s ঘণ্টা — অগ্রগতি দেখতে সপ্তাহ-এ যান।
+%1$s h before	%1$s ঘণ্টা আগে
+%1$s habits to check in	%1$sটি অভ্যাসে টিক বাকি
+%1$s has been paid against %2$s, so it can't be deleted — 	%2$s-এর বিপরীতে %1$s পরিশোধ হয়েছে, তাই এটি মোছা যাবে না —
+%1$s holds %2$s less than is set aside from it.	%1$s-এ যত আলাদা রাখা হয়েছে তার চেয়ে %2$s কম আছে।
+%1$s is %2$s more than the %3$s still owed. 	এখনো বাকি %3$s-এর চেয়ে %1$s, %2$s বেশি।
+%1$s is the only %2$s column	%1$s একমাত্র %2$s কলাম
+%1$s items moved to Next steps	%1$sটি জিনিস পরের ধাপে সরানো হয়েছে
+%1$s left of %2$s	%2$s-এর মধ্যে %1$s বাকি
+%1$s links imported	%1$sটি লিংক ইমপোর্ট হয়েছে
+%1$s look like duplicates — left unticked	%1$sটি দ্বৈত মনে হচ্ছে — টিক ছাড়া রাখা হয়েছে
+%1$s min	%1$s মিনিট
+%1$s min before	%1$s মিনিট আগে
+%1$s min break	%1$s মিনিটের বিরতি
+%1$s min focus, %2$s min break	%1$s মিনিট ফোকাস, %2$s মিনিট বিরতি
+%1$s minutes	%1$s মিনিট
+%1$s months	%1$s মাস
+%1$s more than fits — something has to move or shrink.	যতটা ধরে তার চেয়ে %1$s বেশি — কিছু সরাতে বা ছোট করতে হবে।
+%1$s of %2$s	%2$s-এর মধ্যে %1$s
+%1$s of %2$s done	%2$s-এর মধ্যে %1$sটি হয়েছে
+%1$s of %2$s done today	আজ %2$s-এর মধ্যে %1$sটি শেষ
+%1$s of %2$s due days	%2$sটি বাকি দিনের মধ্যে %1$sটি
+%1$s of %2$s due tasks done	বাকি %2$sটি কাজের মধ্যে %1$sটি শেষ
+%1$s of %2$s events ticked · times in %3$s	%2$sটির মধ্যে %1$sটি ইভেন্টে টিক · সময় %3$s অনুযায়ী
+%1$s of %2$s h	%2$s ঘণ্টার মধ্যে %1$s
+%1$s of %2$s h this week	এ সপ্তাহে %2$s ঘণ্টার মধ্যে %1$s
+%1$s of %2$s links ticked	%2$sটির মধ্যে %1$sটি লিংকে টিক দেওয়া
+%1$s of %2$s rows ticked to import	%2$sটির মধ্যে %1$sটি সারিতে ইমপোর্টের টিক
+%1$s of %2$s spent this month — %3$s left.	এ মাসে %2$s-এর মধ্যে %1$s খরচ — বাকি %3$s।
+%1$s of %2$s tasks done. Spending counts money linked to the project or one of its tasks, net of refunds.	%2$sটি কাজের মধ্যে %1$sটি শেষ। খরচে প্রজেক্ট বা এর কোনো কাজের সাথে যুক্ত টাকা ধরা হয়, ফেরত বাদে।
+%1$s of %2$s this month	এ মাসে %2$s-এর মধ্যে %1$s
+%1$s of %2$s this week	এ সপ্তাহে %2$s-এর মধ্যে %1$s
+%1$s of work time still free.	এখনো %1$s কাজের সময় খালি।
+%1$s on 	%1$s: 
+%1$s on a rest day	ছুটির দিনে %1$s
+%1$s on the day	%1$s দিনেই
+%1$s outstanding this month	এ মাসে %1$s বাকি
+%1$s over estimate	আনুমানিকের চেয়ে %1$s বেশি
+%1$s over overall	মোটে %1$s বেশি
+%1$s over the %2$s budget	%2$s বাজেটের চেয়ে %1$s বেশি
+%1$s owes you	%1$s আপনাকে দেবেন
+%1$s owes you %2$s	%1$s আপনাকে %2$s দেবেন
+%1$s paid of %2$s	%2$s-এর মধ্যে %1$s পরিশোধ
+%1$s percent	%1$s শতাংশ
+%1$s planned	%1$s পরিকল্পিত
+%1$s quick notes	%1$sটি দ্রুত নোট
+%1$s records	%1$sটি তথ্য
+%1$s refunded	%1$s ফেরত হয়েছে
+%1$s sessions across %2$s days	%2$s দিনে %1$sটি সেশন
+%1$s sessions need review — check their times	%1$sটি সেশন দেখে নেওয়া দরকার — এদের সময় যাচাই করুন
+%1$s set aside for goals · %2$s free	লক্ষ্যের জন্য %1$s আলাদা রাখা · %2$s খালি
+%1$s settings match	%1$sটি সেটিং মিলেছে
+%1$s spent and %2$s still planned this month — %3$s more than the %4$s budget.	এ মাসে %1$s খরচ আর %2$s এখনো পরিকল্পিত — %4$s বাজেটের চেয়ে %3$s বেশি।
+%1$s spent this month — %2$s over the %3$s budget.	এ মাসে %1$s খরচ — %3$s বাজেটের চেয়ে %2$s বেশি।
+%1$s stays outstanding	%1$s বাকি থাকে
+%1$s streak on %2$s	%2$s-এ %1$s ধারা
+%1$s the day before	%1$s আগের দিন
+%1$s things	%1$sটি জিনিস
+%1$s things scheduled or due	%1$sটি জিনিস নির্ধারিত বা বাকি
+%1$s this month	এ মাসে %1$s
+%1$s times a month	মাসে %1$s বার
+%1$s times a month, any days	মাসে %1$s বার, যেকোনো দিন
+%1$s times a week	সপ্তাহে %1$s বার
+%1$s times a week, any days	সপ্তাহে %1$s বার, যেকোনো দিন
+%1$s to go	আরও %1$s বাকি
+%1$s to go.	আরও %1$s বাকি।
+%1$s transactions imported	%1$sটি লেনদেন ইমপোর্ট হয়েছে
+%1$s under estimate	আনুমানিকের চেয়ে %1$s কম
+%1$s under overall	মোটে %1$s কম
+%1$s was outstanding	%1$s বাকি ছিল
+%1$s weeks	%1$s সপ্তাহ
+%1$s · %2$s due	%1$s · %2$s বাকি
+%1$s · %2$s of %3$s	%1$s · %3$sটির মধ্যে %2$sটি
+%1$s · %2$s%%	%1$s · %2$s%%
+%1$s · archived	%1$s · আর্কাইভ করা
+%1$s · nothing paid	%1$s · কিছু পরিশোধ হয়নি
+%1$s · open T!ME to check in	%1$s · টিক দিতে T!ME খুলুন
+%1$s · prompts you, never pays.	%1$s · শুধু মনে করায়, কখনো পরিশোধ করে না।
+%1$s — but money reminders are 	%1$s — কিন্তু টাকার রিমাইন্ডার
+%1$s — but schedule reminders are muted in Settings › Notifications, so this won't show.	%1$s — কিন্তু সময়সূচির রিমাইন্ডার সেটিংস › নোটিফিকেশনে বন্ধ, তাই এটি দেখাবে না।
+%1$s — each repeat is its own record, so settling one never touches the next.	%1$s — প্রতিটি পুনরাবৃত্তি আলাদা রেকর্ড, তাই একটি মেটালে পরেরটিতে হাত পড়ে না।
+%1$s — fixed once a column is made.	%1$s — কলাম তৈরির পর আর বদলায় না।
+%1$s%%	%1$s%%
+%1$s%2$s due	%1$s%2$s বাকি
+%1$s%2$s%% vs %3$s	%3$s-এর তুলনায় %1$s%2$s%%
+%1$s, %2$s days before	%1$s, %2$s দিন আগে
+%1$s, skipping short months	%1$s, ছোট মাসগুলো বাদ দিয়ে
+%1$s: 80%% of the budget used	%1$s: বাজেটের ৮০%% খরচ হয়েছে
+%1$s: heading over budget	%1$s: বাজেট ছাড়ানোর পথে
+%1$s: over budget	%1$s: বাজেট ছাড়িয়ে গেছে
+%1$s: spent %2$s	%1$s: খরচ %2$s
+%1$s–%2$s · To date	%1$s–%2$s · আজ পর্যন্ত
+(deleted task)	(মুছে ফেলা কাজ)
+(no title)	(শিরোনাম নেই)
+(untitled event)	(শিরোনামহীন ইভেন্ট)
++ New	+ নতুন
++ Save filter	+ ফিল্টার রাখুন
++%1$s more in T!ME	T!ME-এ আরও %1$sটি
++%1$s more — see Month for the full agenda	আরও %1$sটি — পুরো তালিকা মাস দৃশ্যে দেখুন
++1 min	+১ মিনিট
++5 min	+৫ মিনিট
+, %1$s marked	, %1$sটি চিহ্নিত
+, %1$s on this day	, এদিনে %1$sটি
+, to switch to something else.	, অন্য কিছুতে যেতে।
+0 turns it off	০ দিলে বন্ধ হয়
+1 bill due in 7 days	৭ দিনে ১টি বিল
+1 day	১ দিন
+1 event imported	১টি ইভেন্ট ইমপোর্ট হয়েছে
+1 habit to check in	১টি অভ্যাসে টিক বাকি
+1 hour	১ ঘণ্টা
+1 item moved to Next steps	১টি জিনিস পরের ধাপে সরানো হয়েছে
+1 link imported	১টি লিংক ইমপোর্ট হয়েছে
+1 min	১ মিনিট
+1 month	১ মাস
+1 record	১টি তথ্য
+1 session needs review — check its times	১টি সেশন দেখে নেওয়া দরকার — এর সময় যাচাই করুন
+1 setting matches	১টি সেটিং মিলেছে
+1 thing scheduled or due	১টি জিনিস নির্ধারিত বা বাকি
+1 transaction imported	১টি লেনদেন ইমপোর্ট হয়েছে
+1 week	১ সপ্তাহ
+10 min	১০ মিনিট
+14 days	১৪ দিন
+15 min	১৫ মিনিট
+25 min	২৫ মিনিট
+28 Sep	২৮ সেপ্টে
+3 min	৩ মিনিট
+30 days	৩০ দিন
+5 min	৫ মিনিট
+6h 00m	৬ ঘণ্টা ০০ মিনিট
+7 days	৭ দিন
+8 weeks	৮ সপ্তাহ
+A %1$s run is going	একটি %1$s চলছে
+A PIN of %1$s–%2$s digits	%1$s–%2$s অঙ্কের একটি পিন
+A bank statement or a spreadsheet export. You'll see every row 	ব্যাংক স্টেটমেন্ট বা স্প্রেডশিট এক্সপোর্ট। কিছু সংরক্ষণের আগে প্রতিটি সারি দেখতে পাবেন
+A bookmarks file any browser can import — folders, notes and favourites included.	যেকোনো ব্রাউজারে ইমপোর্ট করা যায় এমন বুকমার্ক ফাইল — ফোল্ডার, নোট ও প্রিয়সহ।
+A bookmarks file exported from a browser, previewed before anything is saved.	ব্রাউজার থেকে এক্সপোর্ট করা বুকমার্ক ফাইল, সংরক্ষণের আগে দেখে নেওয়া যায়।
+A break pauses whatever you're working on.	বিরতি নিলে যা নিয়ে কাজ করছেন তা থেমে যায়।
+A break reminder	একটি বিরতির রিমাইন্ডার
+A budget update	একটি বাজেট আপডেট
+A day counts when it reaches the target; less is kept, but doesn't count.	লক্ষ্যে পৌঁছালে দিনটি গোনা হয়; কম হলে রাখা হয়, কিন্তু গোনা হয় না।
+A day counts when it stays at or under the target — logging 0 counts too.	লক্ষ্যে বা তার নিচে থাকলে দিনটি গোনা হয় — ০ লিখলেও গোনা হয়।
+A due-date marker. It reserves no working time.	একটি শেষ তারিখের চিহ্ন। এটি কাজের সময় রাখে না।
+A focus phase finished	একটি ফোকাস ধাপ শেষ
+A hundred tasks finished	একশো কাজ শেষ
+A laptop, a trip, an emergency fund — name it, set a target, and put money aside toward it.	একটি ল্যাপটপ, একটি ভ্রমণ, একটি জরুরি তহবিল — নাম দিন, লক্ষ্য ঠিক করুন, আর তার জন্য টাকা আলাদা রাখুন।
+A limit only warns when a column holds more than it; it never stops a move.	সীমা শুধু তখন সতর্ক করে যখন কলামে তার চেয়ে বেশি থাকে; কখনো সরানো আটকায় না।
+A loan is due	একটি ধারের দিন এসেছে
+A money notification never records a payment.	টাকার নোটিফিকেশন কখনো পরিশোধ লেখে না।
+A month under budget	বাজেটের মধ্যে একটি মাস
+A notification at %1$s.	%1$s-এ একটি নোটিফিকেশন।
+A notification on the days this habit is due.	যেদিন এই অভ্যাস বাকি সেদিন একটি নোটিফিকেশন।
+A notification: %1$s.	একটি নোটিফিকেশন: %1$s।
+A nudge after this much unbroken work. A pause, switch or break starts the count again.	এতক্ষণ একটানা কাজের পর একটু মনে করিয়ে দেওয়া। থামালে, কাজ বদলালে বা বিরতি নিলে গোনা আবার শুরু হয়।
+A planned cost is due	একটি পরিকল্পিত খরচের দিন এসেছে
+A refund isn't income — reports count it as less spending in the original's category.	ফেরত আয় নয় — রিপোর্ট এটিকে মূল খরচের ক্যাটাগরিতে কম খরচ হিসেবে গোনে।
+A schedule block can stand alone — no task is required. If it overlaps something else on your calendar, you'll be asked how to resolve it.	একটি সময়-ব্লক একাই থাকতে পারে — কোনো কাজ লাগে না। ক্যালেন্ডারে অন্য কিছুর সাথে মিলে গেলে কীভাবে মেটাবেন জিজ্ঞেস করা হবে।
+A separate expense from this wallet.	এই ওয়ালেট থেকে আলাদা একটি খরচ।
+A shortcut past PIN entry — your PIN still works if biometrics fail.	পিন না লিখে খোলার শর্টকাট — বায়োমেট্রিক ব্যর্থ হলে পিন তবুও কাজ করে।
+A state's only column can't be deleted. Cards in a deleted column move to the first column of their state.	কোনো অবস্থার একমাত্র কলাম মোছা যায় না। মুছে ফেলা কলামের কার্ডগুলো তাদের অবস্থার প্রথম কলামে যায়।
+A suggestion only — you choose again when paying	শুধু একটি পরামর্শ — পরিশোধের সময় আবার বেছে নেবেন
+A timer finished	একটি টাইমার শেষ
+A title is enough to start — you can add a due date, 	শুরুর জন্য একটি শিরোনামই যথেষ্ট — শেষ তারিখ,
+A title is enough — details later	শুধু একটি শিরোনামই যথেষ্ট — বিস্তারিত পরে
+A web address can't contain spaces.	ওয়েব ঠিকানায় ফাঁকা জায়গা থাকতে পারে না।
+A week of daily reviews	এক সপ্তাহের দৈনিক পর্যালোচনা
+A work session was cut off by a restart	রিস্টার্টে একটি কাজের সেশন থেমে গেছে
+ACCENT	অ্যাকসেন্ট
+ACHIEVEMENTS	অর্জন
+ADDED%1$s · NO DUE DATE	যোগ করা হয়েছে%1$s · শেষ তারিখ নেই
+AFTER THIS PAYMENT	এই পরিশোধের পর
+AUTO-LOCK AFTER	এত সময় পর নিজে থেকে লক
+AUTOMATIC BACKUPS	স্বয়ংক্রিয় ব্যাকআপ
+About	সম্পর্কে
+Accent colour	অ্যাকসেন্ট রং
+Accent recolours buttons, chips and charts. Category colours are set per category and never change with the theme.	অ্যাকসেন্ট বোতাম, চিপ ও চার্টের রং বদলায়। ক্যাটাগরির রং আলাদাভাবে ঠিক করা, থিমের সাথে কখনো বদলায় না।
+Across 	মোট
+Active session, countdown finished, break	চলমান সেশন, কাউন্টডাউন শেষ, বিরতি
+Active time	সক্রিয় সময়
+Active work	সক্রিয় কাজ
+Active work %1$s ÷ weekly target %2$s	সক্রিয় কাজ %1$s ÷ সাপ্তাহিক লক্ষ্য %2$s
+Active work ÷ weekly target — set a weekly target in the Time report	সক্রিয় কাজ ÷ সাপ্তাহিক লক্ষ্য — সময় রিপোর্টে একটি সাপ্তাহিক লক্ষ্য ঠিক করুন
+Add	যোগ করুন
+Add a loan	একটি ধার যোগ করুন
+Add a planned cost	একটি পরিকল্পিত খরচ যোগ করুন
+Add a tag	একটি ট্যাগ যোগ করুন
+Add a task	একটি কাজ যোগ করুন
+Add a task this waits on	যে কাজের অপেক্ষায় এটি আছে তা যোগ করুন
+Add a wallet first (Money › Overview).	আগে একটি ওয়ালেট যোগ করুন (টাকা › সারসংক্ষেপ)।
+Add a wallet first — imported transactions need one to go into.	আগে একটি ওয়ালেট যোগ করুন — ইমপোর্ট করা লেনদেন রাখার জায়গা লাগে।
+Add anyway	তবুও যোগ করুন
+Add category	ক্যাটাগরি যোগ করুন
+Add link	লিংক যোগ করুন
+Add one (%1$s left)	একটি যোগ করুন (আরও %1$sটি)
+Add receipt	রসিদ যোগ করুন
+Add something	কিছু যোগ করুন
+Add step	ধাপ যোগ করুন
+Add to bucket list	ইচ্ছাতালিকায় যোগ করুন
+Add to favourites	প্রিয়তে যোগ করুন
+Added %1$s	যোগ করা %1$s
+Added %1$s min	%1$s মিনিট যোগ হয়েছে
+Adding one here moves nothing until you record the payment.	এখানে যোগ করলে পরিশোধ না লেখা পর্যন্ত কিছুই সরে না।
+Adjust	সমন্বয়
+Adjust balance	ব্যালেন্স সমন্বয়
+Adjust it to zero first if that money is gone.	সেই টাকা না থাকলে আগে সমন্বয় করে শূন্য করুন।
+After %1$s minutes	%1$s মিনিট পর
+After planned costs	পরিকল্পিত খরচের পর
+Agenda	সূচি
+Alarm sound until you answer, even in quiet hours	সাড়া না দেওয়া পর্যন্ত অ্যালার্মের শব্দ, নীরব সময়েও
+All %1$s	সব %1$s
+All data deleted	সব তথ্য মুছে ফেলা হয়েছে
+All expenses	সবই খরচ
+All habits	সব অভ্যাস
+All income	সবই আয়
+All notes	সব নোট
+All time	সব সময়
+All wallets	সব ওয়ালেট
+All · %1$s	সব · %1$s
+All-day — imported as a task due that day	সারাদিনের — সেদিনের কাজ হিসেবে ইমপোর্ট হবে
+Allow full-screen alerts	পূর্ণ-স্ক্রিন সতর্কতা চালু করুন
+Already imported — tick to update the saved one	আগেই ইমপোর্ট করা — সংরক্ষিতটি হালনাগাদ করতে টিক দিন
+Already in Plan	আগেই পরিকল্পনায়
+Already saved as “%1$s” in %2$s.	ইতিমধ্যে %2$s-এ “%1$s” নামে সংরক্ষিত।
+Already saved — tick to import anyway	আগেই সংরক্ষিত — তবুও ইমপোর্ট করতে টিক দিন
+Alternative if you'd rather not touch today.	আজকের দিনে হাত দিতে না চাইলে বিকল্প।
+Amount	পরিমাণ
+Amount "%1$s" isn't an exact taka amount	পরিমাণ "%1$s" নির্ভুল টাকার অঙ্ক নয়
+Amount (Tk)	পরিমাণ (টাকা)
+Amount actually paid	আসলে যত পরিশোধ করেছেন
+Amount is zero	পরিমাণ শূন্য
+Amounts show only if you turn them on in Money settings.	টাকার সেটিংসে চালু করলে তবেই পরিমাণ দেখায়।
+Android 12 and later. Status colours stay the same.	অ্যান্ড্রয়েড ১২ ও পরের সংস্করণে। অবস্থার রংগুলো একই থাকে।
+Another %1$s min	আরও %1$s মিনিট
+Another time on the day…	সেদিন অন্য সময়ে…
+Another time the day before…	আগের দিন অন্য সময়ে…
+Any category	যেকোনো ক্যাটাগরি
+Any project	যেকোনো প্রজেক্ট
+Any tag	যেকোনো ট্যাগ
+Any type	যেকোনো ধরন
+Any wallet	যেকোনো ওয়ালেট
+Anyone with access to this phone will be able to open T!ME without a PIN.	এই ফোনে যার হাত আছে সে-ই পিন ছাড়া T!ME খুলতে পারবে।
+Anything set aside for it becomes free again. No money moves.	এর জন্য আলাদা রাখা সবকিছু আবার খালি হবে। কোনো টাকা সরে না।
+App language	অ্যাপের ভাষা
+App version	অ্যাপের সংস্করণ
+Appearance	চেহারা
+Applies from this week on. Earlier weeks keep the target they had.	এ সপ্তাহ থেকে প্রযোজ্য। আগের সপ্তাহগুলো তাদের লক্ষ্যই রাখে।
+Apply	প্রয়োগ করুন
+Apply 1 change	১টি পরিবর্তন প্রয়োগ করুন
+Appointments	অ্যাপয়েন্টমেন্ট
+Archive	আর্কাইভ
+Archive %1$s instead?	বরং %1$s আর্কাইভ করবেন?
+Archive %1$s?	%1$s আর্কাইভ করবেন?
+Archive done	শেষগুলো আর্কাইভ করুন
+Archived	আর্কাইভ করা
+Archived %1$s done tasks	%1$sটি শেষ হওয়া কাজ আর্কাইভ হয়েছে
+Archived (%1$s)	আর্কাইভ করা (%1$s)
+Archived 1 done task	১টি শেষ হওয়া কাজ আর্কাইভ হয়েছে
+Archived wallets (%1$s)	আর্কাইভ করা ওয়ালেট (%1$s)
+Archived · %1$s	আর্কাইভ · %1$s
+Archived — kept with its history, off Today and without reminders. Restore it from the menu.	আর্কাইভ করা — ইতিহাসসহ রাখা, আজ-এ দেখায় না, রিমাইন্ডারও নেই। মেনু থেকে ফিরিয়ে আনুন।
+Archived — off the List, Board and calendar, still counted in reports. Restore it from the menu.	আর্কাইভ করা — তালিকা, বোর্ড ও ক্যালেন্ডারের বাইরে, তবুও রিপোর্টে গোনা হয়। মেনু থেকে ফিরিয়ে আনুন।
+Archived — out of the wallet list and every picker; its history and balance are kept. Restore it from the menu.	আর্কাইভ করা — ওয়ালেটের তালিকা ও সব বাছাই থেকে বাইরে; এর ইতিহাস ও ব্যালেন্স রাখা আছে। মেনু থেকে ফিরিয়ে আনুন।
+Archiving keeps a category or project on the records that already use it; it just 	আর্কাইভ করলে যে তথ্যগুলো আগে থেকে একটি ক্যাটাগরি বা প্রজেক্ট ব্যবহার করে সেখানে সেটি থাকে; শুধু
+As it starts	শুরুর সময়
+Asked for when you open T!ME after a break. Fingerprint unlock 	বিরতির পর T!ME খুললে চাওয়া হয়। আঙুলের ছাপে খোলা
+At %1$s on due days — skipped once it's checked off.	বাকি দিনগুলোতে %1$s-এ — টিক দেওয়া হলে বাদ যায়।
+At %1$s — but schedule reminders are muted in Settings › Notifications, so this won't show.	%1$s-এ — কিন্তু সময়সূচির রিমাইন্ডার সেটিংস › নোটিফিকেশনে বন্ধ, তাই এটি দেখাবে না।
+At 80%, when planned costs would go over, and when over	৮০%-এ, পরিকল্পিত খরচে ছাড়ালে এবং ছাড়িয়ে গেলে
+At 80%, when planned costs would take you over, and when you're over — once a month each.	৮০%-এ, পরিকল্পিত খরচে বাজেট ছাড়ালে এবং ছাড়িয়ে গেলে — প্রতিটি মাসে একবার।
+At least	অন্তত
+At least %1$s characters	অন্তত %1$sটি অক্ষর
+At most	সর্বোচ্চ
+Auto-start next phase	পরের ধাপ নিজে থেকে শুরু
+Automatic backup didn't run	স্বয়ংক্রিয় ব্যাকআপ হয়নি
+Automatic backup password	স্বয়ংক্রিয় ব্যাকআপের পাসওয়ার্ড
+Automatic backups	স্বয়ংক্রিয় ব্যাকআপ
+Available balance	ব্যবহারযোগ্য ব্যালেন্স
+Available balance minus planned remaining, %1$s	ব্যবহারযোগ্য ব্যালেন্স থেকে পরিকল্পিত বাকি বাদে, %1$s
+Avatar	ছবি
+BACK INTO	যেখানে ফিরবে
+BACKUP FILE	ব্যাকআপ ফাইল
+BDT · shown as Tk · two decimals	BDT · Tk হিসেবে দেখায় · দুই দশমিক
+BLOCKED	আটকে আছে
+BREAK PHASE	বিরতির ধাপ
+BY DAY	দিন অনুযায়ী
+BY HABIT	অভ্যাস অনুযায়ী
+BY WEEKDAY · LAST 12 WEEKS	বার অনুযায়ী · গত ১২ সপ্তাহ
+Back	পেছনে
+Back to %1$s?	%1$s-এ ফিরবেন?
+Back up automatically	নিজে থেকে ব্যাকআপ নিন
+Back up now	এখনই ব্যাকআপ নিন
+Backing up in the background	পেছনে ব্যাকআপ চলছে
+Backup completed or failed	ব্যাকআপ সম্পন্ন বা ব্যর্থ
+Backup password	ব্যাকআপের পাসওয়ার্ড
+Backup saved	ব্যাকআপ সংরক্ষিত
+Balance adjustment	ব্যালেন্স সমন্বয়
+Balances hidden	ব্যালেন্স লুকানো
+Balances stay as they are — set-aside money just stops looking free.	ব্যালেন্স যেমন আছে তেমন থাকে — আলাদা রাখা টাকা শুধু আর খালি দেখায় না।
+Bank	ব্যাংক
+Becomes Paused. %1$s of the estimate remain.	থামানো হবে। আনুমানিক সময়ের %1$s বাকি।
+Becomes Paused. No estimate set for this task.	থামানো হবে। এই কাজের কোনো আনুমানিক সময় নেই।
+Below target	লক্ষ্যের নিচে
+Best: %1$s	সেরা: %1$s
+Between 1 and %1$s	১ থেকে %1$s-এর মধ্যে
+Bills	বিল
+Blocked	আটকে আছে
+Board	বোর্ড
+Board columns	বোর্ডের কলাম
+Bold	গাঢ়
+Booked: %1$s	নির্ধারিত: %1$s
+Borrow more	আরও ধার নিন
+Borrowed from %1$s	%1$s-এর কাছ থেকে ধার নেওয়া
+Break	বিরতি
+Break phases are not active work, and ending a cycle never marks the task Done.	বিরতির ধাপ সক্রিয় কাজ নয়, আর চক্র শেষ হলে কাজটি কখনো শেষ ধরা হয় না।
+Break reminder	বিরতির রিমাইন্ডার
+Break reminder after	এত সময় পর বিরতির রিমাইন্ডার
+Break reminder: 	বিরতির রিমাইন্ডার:
+Break running	বিরতি চলছে
+Break's over	বিরতি শেষ
+Breaks	বিরতি
+Bucket list	ইচ্ছাতালিকা
+Budget alerts	বাজেট সতর্কতা
+Budget alerts watch it	বাজেট সতর্কতা এটি দেখে
+Builder	নির্মাতা
+Bullet list	বুলেট তালিকা
+By %1$s	%1$s-এর মধ্যে
+CALENDAR OPENS ON	ক্যালেন্ডার খোলে
+CARRYING FORWARD TOMORROW	কাল নিয়ে যাওয়া হচ্ছে
+CHANNELS	চ্যানেল
+CHECK-INS PER WEEK	সপ্তাহে কতবার টিক
+COLOUR	রং
+COLUMNS	কলাম
+COMPLETED TODAY	আজ শেষ হয়েছে
+COUNTDOWN	কাউন্টডাউন
+Calendar	ক্যালেন্ডার
+Calendar export and import	ক্যালেন্ডার এক্সপোর্ট ও ইমপোর্ট
+Calendar exported	ক্যালেন্ডার এক্সপোর্ট হয়েছে
+Calendar opens on	ক্যালেন্ডার খোলে
+Calendar view	ক্যালেন্ডার দৃশ্য
+Can be moved when you reschedule.	রিশিডিউল করলে সরানো যায়।
+Can't read the time "%1$s"	সময় "%1$s" পড়া যায়নি
+Cancel	বাতিল
+Cancel %1$s?	%1$s বাতিল করবেন?
+Cancel it instead?	বরং বাতিল করবেন?
+Cancelled (%1$s)	বাতিল (%1$s)
+Capture a task, reserve a block of time, or record what 	একটি কাজ লিখে রাখুন, সময়ের একটি ব্লক রাখুন, অথবা কোনো কিছুর খরচ
+Capture an idea	একটি আইডিয়া লিখে রাখুন
+Cash	নগদ
+Cash, bank or mobile money — manually maintained	নগদ, ব্যাংক বা মোবাইল ব্যাংকিং — নিজে হাতে রাখা হিসাব
+Categories	ক্যাটাগরি
+Categories and their budgets	ক্যাটাগরি ও তাদের বাজেট
+Category	ক্যাটাগরি
+Change PIN	পিন বদলান
+Change amount	পরিমাণ বদলান
+Change time	সময় বদলান
+Channels, quiet hours, test notification	চ্যানেল, নীরব সময়, পরীক্ষামূলক নোটিফিকেশন
+Check in each day and keep a streak going	প্রতিদিন টিক দিন এবং ধারা চালু রাখুন
+Check-ins	টিক
+Checklist	চেকলিস্ট
+Choose a CSV file	একটি CSV ফাইল বাছুন
+Choose a PIN of %1$s to %2$s digits	%1$s থেকে %2$s অঙ্কের একটি পিন বাছুন
+Choose a bookmarks file	একটি বুকমার্ক ফাইল বাছুন
+Choose a task	একটি কাজ বাছুন
+Choose an .ics file	একটি .ics ফাইল বাছুন
+Choose an .ics file exported from a calendar app. You'll see every event, 	ক্যালেন্ডার অ্যাপ থেকে এক্সপোর্ট করা একটি .ics ফাইল বাছুন। কিছু সংরক্ষণের আগে প্রতিটি ইভেন্ট
+Choose the folder again	ফোল্ডারটি আবার বাছুন
+Choose today's commitments	আজকের প্রতিশ্রুতি বাছুন
+Choose where to save	কোথায় সংরক্ষণ করবেন বাছুন
+Chosen folder	বাছাই করা ফোল্ডার
+Clear	মুছুন
+Clear day	দিনটি মুছুন
+Clear filters	ফিল্টার মুছুন
+Clock	ঘড়ি
+Clock, date order, currency label	ঘড়ি, তারিখের ক্রম, মুদ্রার লেবেল
+Close	বন্ধ করুন
+Closed (%1$s)	বন্ধ (%1$s)
+Closed — its history is kept.	বন্ধ — এর ইতিহাস রাখা আছে।
+Coding	কোডিং
+Collection	সংগ্রহ
+Colour	রং
+Column %1$s	কলাম %1$s
+Commit to…	প্রতিশ্রুতি দিন…
+Committed tasks done ÷ committed tasks due	প্রতিশ্রুত কাজ শেষ ÷ প্রতিশ্রুত কাজ বাকি ছিল
+Completed	সম্পন্ন
+Completed tasks	শেষ হওয়া কাজ
+Confirm it's you	নিশ্চিত করুন যে এটি আপনি
+Confirm restore	ফেরানো নিশ্চিত করুন
+Confirm your PIN	আপনার পিন নিশ্চিত করুন
+Consistency	নিয়মিততা
+Continue	চালিয়ে যান
+Copy link	লিংক কপি করুন
+Correct break	বিরতি ঠিক করুন
+Correct on-duty time	দায়িত্বের সময় ঠিক করুন
+Costs due	বাকি খরচ
+Costs money	টাকা লাগে
+Couldn't create the backup	ব্যাকআপ তৈরি করা যায়নি
+Couldn't export	এক্সপোর্ট করা যায়নি
+Couldn't read that file, or it's larger than 2 MB.	ফাইলটি পড়া যায়নি, অথবা এটি ২ MB-এর বড়।
+Couldn't read that file, or it's larger than 5 MB.	ফাইলটি পড়া যায়নি, অথবা এটি ৫ MB-এর বড়।
+Couldn't read that file.	ফাইলটি পড়া যায়নি।
+Couldn't record that refund — the amount changed. Check it and try again.	ফেরতটি লেখা যায়নি — পরিমাণ বদলেছে। দেখে আবার চেষ্টা করুন।
+Count overdue plans in the forecast	পূর্বাভাসে বকেয়া পরিকল্পনা গুনুন
+Countdown	কাউন্টডাউন
+Countdown length	কাউন্টডাউনের দৈর্ঘ্য
+Countdown · %1$s min	কাউন্টডাউন · %1$s মিনিট
+Countdown · ends %1$s	কাউন্টডাউন · শেষ %1$s
+Counts as	যা হিসেবে গোনা হয়
+Counts as work time, under no category	কাজের সময় হিসেবে গোনা হয়, কোনো ক্যাটাগরি ছাড়া
+Create	তৈরি করুন
+Create backup	ব্যাকআপ তৈরি করুন
+Create or restore a local backup	একটি লোকাল ব্যাকআপ তৈরি বা ফেরান
+Created	তৈরি
+Currency	মুদ্রা
+Currency label	মুদ্রার লেবেল
+Current PIN	বর্তমান পিন
+Cyan & Amber	সায়ান ও অ্যাম্বার
+DAILY ACTIVITY	দৈনিক কার্যকলাপ
+DARK MODE	গাঢ় মোড
+DATA & SECURITY	ডেটা ও নিরাপত্তা
+DATES	তারিখ
+DEMO & RESET	ডেমো ও রিসেট
+DONE · %1$s	হয়েছে · %1$s
+DUE, NO TIME RESERVED	বাকি, সময় রাখা নেই
+Daily	প্রতিদিন
+Daily active-work target	দৈনিক সক্রিয় কাজের লক্ষ্য
+Daily review	দৈনিক পর্যালোচনা
+Dark	গাঢ়
+Data & backup	ডেটা ও ব্যাকআপ
+Date	তারিখ
+Date "%1$s" doesn't match %2$s	তারিখ "%1$s" %2$s-এর সাথে মেলে না
+Date order	তারিখের ক্রম
+Dates: %1$s	তারিখ: %1$s
+Day	দিন
+Day ended late	দিন দেরিতে শেষ
+Deadlines, event start, scheduled work	শেষ তারিখ, ইভেন্টের শুরু, নির্ধারিত কাজ
+Deep work	গভীর কাজ
+Default length	ডিফল্ট দৈর্ঘ্য
+Default wallet	ডিফল্ট ওয়ালেট
+Default wallet, monthly budget, forecast, budget alerts	ডিফল্ট ওয়ালেট, মাসিক বাজেট, পূর্বাভাস, বাজেট সতর্কতা
+Delete	মুছুন
+Delete %1$s	%1$s মুছুন
+Delete %1$s?	%1$s মুছবেন?
+Delete all data	সব তথ্য মুছে ফেলুন
+Delete all data?	সব তথ্য মুছে ফেলবেন?
+Delete any from there if something looks wrong.	কিছু ভুল মনে হলে সেখান থেকে মুছে দিন।
+Delete anyway	তবুও মুছুন
+Delete everything	সব মুছে ফেলুন
+Delete this loan?	এই ধার মুছবেন?
+Delete this session?	এই সেশনটি মুছবেন?
+Delete “%1$s”?	“%1$s” মুছবেন?
+Delivery	সম্পাদন
+Demo data loaded	ডেমো তথ্য লোড হয়েছে
+Derived from %1$s posted records. Manually maintained — no bank connection.	লেখা %1$sটি তথ্য থেকে হিসাব করা। নিজে হাতে রাখা — কোনো ব্যাংক সংযোগ নেই।
+Description	বিবরণ
+Details ▴	বিস্তারিত ▴
+Details ▾	বিস্তারিত ▾
+Discard	বাদ দিন
+Display name	প্রদর্শিত নাম
+Doing	চলছে
+Done	শেষ
+Due	শেষ তারিখ
+Due 	শেষ তারিখ
+Due  %1$s	বাকি  %1$s
+Due %1$s	%1$s পর্যন্ত বাকি
+Due date	শেষ তারিখ
+Due every %1$s days from its first day; the days between never count.	প্রথম দিন থেকে প্রতি %1$s দিনে বাকি; মাঝের দিনগুলো গোনা হয় না।
+Due today	আজ শেষ করার কথা
+Due today — this only reminds you; nothing is recorded.	আজ শোধের দিন — এটি শুধু মনে করায়; কিছু লেখা হয় না।
+ENDS	শেষ
+ESTIMATE VS ACTUAL · FINISHED THIS PERIOD	আনুমানিক বনাম আসল · এই সময়ে শেষ
+EVERYTHING ELSE	বাকি সব
+Each column stands for one state — starting a timer still means Doing, finishing still means Done. 	প্রতিটি কলাম একটি অবস্থা বোঝায় — টাইমার চালু করা মানে এখনো চলছে, শেষ করা মানে এখনো শেষ।
+Earned	অর্জিত
+Edit	সম্পাদনা
+Edit category	ক্যাটাগরি সম্পাদনা
+Edit column	কলাম সম্পাদনা
+Edit columns	কলাম সম্পাদনা
+Edit details	বিস্তারিত সম্পাদনা
+Edit goal	লক্ষ্য সম্পাদনা
+Edit habit	অভ্যাস সম্পাদনা
+Edit link	লিংক সম্পাদনা
+Edit planned cost	পরিকল্পিত খরচ সম্পাদনা
+Edit task	কাজ সম্পাদনা
+Edit that one instead	বরং সেটি সম্পাদনা করুন
+Edit transaction	লেনদেন সম্পাদনা
+Edited: %1$s%2$s	সম্পাদিত: %1$s%2$s
+Elapsed history is never rewritten — only unused future allocation. 	পেরিয়ে যাওয়া সময়ের ইতিহাস কখনো বদলায় না — শুধু ভবিষ্যতের অব্যবহৃত সময়।
+Enable app PIN	অ্যাপ পিন চালু করুন
+End	শেষ
+End break	বিরতি শেষ করুন
+End day	দিন শেষ
+Ended	শেষ
+Ending the day stops it. Pause it to carry on later, or finish the session.	দিন শেষ করলে এটি থামবে। পরে চালিয়ে যেতে থামান, অথবা সেশনটি শেষ করুন।
+Ends before it starts	শুরুর আগেই শেষ হয়
+Ends before it starts.	শুরুর আগেই শেষ হয়।
+Enter a web address.	একটি ওয়েব ঠিকানা লিখুন।
+Enter your current PIN	আপনার বর্তমান পিন দিন
+Estimate	আনুমানিক সময়
+Estimate %1$s	আনুমানিক %1$s
+Estimated total	আনুমানিক মোট
+Events from a calendar app, shown in your time zone before anything is saved.	ক্যালেন্ডার অ্যাপের ইভেন্ট, কিছু সংরক্ষণের আগে আপনার সময় অঞ্চলে দেখানো হয়।
+Every %1$s %2$s	প্রতি %1$s %2$s
+Every %1$s days	প্রতি %1$s দিনে
+Every N days	প্রতি N দিনে
+Every completed work session: date, task, category, start, end, minutes.	প্রতিটি সম্পূর্ণ কাজের সেশন: তারিখ, কাজ, ক্যাটাগরি, শুরু, শেষ, মিনিট।
+Every day	প্রতিদিন
+Every link with its folder, note, favourite, saved date and archive state — for other tools.	প্রতিটি লিংক তার ফোল্ডার, নোট, প্রিয়, সংরক্ষণের তারিখ ও আর্কাইভ অবস্থাসহ — অন্য টুলের জন্য।
+Every result opens the original record, not a copy.	প্রতিটি ফলাফল মূল তথ্যটি খোলে, কোনো কপি নয়।
+Every task, planned cost, transaction, wallet, idea and link is removed from this phone. 	প্রতিটি কাজ, পরিকল্পিত খরচ, লেনদেন, ওয়ালেট, আইডিয়া ও লিংক এই ফোন থেকে মুছে যাবে।
+Everything is scheduled	সবকিছু নির্ধারিত
+Everything on “%1$s” moves to the one you pick, and “%2$s” is archived. Amounts and times don't change.	“%1$s”-এর সবকিছু আপনার বাছাই করা ক্যাটাগরিতে সরে যাবে, আর “%2$s” আর্কাইভ হবে। পরিমাণ ও সময় বদলায় না।
+Exact alarms are not allowed	নির্ভুল অ্যালার্মের অনুমতি নেই
+Expense	খরচ
+Expense of %1$s	%1$s-এর খরচ
+Expenses	খরচ
+Export CSV	CSV এক্সপোর্ট
+Export calendar (.ics)	ক্যালেন্ডার এক্সপোর্ট (.ics)
+Export links (HTML)	লিংক এক্সপোর্ট (HTML)
+Export links (JSON)	লিংক এক্সপোর্ট (JSON)
+Export tracked time (CSV)	গোনা সময় এক্সপোর্ট (CSV)
+Export transactions (CSV)	লেনদেন এক্সপোর্ট (CSV)
+Export your bookmarks from a browser as an HTML file, then choose it here. 	ব্রাউজার থেকে বুকমার্কগুলো একটি HTML ফাইল হিসেবে এক্সপোর্ট করুন, তারপর এখানে বাছুন।
+FOCUS PHASE	ফোকাসের ধাপ
+FOCUS · COUNTDOWN	ফোকাস · কাউন্টডাউন
+FOCUS · POMODORO	ফোকাস · পোমোডোরো
+FOCUS · STOPWATCH	ফোকাস · স্টপওয়াচ
+Favourite	প্রিয়
+Favourites	প্রিয়
+Fee (optional)	ফি (ঐচ্ছিক)
+Fewer	কম
+Fifty habit check-ins	পঞ্চাশবার অভ্যাসে টিক
+Fifty hours tracked	পঞ্চাশ ঘণ্টা গোনা হয়েছে
+Filter	ফিল্টার
+Find a slot	একটি সময় খুঁজুন
+Fingerprint unlock	আঙুলের ছাপে খোলা
+Finish	শেষ করুন
+Finish and mark task done	শেষ করে কাজটিকে সম্পন্ন করুন
+Finish session	সেশন শেষ করুন
+Finish this run	এই দফা শেষ করুন
+Finished (%1$s)	শেষ হওয়া (%1$s)
+Finished or tracked occurrences are kept.	শেষ হওয়া বা গোনা পুনরাবৃত্তিগুলো রাখা হয়।
+First backup saved	প্রথম ব্যাকআপ সংরক্ষিত
+First free slot inside your work hours today.	আজ আপনার কাজের সময়ের মধ্যে প্রথম খালি সময়।
+First habit check-in	প্রথম অভ্যাসে টিক
+First monthly review	প্রথম মাসিক পর্যালোচনা
+First part, minutes	প্রথম অংশ, মিনিট
+First payment recorded	প্রথম পরিশোধ লেখা হয়েছে
+First row is a header	প্রথম সারিটি শিরোনাম
+First savings goal reached	প্রথম সঞ্চয়ের লক্ষ্যে পৌঁছানো
+First task finished	প্রথম কাজ শেষ
+First wallet	প্রথম ওয়ালেট
+First weekly review	প্রথম সাপ্তাহিক পর্যালোচনা
+Fix mobile spacing	মোবাইলের ফাঁকা জায়গা ঠিক করা
+Fixed	স্থির
+Flexible	নমনীয়
+Focus	ফোকাস
+Focus / break length	ফোকাস / বিরতির দৈর্ঘ্য
+Focus / short break	ফোকাস / ছোট বিরতি
+Focus minutes	ফোকাসের মিনিট
+Focus phase done%1$s	ফোকাসের ধাপ শেষ%1$s
+Focus, no task	ফোকাস, কোনো কাজ নয়
+Folder	ফোল্ডার
+Follow system	সিস্টেম অনুযায়ী
+Follows the phone · %1$s (UTC%2$s)	ফোন অনুযায়ী · %1$s (UTC%2$s)
+Food	খাবার
+For	কিসের জন্য
+For a task	একটি কাজের জন্য
+For a task (optional)	একটি কাজের জন্য (ঐচ্ছিক)
+For: 	কিসের জন্য:
+For: %1$s	কিসের জন্য: %1$s
+Force-stopping T!ME, a powered-off phone, or aggressive battery policies can delay or skip delivery. 	T!ME জোর করে বন্ধ করা, ফোন বন্ধ থাকা বা কড়া ব্যাটারি নীতি নোটিফিকেশন দেরি করাতে বা বাদ দিতে পারে।
+Forest & Coral	বনসবুজ ও প্রবাল
+Forgot PIN? Reset and keep data	পিন ভুলে গেছেন? তথ্য রেখে রিসেট করুন
+Forgot PIN? Resetting needs this phone's own screen lock, which isn't set up.	পিন ভুলে গেছেন? রিসেট করতে এই ফোনের নিজের স্ক্রিন লক লাগে, যা চালু করা নেই।
+Forgot to stop it	থামাতে ভুলে গিয়েছিলাম
+Format version	ফরম্যাটের সংস্করণ
+Free to spend	খরচের জন্য খালি
+From	যেখান থেকে
+From %1$s	%1$s থেকে
+From a bank statement or spreadsheet. You check every row, and duplicates, before anything is saved.	ব্যাংক স্টেটমেন্ট বা স্প্রেডশিট থেকে। কিছু সংরক্ষণের আগে প্রতিটি সারি ও দ্বৈতগুলো দেখে নেন।
+From wallet	যে ওয়ালেট থেকে
+From whom	কার কাছ থেকে
+Full-screen alerts are off for T!ME, so a locked phone shows a notification instead of the alarm page.	T!ME-এর জন্য পূর্ণ-স্ক্রিন সতর্কতা বন্ধ, তাই লক করা ফোনে অ্যালার্মের পাতার বদলে একটি নোটিফিকেশন দেখায়।
+Give these an estimate and they'll count toward the week.	এগুলোকে আনুমানিক সময় দিন, তাহলে সপ্তাহের হিসাবে ধরা হবে।
+Give up and free it	ছেড়ে দিন এবং খালি করুন
+Goal	লক্ষ্য
+Goal reached — %1$s	লক্ষ্যে পৌঁছেছেন — %1$s
+Got it	বুঝেছি
+Greyed out while wallpaper colours are on.	ওয়ালপেপারের রং চালু থাকলে এটি ধূসর থাকে।
+HABITS	অভ্যাস
+Habit	অভ্যাস
+Habit report	অভ্যাসের রিপোর্ট
+Habits	অভ্যাস
+Habits today	আজকের অভ্যাস
+Habits: 	অভ্যাস:
+Heading	শিরোনাম
+Held in	যেখানে আছে
+Held in 	যেখানে আছে:
+Help	সাহায্য
+Hide archived (%1$s)	আর্কাইভ করা লুকান (%1$s)
+Hide archived wallets	আর্কাইভ করা ওয়ালেট লুকান
+Hide cancelled	বাতিলগুলো লুকান
+Hide closed	বন্ধগুলো লুকান
+Hide details on the lock screen	লক স্ক্রিনে বিস্তারিত লুকান
+Hide finished (%1$s)	শেষ হওয়াগুলো লুকান (%1$s)
+Hide task names and amounts on the lock screen	লক স্ক্রিনে কাজের নাম ও পরিমাণ লুকান
+High	উঁচু
+High %1$s	উঁচু %1$s
+History	ইতিহাস
+Hold a card to drag it.	টেনে সরাতে একটি কার্ড চেপে ধরুন।
+Hours a week	সপ্তাহে ঘণ্টা
+How much	কতটা
+How often	কত ঘন ঘন
+How this works	এটি কীভাবে কাজ করে
+I borrowed	আমি নিয়েছি
+I lent	আমি দিয়েছি
+IDEAS	আইডিয়া
+INTERRUPTIONS	বাধা
+INTO WALLET	যে ওয়ালেটে যাবে
+Icon	আইকন
+Ideas	আইডিয়া
+Import %1$s events	%1$sটি ইভেন্ট ইমপোর্ট করুন
+Import %1$s links	%1$sটি লিংক ইমপোর্ট করুন
+Import %1$s transactions	%1$sটি লেনদেন ইমপোর্ট করুন
+Import 1 event	১টি ইভেন্ট ইমপোর্ট করুন
+Import 1 link	১টি লিংক ইমপোর্ট করুন
+Import 1 transaction	১টি লেনদেন ইমপোর্ট করুন
+Import bookmarks	বুকমার্ক ইমপোর্ট
+Import bookmarks (HTML)	বুকমার্ক ইমপোর্ট (HTML)
+Import calendar	ক্যালেন্ডার ইমপোর্ট
+Import calendar (.ics)	ক্যালেন্ডার ইমপোর্ট (.ics)
+Import from a CSV file	CSV ফাইল থেকে ইমপোর্ট
+Import from a browser	ব্রাউজার থেকে ইমপোর্ট
+Import from a calendar file	ক্যালেন্ডার ফাইল থেকে ইমপোর্ট
+Import transactions	লেনদেন ইমপোর্ট
+Import transactions (CSV)	লেনদেন ইমপোর্ট (CSV)
+In 1 hour	১ ঘণ্টা পরে
+In a month without a %1$s	যে মাসে %1$s তারিখ নেই
+In · %1$s	এসেছে · %1$s
+Inbox	ইনবক্স
+Inbox · not scheduled yet	ইনবক্স · এখনো নির্ধারিত নয়
+Income	আয়
+Income · %1$s	আয় · %1$s
+Ink & Orange	কালি ও কমলা
+Inline code	ইনলাইন কোড
+Interruptions	বাধা
+It can't end in the future.	ভবিষ্যতে শেষ হতে পারে না।
+It has %1$s. Deleting it removes that time from your reports; archiving 	এতে %1$s আছে। মুছলে সেই সময় আপনার রিপোর্ট থেকে বাদ যাবে; আর্কাইভ করলে
+It has to end after it starts.	শেষ হতে হবে শুরুর পরে।
+It leaves the wallet list and every picker. Its history stays, and so does its balance	এটি ওয়ালেটের তালিকা ও সব বাছাই থেকে সরে যাবে। এর ইতিহাস থাকবে, ব্যালেন্সও থাকবে
+It stays closed, now at %1$s against a %2$s estimate.	এটি বন্ধ থাকবে, এখন %2$s আনুমানিকের বিপরীতে %1$s।
+It stops counting as owed and its reminder goes. It stays under Cancelled, where you can reopen it.	এটি আর বাকি হিসেবে গোনা হবে না এবং এর রিমাইন্ডার যাবে। এটি বাতিল তালিকায় থাকবে, সেখান থেকে আবার খুলতে পারবেন।
+It waits on %1$s, which aren't done yet. 	এটি %1$s-এর অপেক্ষায় আছে, যেগুলো এখনো শেষ হয়নি। 
+It waits on %1$s, which isn't done yet. 	এটি %1$s-এর অপেক্ষায় আছে, যা এখনো শেষ হয়নি। 
+It's %1$s longer than the work left — this frees that time.	বাকি কাজের চেয়ে এটি %1$s বড় — এতে সেই সময়টা খালি হয়।
+It's marked as waiting on something else. Starting it moves it to Doing and starts tracking time.	এটি অন্য কিছুর অপেক্ষায় চিহ্নিত। শুরু করলে এটি চলছে-তে যাবে এবং সময় গোনা শুরু হবে।
+It's still running.	এটি এখনো চলছে।
+It's unlinked from its tasks; the tasks stay.	এটি তার কাজগুলো থেকে আলাদা হবে; কাজগুলো থাকবে।
+Italic	বাঁকা
+Its %1$s movements are deleted too, so your wallet balances go back to as if it never happened. To keep the record, close it instead.	এর %1$sটি লেনদেনও মুছে যাবে, ফলে আপনার ওয়ালেটের ব্যালেন্স এমন হবে যেন এটি কখনো ঘটেনি। তথ্যটি রাখতে চাইলে বরং বন্ধ করুন।
+Its receipts go too.	এর রসিদগুলোও যাবে।
+Its refunds are deleted with it.	এর ফেরতগুলোও সাথে মুছে যাবে।
+Its time comes out of every report. This can't be undone.	এর সময় প্রতিটি রিপোর্ট থেকে বাদ যাবে। এটি ফেরানো যায় না।
+Job	চাকরি
+Just pause, start nothing	শুধু থামান, কিছু শুরু করবেন না
+Just you. No account and no server — everything is written to this phone's storage.	শুধু আপনি। কোনো অ্যাকাউন্ট নেই, সার্ভার নেই — সবকিছু এই ফোনেই সংরক্ষিত।
+KIND	ধরন
+Keep	রাখুন
+Keep both — overlap on purpose	দুটোই রাখুন — জেনেশুনে মিলিয়ে
+Keep it	রেখে দিন
+Keep “%1$s” settled	“%1$s” মেটানো রাখুন
+Keeps the newest %1$s; older ones go only after a new one checks out	সবচেয়ে নতুন %1$sটি রাখে; নতুনটি যাচাই হলে তবেই পুরোনোগুলো মোছে
+Kept on this phone only, sealed by Android's Keystore	শুধু এই ফোনে রাখা, অ্যান্ড্রয়েডের কিস্টোরে সিল করা
+Kind	ধরন
+Kitchen-style timers that run alongside your work. They never count as work time.	রান্নাঘরের মতো টাইমার, যা আপনার কাজের পাশাপাশি চলে। এগুলো কখনো কাজের সময় হিসেবে গোনা হয় না।
+LANGUAGE	ভাষা
+LAST 12 MONTHS	গত ১২ মাস
+LAST 8 WEEKS	গত ৮ সপ্তাহ
+LAUNCHER ICON	লঞ্চার আইকন
+LINKS	লিংক
+Language & region	ভাষা ও অঞ্চল
+Lap	ল্যাপ
+Lap %1$s	ল্যাপ %1$s
+Laps	ল্যাপ
+Last 4 weeks	গত ৪ সপ্তাহ
+Last automatic backup: %1$s	শেষ স্বয়ংক্রিয় ব্যাকআপ: %1$s
+Last backup	শেষ ব্যাকআপ
+Learn to develop film at home	বাড়িতে ফিল্ম ডেভেলপ করা শিখুন
+Learning	শেখা
+Lend more	আরও ধার দিন
+Lending, borrowing and repayments move your wallets but never count as income or spending.	ধার দেওয়া, ধার নেওয়া ও শোধ আপনার ওয়ালেট বদলায় কিন্তু কখনো আয় বা খরচ হিসেবে গোনা হয় না।
+Lent someone money, or borrowed some? Keep it here with every repayment, so nobody has to remember.	কাউকে টাকা ধার দিয়েছেন, বা ধার নিয়েছেন? প্রতিটি শোধসহ এখানে রাখুন, যাতে কাউকে মনে রাখতে না হয়।
+Lent to %1$s	%1$s-কে ধার দেওয়া
+Light	হালকা
+Lighter bar: work time that day. Darker: blocks plus estimates of tasks due with no block.	হালকা দাগ: সেদিনের কাজের সময়। গাঢ়: ব্লক আর ব্লক ছাড়া বাকি কাজের আনুমানিক সময়।
+Limit (optional)	সীমা (ঐচ্ছিক)
+Line %1$s	লাইন %1$s
+Link	লিংক
+Link a saved link	একটি সংরক্ষিত লিংক জুড়ুন
+Link copied	লিংক কপি হয়েছে
+Link to a task	একটি কাজের সাথে জুড়ুন
+Links	লিংক
+Links export and import	লিংক এক্সপোর্ট ও ইমপোর্ট
+Links exported	লিংক এক্সপোর্ট হয়েছে
+List	তালিকা
+Load demo data	ডেমো তথ্য লোড করুন
+Loan	ধার
+Loan details	ধারের বিস্তারিত
+Loan movements belong to a loan — record them in Money › Loans & dues.	ধারের লেনদেন একটি ধারের অংশ — টাকা › ধার ও দেনায় লিখুন।
+Loan · not income or spending	ধার · আয় বা খরচ নয়
+Loan: %1$s	ধার: %1$s
+Loans	ধার
+Loans & dues	ধার ও দেনা
+Local-first — no account, no server, no network permission. Everything you 	লোকাল-ফার্স্ট — কোনো অ্যাকাউন্ট নেই, সার্ভার নেই, নেটওয়ার্কের অনুমতি নেই। আপনি যা
+Location: %1$s	স্থান: %1$s
+Lock now	এখনই লক করুন
+Lock this phone's copy	এই ফোনের কপিটি লক করুন
+Locked in place — rescheduling asks before moving it.	জায়গায় আটকানো — রিশিডিউল করার আগে জিজ্ঞেস করে।
+Locked — open T!ME to see details	লক করা — বিস্তারিত দেখতে T!ME খুলুন
+Long break	লম্বা বিরতি
+Long break, every %1$sth	লম্বা বিরতি, প্রতি %1$s নম্বরে
+Looks right	ঠিক আছে মনে হচ্ছে
+Loose thoughts that aren't tasks — they stay out of 	কাজ নয় এমন এলোমেলো ভাবনা — আপনি অন্য কিছু ঠিক না করা পর্যন্ত
+Low	নিচু
+Lunch with the team	দলের সাথে দুপুরের খাবার
+MONEY	টাকা
+MONEY REVIEW	টাকার পর্যালোচনা
+MONEY · LOCKED	টাকা · লক করা
+MORE	আরও
+MOTION	গতি
+MOVE FORWARD	এগিয়ে নিন
+MOVEMENTS	লেনদেনসমূহ
+MY WORKDAY	আমার কর্মদিবস
+Maintenance	রক্ষণাবেক্ষণ
+Manual order is kept — switch back any time.	হাতে সাজানো ক্রম রাখা আছে — যেকোনো সময় ফিরে যান।
+Mark %1$s done	%1$s সম্পন্ন করুন
+Mark %1$s not done	%1$s অসম্পন্ন করুন
+Mark as blocked	আটকে আছে চিহ্নিত করুন
+Mark done	সম্পন্ন করুন
+Mark finished and free %1$s	শেষ হিসেবে চিহ্নিত করে %1$s খালি করুন
+Marked blocked	আটকে আছে চিহ্নিত
+Match the accent	অ্যাকসেন্টের সাথে মিলিয়ে
+Me	আমি
+Measure it	মেপে রাখুন
+Merge into…	যার সাথে মেলাবেন…
+Merge “%1$s” into…	“%1$s” মেলান…
+Merging moves its records to another and archives it. Records with no category show as Uncategorised.	মেলালে তার তথ্যগুলো অন্যটিতে সরে যায় এবং এটি আর্কাইভ হয়। ক্যাটাগরি ছাড়া তথ্য ক্যাটাগরিহীন হিসেবে দেখায়।
+Milestones only — nothing here unlocks features, and there are no points or scores.	শুধু মাইলফলক — এখানের কিছুই কোনো সুবিধা খোলে না, আর কোনো পয়েন্ট বা স্কোর নেই।
+Minus = expense	মাইনাস = খরচ
+Minutes	মিনিট
+Missed	বাদ পড়েছে
+Missed items are surfaced when you reopen the app, not replayed as a burst of alarms.	অ্যাপ আবার খুললে বাদ পড়া বিষয়গুলো দেখানো হয়, একসাথে অনেক অ্যালার্ম বাজে না।
+Mobile	মোবাইল
+Monday	সোমবার
+Money	টাকা
+Money calendar	টাকার ক্যালেন্ডার
+Money categories and budgets	টাকার ক্যাটাগরি ও বাজেট
+Money category	টাকার ক্যাটাগরি
+Money due this week	এ সপ্তাহে বাকি টাকা
+Money report	টাকার রিপোর্ট
+Money review	টাকার পর্যালোচনা
+Money settings	টাকার সেটিংস
+Money that already moved — changes a wallet	যে টাকা আগেই সরেছে — একটি ওয়ালেট বদলায়
+Money you expect to spend — moves nothing	যে টাকা খরচ হবে বলে আশা করছেন — কিছু সরায় না
+Money you expect to spend — rent, a bill, a subscription. 	যে টাকা খরচ হবে বলে আশা করছেন — ভাড়া, একটি বিল, একটি সাবস্ক্রিপশন।
+Money you've lent or borrowed, with every repayment.	যে টাকা ধার দিয়েছেন বা নিয়েছেন, প্রতিটি শোধসহ।
+Money › Overview's planned remaining	টাকা › সারসংক্ষেপের পরিকল্পিত বাকি
+Month	মাস
+Monthly	প্রতি মাসে
+Monthly budget	মাসিক বাজেট
+Monthly budget (optional)	মাসিক বাজেট (ঐচ্ছিক)
+Monthly review	মাসিক পর্যালোচনা
+Months that already have a payment are kept.	যে মাসগুলোতে আগেই পরিশোধ হয়েছে সেগুলো রাখা হয়।
+Months that already have a payment are never changed.	যে মাসগুলোতে আগেই পরিশোধ হয়েছে সেগুলো কখনো বদলায় না।
+More	বেশি
+More for %1$s	%1$s-এর আরও বিকল্প
+Move	সরান
+Move %1$s down	%1$s নিচে সরান
+Move %1$s left	%1$s বাঁয়ে সরান
+Move %1$s right	%1$s ডানে সরান
+Move %1$s up	%1$s ওপরে সরান
+Move down	নিচে সরান
+Move to %1$s	%1$s-এ সরান
+Move to Plan	পরিকল্পনায় সরান
+Move to folder	ফোল্ডারে সরান
+Move to folder…	ফোল্ডারে সরান…
+Move to top	একদম ওপরে সরান
+Move up	ওপরে সরান
+Moved to %1$s	%1$s-এ সরানো হয়েছে
+My Workday	আমার কর্মদিবস
+NEEDS REVIEW	দেখে নেওয়া দরকার
+NET WORTH · 12 MONTHS	নিট সম্পদ · ১২ মাস
+NO TYPE COLUMN — READ AMOUNTS AS	ধরনের কলাম নেই — পরিমাণগুলো যেভাবে পড়া হবে
+NOT COUNTED — NO ESTIMATE	গোনা হয়নি — আনুমানিক সময় নেই
+Name	নাম
+Name this preset	প্রিসেটের নাম দিন
+Name, title and avatar	নাম, পদবি ও ছবি
+Navy & Lime	নেভি ও লেবুরং
+Needed by %1$s	%1$s-এর জন্য দরকার
+Needed to restore it, here or on another phone	এখানে বা অন্য ফোনে ফেরাতে এটি লাগবে
+Needs Android 12 or later.	অ্যান্ড্রয়েড ১২ বা পরের সংস্করণ লাগে।
+Needs review — it ran across a restart, a clock change or a very long stretch. Check the times.	দেখে নেওয়া দরকার — এটি রিস্টার্ট, ঘড়ি বদল বা খুব লম্বা সময় জুড়ে চলেছে। সময়গুলো যাচাই করুন।
+Net	নিট
+Net paid %1$s	নিট পরিশোধ %1$s
+Never	কখনো না
+Never backed up yet	এখনো কোনো ব্যাকআপ নেওয়া হয়নি
+New automatic backups are protected with it. T!ME can't recover a forgotten password — keep it somewhere safe.	নতুন স্বয়ংক্রিয় ব্যাকআপ এটি দিয়ে সুরক্ষিত হবে। T!ME ভুলে যাওয়া পাসওয়ার্ড উদ্ধার করতে পারে না — নিরাপদ কোথাও রাখুন।
+New category	নতুন ক্যাটাগরি
+New collection	নতুন সংগ্রহ
+New column	নতুন কলাম
+New folder	নতুন ফোল্ডার
+New goal	নতুন লক্ষ্য
+New habit	নতুন অভ্যাস
+New idea	নতুন আইডিয়া
+New laptop	নতুন ল্যাপটপ
+New link	নতুন লিংক
+New loan	নতুন ধার
+New money category	নতুন টাকার ক্যাটাগরি
+New planned cost	নতুন পরিকল্পিত খরচ
+New project	নতুন প্রজেক্ট
+New savings goal	নতুন সঞ্চয়ের লক্ষ্য
+New schedule block	নতুন সময়-ব্লক
+New task	নতুন কাজ
+New timer	নতুন টাইমার
+New transaction	নতুন লেনদেন
+New wallet	নতুন ওয়ালেট
+New work category	নতুন কাজের ক্যাটাগরি
+Next 7 days	আগামী ৭ দিন
+Next day	পরের দিন
+Next month	পরের মাস
+Next on your schedule	আপনার সময়সূচিতে পরেরটি
+Next step	পরের ধাপ
+Next steps	পরের ধাপ
+Next week	পরের সপ্তাহ
+No active habits yet.	এখনো কোনো চালু অভ্যাস নেই।
+No app can open this link	এই লিংক খোলার মতো কোনো অ্যাপ নেই
+No app here can open that file.	এখানের কোনো অ্যাপ ফাইলটি খুলতে পারে না।
+No automatic backup yet	এখনো কোনো স্বয়ংক্রিয় ব্যাকআপ নেই
+No bills due in the next 7 days	আগামী ৭ দিনে কোনো বিল নেই
+No bookmarks found in that file.	ফাইলটিতে কোনো বুকমার্ক পাওয়া যায়নি।
+No category called %1$s	%1$s নামে কোনো ক্যাটাগরি নেই
+No confetti or tick animation. The milestone banner still shows.	কোনো কনফেটি বা টিক অ্যানিমেশন নেই। মাইলফলকের ব্যানার তবুও দেখায়।
+No date	তারিখ নেই
+No due date	শেষ তারিখ নেই
+No due date, no estimate, no reminder. Add those later by moving it to Plan.	শেষ তারিখ নেই, আনুমানিক সময় নেই, রিমাইন্ডার নেই। পরিকল্পনায় সরিয়ে পরে এগুলো যোগ করুন।
+No end time — an hour assumed	শেষের সময় নেই — এক ঘণ্টা ধরা হয়েছে
+No events found — is it an .ics calendar file?	কোনো ইভেন্ট পাওয়া যায়নি — এটি কি .ics ক্যালেন্ডার ফাইল?
+No folder is chosen.	কোনো ফোল্ডার বেছে নেওয়া হয়নি।
+No free slot in the next two weeks' work hours.	আগামী দুই সপ্তাহের কাজের সময়ে কোনো খালি সময় নেই।
+No free slot of %1$s in your work hours over the next two weeks.	আগামী দুই সপ্তাহে আপনার কাজের সময়ে %1$s-এর কোনো খালি সময় নেই।
+No habits yet	এখনো কোনো অভ্যাস নেই
+No limit	সীমা নেই
+No links saved yet	এখনো কোনো লিংক সংরক্ষিত নেই
+No links yet — add one from your saved links.	এখনো কোনো লিংক নেই — আপনার সংরক্ষিত লিংক থেকে একটি যোগ করুন।
+No loans	কোনো ধার নেই
+No matches	কিছু মেলেনি
+No matches for "%1$s".	"%1$s"-এর জন্য কিছু মেলেনি।
+No notes yet	এখনো কোনো নোট নেই
+No open task to link to.	জোড়ার মতো কোনো খোলা কাজ নেই।
+No open tasks to choose. Add one first.	বাছার মতো কোনো খোলা কাজ নেই। আগে একটি যোগ করুন।
+No planned cost matches this filter right now.	এই মুহূর্তে এই ফিল্টারে কোনো পরিকল্পিত খরচ মেলেনি।
+No planned costs yet	এখনো কোনো পরিকল্পিত খরচ নেই
+No prior baseline	আগের কোনো তুলনা নেই
+No project	কোনো প্রজেক্ট নয়
+No recorded transaction %1$smatches these filters.	%1$sএই ফিল্টারগুলোর সাথে কোনো লেনদেন মেলেনি।
+No saved link matches this search or filter.	এই খোঁজ বা ফিল্টারে কোনো সংরক্ষিত লিংক মেলেনি।
+No saved link to add. Save one in Links first.	যোগ করার মতো কোনো সংরক্ষিত লিংক নেই। আগে লিংক-এ একটি রাখুন।
+No savings goals yet	এখনো কোনো সঞ্চয়ের লক্ষ্য নেই
+No sessions yet	এখনো কোনো সেশন নেই
+No setting matches “%1$s”	“%1$s”-এর সাথে কোনো সেটিং মেলেনি
+No spending in this period.	এই সময়ে কোনো খরচ নেই।
+No start time	শুরুর সময় নেই
+No steps yet.	এখনো কোনো ধাপ নেই।
+No target	লক্ষ্য নেই
+No target set — tap to set hours a week.	কোনো লক্ষ্য নেই — সপ্তাহে কত ঘণ্টা তা ঠিক করতে ট্যাপ করুন।
+No task	কোনো কাজ নয়
+No task fits. Finished tasks, and ones that already wait on this one, can't be added.	কোনো কাজ মানায় না। শেষ হওয়া কাজ আর যেগুলো আগেই এর অপেক্ষায় আছে সেগুলো যোগ করা যায় না।
+No task matches this filter right now.	এই মুহূর্তে এই ফিল্টারে কোনো কাজ মেলেনি।
+No task — just focus	কোনো কাজ নয় — শুধু ফোকাস
+No timers	কোনো টাইমার নেই
+No title	শিরোনাম নেই
+No tracked time in this period.	এই সময়ে কোনো গোনা সময় নেই।
+No wallet to pay from yet. Add one from Money › Overview first.	পরিশোধের মতো এখনো কোনো ওয়ালেট নেই। আগে টাকা › সারসংক্ষেপ থেকে একটি যোগ করুন।
+No wallets yet — add one first (Add › Wallet). A transaction has to move money somewhere.	এখনো কোনো ওয়ালেট নেই — আগে একটি যোগ করুন (যোগ করুন › ওয়ালেট)। লেনদেনে টাকা কোথাও যেতে হয়।
+No work was interrupted in this period.	এই সময়ে কোনো কাজে বাধা পড়েনি।
+None	কিছু নয়
+None yet.	এখনো কিছু নেই।
+None yet. Photos and PDFs up to 10 MB; a copy is kept in T!ME and in your backups.	এখনো কিছু নেই। ১০ MB পর্যন্ত ছবি ও PDF; একটি কপি T!ME-এ ও আপনার ব্যাকআপে রাখা হয়।
+Normal	সাধারণ
+Not available yet — needs a launcher icon per colourway, which this build doesn't ship.	এখনো পাওয়া যায় না — প্রতিটি রঙের জন্য লঞ্চার আইকন লাগে, যা এই বিল্ডে নেই।
+Not chosen	বাছাই করা হয়নি
+Not enough data	যথেষ্ট তথ্য নেই
+Not enough data for a rate yet	হার বের করার মতো যথেষ্ট তথ্য এখনো নেই
+Not now	এখন না
+Not running · counts toward today's active work once started	চলছে না · শুরু করলে আজকের সক্রিয় কাজে গোনা হবে
+Not set	ঠিক করা নেই
+Not set yet — alerts ignore it until you set it	এখনো ঠিক করা নেই — ঠিক না করা পর্যন্ত সতর্কতা এটিকে উপেক্ষা করে
+Not supported, left out: 	সমর্থিত নয়, বাদ দেওয়া হয়েছে:
+Not work time	কাজের সময় নয়
+Not work time · ends %1$s	কাজের সময় নয় · শেষ %1$s
+Note	নোট
+Notes	নোট
+Notes for this task…	এই কাজের নোট…
+Nothing %1$s either	%1$s-ও কিছু ছিল না
+Nothing due today	আজ কিছু বাকি নেই
+Nothing due today — done or resting	আজ কিছু বাকি নেই — হয়ে গেছে বা ছুটি
+Nothing else is planned or unscheduled right now.	এখন আর কিছু পরিকল্পিত বা অনির্ধারিত নেই।
+Nothing here	এখানে কিছু নেই
+Nothing here is scheduled or due. Ever.	এখানের কিছুই নির্ধারিত বা বাকি নয়। কখনোই না।
+Nothing here yet	এখানে এখনো কিছু নেই
+Nothing in the next %1$s days.	আগামী %1$s দিনে কিছু নেই।
+Nothing left for today	আজকের জন্য আর কিছু নেই
+Nothing left to schedule — the time already tracked covers the estimate.	নির্ধারণের কিছু বাকি নেই — গোনা সময়েই আনুমানিক সময় পূরণ হয়েছে।
+Nothing logged yet today.	আজ এখনো কিছু লেখা হয়নি।
+Nothing marked done today yet.	আজ এখনো কিছু সম্পন্ন চিহ্নিত হয়নি।
+Nothing marked high	উঁচু চিহ্নিত কিছু নেই
+Nothing moves until you apply, and an Undo appears right after. 	আপনি প্রয়োগ না করা পর্যন্ত কিছুই সরে না, আর ঠিক পরেই ফিরিয়ে আনার সুযোগ থাকে।
+Nothing moves until you apply, and you can undo it right after. Elapsed history is never rewritten — only unused future allocation.	আপনি প্রয়োগ না করা পর্যন্ত কিছুই সরে না, আর ঠিক পরেই ফিরিয়ে আনতে পারবেন। পেরিয়ে যাওয়া সময়ের ইতিহাস কখনো বদলায় না — শুধু ভবিষ্যতের অব্যবহৃত সময়।
+Nothing on today	আজ কিছু নেই
+Nothing overdue	কিছুরই সময় পেরোয়নি
+Nothing planned	কিছু পরিকল্পিত নেই
+Nothing planned yet	এখনো কিছু পরিকল্পিত নেই
+Nothing recorded this month	এ মাসে কিছু লেখা হয়নি
+Nothing recorded yet	এখনো কিছু লেখা হয়নি
+Nothing recorded.	কিছু লেখা হয়নি।
+Nothing running	কিছু চলছে না
+Nothing running · %1$s is paused	কিছু চলছে না · %1$s থামানো আছে
+Nothing scheduled or due this day.	এদিন কিছু নির্ধারিত বা বাকি নেই।
+Nothing shown this day — some kinds are filtered out.	এদিন কিছু দেখানো হচ্ছে না — কিছু ধরন ফিল্টারে বাদ।
+Nothing stays outstanding	কিছুই বাকি থাকে না
+Nothing unfinished right now.	এখন অসমাপ্ত কিছু নেই।
+Nothing unscheduled	অনির্ধারিত কিছু নেই
+Nothing unscheduled or overdue.	অনির্ধারিত বা সময় পেরোনো কিছু নেই।
+Nothing was due	কিছু বাকি ছিল না
+Nothing — it can start any time.	কিছু না — যেকোনো সময় শুরু হতে পারে।
+Notification channels	নোটিফিকেশন চ্যানেল
+Notifications	নোটিফিকেশন
+Notifications are turned off	নোটিফিকেশন বন্ধ করা আছে
+Now	এখনই
+Now a project in Plan	এখন পরিকল্পনায় একটি প্রজেক্ট
+Numbered list	সংখ্যাযুক্ত তালিকা
+OK	ঠিক আছে
+OVERDUE	সময় পেরিয়েছে
+OWED TO YOU	আপনি পাবেন
+Off	বন্ধ
+Off by default — you choose when to continue	শুরুতে বন্ধ — কখন চালিয়ে যাবেন আপনি ঠিক করেন
+Off: the home-screen widget hides your balance	বন্ধ: হোম স্ক্রিনের উইজেট আপনার ব্যালেন্স লুকায়
+Oldest on the left; this week on the right.	সবচেয়ে পুরোনো বাঁয়ে; এ সপ্তাহ ডানে।
+On	চালু
+On a break — not work time	বিরতিতে — কাজের সময় নয়
+On duty	দায়িত্বে
+Once a month	মাসে একবার
+Once a week	সপ্তাহে একবার
+Once a week, any day	সপ্তাহে একবার, যেকোনো দিন
+One month	এক মাস
+One timestamp closes the current segment and opens the next. No overlap, nothing lost.	একটি মুহূর্তেই বর্তমান অংশ বন্ধ হয়ে পরেরটি খোলে। কোনো মিল নেই, কিছু হারায় না।
+Only how T!ME reads. Your own text, amounts, backups and exports stay as they are.	শুধু T!ME কীভাবে লেখা দেখায়। আপনার নিজের লেখা, পরিমাণ, ব্যাকআপ ও এক্সপোর্ট যেমন আছে তেমন থাকে।
+Only how amounts look. Stored amounts never change.	শুধু পরিমাণ দেখতে কেমন। সংরক্ষিত পরিমাণ কখনো বদলায় না।
+Only one work session runs at a time. A utility timer with no task attached is tracked separately and never counted as work twice.	একবারে শুধু একটি কাজের সেশন চলে। কাজ ছাড়া একটি সাধারণ টাইমার আলাদাভাবে চলে, কখনো কাজ হিসেবে দুবার গোনা হয় না।
+Only one work timer runs at a time. Finish it there to start another kind.	একবারে শুধু একটি কাজের টাইমার চলে। অন্য ধরন শুরু করতে সেখানে এটি শেষ করুন।
+Only the preset goes; nothing you've tracked changes.	শুধু প্রিসেটটি যাবে; আপনার গোনা সময়ে কিছু বদলাবে না।
+Only the saved filter goes. No task changes.	শুধু সংরক্ষিত ফিল্টারটি যাবে। কোনো কাজ বদলায় না।
+Only web links (http or https) can be saved.	শুধু ওয়েব লিংক (http বা https) সংরক্ষণ করা যায়।
+Open	খুলুন
+Open backup	ব্যাকআপ খুলুন
+Open receipt	রসিদ খুলুন
+Open system setting	সিস্টেম সেটিং খুলুন
+Open the %1$s	%1$s খুলুন
+Opening balance	শুরুর ব্যালেন্স
+Opening balance (Tk)	শুরুর ব্যালেন্স (টাকা)
+Opening…	খোলা হচ্ছে…
+Other (minutes)	অন্য (মিনিট)
+Other blocks, your work hours and the tasks this one waits on are 	নতুন সময় প্রস্তাবের সময় অন্য ব্লক, আপনার কাজের সময় ও যে কাজের অপেক্ষায় এটি আছে
+Out · %1$s	গেছে · %1$s
+Outstanding	বাকি
+Over its limit of %1$s	সীমা %1$s ছাড়িয়েছে
+Overdue	সময় পেরিয়েছে
+Overdue %1$s	সময় পেরিয়েছে %1$s
+Overdue %1$sd	%1$s দিন পেরিয়েছে
+Overdue carryover	বকেয়া পরিকল্পনা
+Overdue carryover in the forecast	পূর্বাভাসে বকেয়া পরিকল্পনা
+Overlaps “%1$s”	“%1$s”-এর সাথে মিলে যায়
+Overlaps “%1$s”. Adding keeps both — nothing is moved.	“%1$s”-এর সাথে মিলে যায়। যোগ করলে দুটোই থাকে — কিছুই সরে না।
+Override the estimate	আনুমানিক সময় বদলে দিন
+Overview	সারসংক্ষেপ
+Owed to you	আপনি পাবেন
+Owed to you %1$s · you owe %2$s	আপনি পাবেন %1$s · আপনি দেবেন %2$s
+PAID FROM	যেখান থেকে পরিশোধ
+PAUSING	থামানো হচ্ছে
+PERSONAL	ব্যক্তিগত
+PIN and biometric unlock	পিন ও বায়োমেট্রিক আনলক
+PIN lock	পিন লক
+PIN set	পিন দেওয়া হয়েছে
+PINNED	পিন করা
+PINs didn't match — try again.	পিন মেলেনি — আবার চেষ্টা করুন।
+PLANNED VS ACTUAL	পরিকল্পিত বনাম আসল
+POMODORO	পোমোডোরো
+PREFERENCES	পছন্দ
+PRESETS	প্রিসেট
+PROJECTS	প্রজেক্ট
+PROPOSED — NOT SAVED YET	প্রস্তাবিত — এখনো সংরক্ষিত নয়
+Paid + planned so far this month	এ মাসে এ পর্যন্ত পরিশোধ + পরিকল্পিত
+Paid out of	যে ওয়ালেট থেকে গেছে
+Paid this month	এ মাসে পরিশোধ
+Partly paid	আংশিক পরিশোধ
+Password	পাসওয়ার্ড
+Paste a URL, or share to T!ME from a browser	একটি URL পেস্ট করুন, অথবা ব্রাউজার থেকে T!ME-এ শেয়ার করুন
+Paste a URL, or share to T!ME from a browser.	একটি URL পেস্ট করুন, অথবা ব্রাউজার থেকে T!ME-এ শেয়ার করুন।
+Pause	থামান
+Pause %1$s	%1$s থামান
+Pause break	বিরতি থামান
+Pause it	থামিয়ে রাখুন
+Paused	থামানো
+Paused work	থামানো কাজ
+Paused · 	থামানো ·
+Paused · counts toward today's active work while running	থামানো · চললে আজকের সক্রিয় কাজে গোনা হয়
+Paused · of %1$s min	থামানো · %1$s মিনিটের মধ্যে
+Pay more than is outstanding?	বাকির চেয়ে বেশি পরিশোধ করবেন?
+Payment date	পরিশোধের তারিখ
+Payments and transactions you record show up here, newest first.	আপনার লেখা পরিশোধ ও লেনদেন এখানে দেখায়, নতুনগুলো আগে।
+Per month	মাসে
+Per week	সপ্তাহে
+Person	ব্যক্তি
+Personal	ব্যক্তিগত
+Phone default	ফোনের ডিফল্ট
+Pick a .zip you made earlier and replace what's on this phone.	আগে তৈরি করা একটি .zip বাছুন এবং এই ফোনের সবকিছু তা দিয়ে বদলে দিন।
+Pick a due date above to repeat this.	এটি পুনরাবৃত্তি করতে ওপরে একটি শেষ তারিখ বাছুন।
+Pick a due date above to reserve a block on that day.	সেদিন একটি ব্লক রাখতে ওপরে একটি শেষ তারিখ বাছুন।
+Pick a due date above — a reminder needs a day to fire on.	ওপরে একটি শেষ তারিখ বাছুন — রিমাইন্ডারের জন্য একটি দিন লাগে।
+Pick a photo from this device,\nor keep the initial.	এই ডিভাইস থেকে একটি ছবি বাছুন,
+Pick a time myself	নিজে সময় বাছব
+Pick at least one day.	অন্তত একটি দিন বাছুন।
+Pick something small you want to do regularly — every day, on set days, 	নিয়মিত করতে চান এমন ছোট কিছু বাছুন — প্রতিদিন, নির্দিষ্ট দিনে,
+Pick up to %1$s things that would make today count.	আজকের দিনটি সার্থক করবে এমন সর্বোচ্চ %1$sটি জিনিস বাছুন।
+Places	জায়গা
+Plain ratios from your own records. No points, no levels — each one shows how it's worked out.	আপনার নিজের তথ্য থেকে সরল অনুপাত। কোনো পয়েন্ট নেই, লেভেল নেই — প্রতিটি কীভাবে হিসাব হলো তা দেখায়।
+Plan	পরিকল্পনা
+Plan completion	পরিকল্পনা পূরণ
+Planned	পরিকল্পিত
+Planned %1$s · actual %2$s · 	পরিকল্পিত %1$s · আসল %2$s ·
+Planned cost	পরিকল্পিত খরচ
+Planned cost due, projected overspend	পরিকল্পিত খরচের দিন, বাজেট ছাড়ানোর পূর্বাভাস
+Planned hours	পরিকল্পিত ঘণ্টা
+Planned remaining	পরিকল্পিত বাকি
+Planning	পরিকল্পনা
+Pomodoro	পোমোডোরো
+Pomodoro focus · cycle %1$s of %2$s	পোমোডোরো ফোকাস · %2$s-এর মধ্যে %1$s নম্বর চক্র
+Pomodoro lengths	পোমোডোরোর দৈর্ঘ্য
+Pomodoro lengths, alarm-style ringing, presets	পোমোডোরোর দৈর্ঘ্য, অ্যালার্মের মতো বাজা, প্রিসেট
+Pomodoro · %1$s + %2$s	পোমোডোরো · %1$s + %2$s
+Possible duplicate — tick to import anyway	সম্ভবত দ্বৈত — তবুও ইমপোর্ট করতে টিক দিন
+Posted balance	লেখা ব্যালেন্স
+Posts immediately and moves the wallet balance — unlike a planned cost, this already happened.	সঙ্গে সঙ্গে লেখা হয় এবং ওয়ালেটের ব্যালেন্স বদলায় — পরিকল্পিত খরচের মতো নয়, এটি আগেই ঘটে গেছে।
+Preselected when you record money	টাকা লেখার সময় আগে থেকে বাছাই থাকে
+Preview	প্রিভিউ
+Previous day	আগের দিন
+Previous month	আগের মাস
+Previous week	আগের সপ্তাহ
+Priority	অগ্রাধিকার
+Profile	প্রোফাইল
+Project	প্রজেক্ট
+Project: 	প্রজেক্ট:
+Project: %1$s	প্রজেক্ট: %1$s
+Projects	প্রজেক্ট
+Protect T!ME with a 6-digit PIN.	T!ME-কে একটি পিন দিয়ে সুরক্ষিত করুন।
+Protect with a password	পাসওয়ার্ড দিয়ে সুরক্ষিত করুন
+Protected	সুরক্ষিত
+Pure black	একদম কালো
+QUICK START	দ্রুত শুরু
+Quick-capture into this collection to see it here.	এখানে দেখতে এই সংগ্রহে দ্রুত কিছু লিখে রাখুন।
+Quiet hours	নীরব সময়
+Quote	উদ্ধৃতি
+RECENT IN THIS WALLET	এই ওয়ালেটে সাম্প্রতিক
+RECENTLY WORKED ON	সম্প্রতি যেগুলোতে কাজ হয়েছে
+RESPECTED	মেনে চলা হয়েছে
+REST DAYS	ছুটির দিন
+Rang · %1$s min	বেজেছে · %1$s মিনিট
+Reached · 	পৌঁছেছে ·
+Read 20 pages	২০ পৃষ্ঠা পড়া
+Reading	পড়া
+Ready	প্রস্তুত
+Ready for the next focus phase%1$s?	পরের ফোকাস ধাপের জন্য প্রস্তুত%1$s?
+Receipts	রসিদ
+Receipts (%1$s)	রসিদ (%1$s)
+Receipts · %1$s	রসিদ · %1$s
+Received into	যে ওয়ালেটে এসেছে
+Recently touched	সম্প্রতি ছোঁয়া
+Record %1$s payment	%1$s পরিশোধ লিখুন
+Record %1$s refund	%1$s ফেরত লিখুন
+Record an amount each day — pages, glasses, minutes.	প্রতিদিন একটি পরিমাণ লিখুন — পৃষ্ঠা, গ্লাস, মিনিট।
+Record it	লিখুন
+Record payment	পরিশোধ লিখুন
+Record refund	ফেরত লিখুন
+Record repayment	শোধ লিখুন
+Recorded as a separate expense from the first wallet — the transfer itself isn't spending.	প্রথম ওয়ালেট থেকে আলাদা খরচ হিসেবে লেখা হয় — ট্রান্সফার নিজে খরচ নয়।
+Redact content	বিস্তারিত লুকান
+Redo	আবার করুন
+Reduce celebrations	উদযাপন কমান
+Refund	ফেরত
+Refund amount	ফেরতের পরিমাণ
+Refund · back into %1$s	ফেরত · %1$s-এ ফিরেছে
+Refund: %1$s	ফেরত: %1$s
+Refunded in full	পুরোটা ফেরত হয়েছে
+Refunds	ফেরত
+Refunds need their original expense — record them from History.	ফেরতের জন্য মূল খরচটি লাগে — ইতিহাস থেকে লিখুন।
+Remaining	বাকি
+Remaining work	বাকি কাজ
+Remind me	মনে করিয়ে দিন
+Remind me on the day	সেদিন মনে করান
+Remind me to back up	ব্যাকআপের কথা মনে করান
+Remind me to back up after	এত দিন পর ব্যাকআপের কথা মনে করান
+Remind me tomorrow	কাল মনে করান
+Reminders are still scheduled and kept, but nothing can be shown until you allow notifications.	রিমাইন্ডার তবুও নির্ধারিত ও রাখা থাকে, কিন্তু নোটিফিকেশনের অনুমতি না দেওয়া পর্যন্ত কিছু দেখানো যাবে না।
+Reminders can fire at the exact minute you set.	রিমাইন্ডার আপনার ঠিক করা মিনিটেই বাজতে পারে।
+Reminders still arrive, silently — never dropped. Timers still ring.	রিমাইন্ডার তবুও আসে, নিঃশব্দে — কখনো বাদ পড়ে না। টাইমার তবুও বাজে।
+Reminders will fire approximately — usually within a few minutes of the set time.	রিমাইন্ডার মোটামুটি সময়ে বাজবে — সাধারণত নির্ধারিত সময়ের কয়েক মিনিটের মধ্যে।
+Remove	সরান
+Remove from favourites	প্রিয় থেকে সরান
+Remove saved filter	সংরক্ষিত ফিল্টার সরান
+Remove step	ধাপ সরান
+Remove tag %1$s	%1$s ট্যাগ সরান
+Remove this receipt?	এই রসিদ সরাবেন?
+Remove “%1$s”?	“%1$s” সরাবেন?
+Removes every task, record, idea and link. Your settings and app lock stay. Back up first if you might want any of it.	সব কাজ, হিসাব, আইডিয়া ও লিংক মুছে দেয়। আপনার সেটিংস ও অ্যাপ লক থাকে। কিছু দরকার হতে পারে মনে হলে আগে ব্যাকআপ নিন।
+Rename	নাম বদলান
+Rename wallet	ওয়ালেটের নাম বদলান
+Rename, recolour or icon	নাম, রং বা আইকন বদলান
+Reopen	আবার খুলুন
+Reopen it	আবার খুলুন
+Reopened	আবার খোলা
+Reorder	সাজান
+Repaid %1$s	%1$s-কে শোধ
+Repaid by %1$s	%1$s শোধ করেছেন
+Repeat	পুনরাবৃত্তি
+Repeat days "%1$s" can't be followed — only the first occurrence is imported	পুনরাবৃত্তির দিন "%1$s" অনুসরণ করা যায় না — শুধু প্রথমটি ইমপোর্ট হবে
+Repeat rule uses %1$s — only the first occurrence is imported	পুনরাবৃত্তির নিয়মে %1$s আছে — শুধু প্রথমটি ইমপোর্ট হবে
+Repeats %1$s T!ME can't follow — only the first occurrence is imported	%1$s পুনরাবৃত্তি হয় যা T!ME অনুসরণ করতে পারে না — শুধু প্রথমটি ইমপোর্ট হবে
+Reports & goals	রিপোর্ট ও লক্ষ্য
+Reschedule	রিশিডিউল
+Reserve start and end time — not a deadline	শুরু ও শেষের সময় রাখুন — এটি শেষ তারিখ নয়
+Reset %1$s	%1$s রিসেট করুন
+Reset PIN?	পিন রিসেট করবেন?
+Reset laps	ল্যাপ মুছুন
+Rest	ছুটি
+Rest day	ছুটির দিন
+Rest days	ছুটির দিন
+Rest days are excluded from consistency targets — they never read as a missed day.	ছুটির দিন নিয়মিততার লক্ষ্যের বাইরে — কখনো বাদ পড়া দিন হিসেবে গোনা হয় না।
+Rest days, days before a habit started and today (until it's done) never count as misses.	ছুটির দিন, অভ্যাস শুরুর আগের দিন আর আজ (শেষ না হওয়া পর্যন্ত) কখনো বাদ পড়া হিসেবে গোনা হয় না।
+Rest days: mark a day as rest from the habit's day strip. A rest day never breaks a streak.	ছুটির দিন: অভ্যাসের দিনের সারি থেকে একটি দিনকে ছুটি চিহ্নিত করুন। ছুটির দিন কখনো ধারা ভাঙে না।
+Restore	ফিরিয়ে আনুন
+Restore a backup	ব্যাকআপ থেকে ফেরান
+Restore backup	ব্যাকআপ ফেরান
+Restore from backup	ব্যাকআপ থেকে ফেরান
+Restore will ask you to unlock again before it replaces anything.	কিছু বদলানোর আগে ফেরানোর সময় আবার আনলক করতে বলা হবে।
+Restored your unsaved draft.	আপনার অসংরক্ষিত খসড়া ফিরিয়ে আনা হয়েছে।
+Resume	আবার শুরু
+Resume break	বিরতি আবার চালু
+Resume day	দিন আবার শুরু
+Resume it	আবার শুরু করুন
+Resume note	আবার শুরুর নোট
+Resume work	কাজ আবার শুরু
+Resume: %1$s	আবার শুরু: %1$s
+Resumed	আবার শুরু
+Review	দেখুন
+Review day	দিনের পর্যালোচনা
+Ring like an alarm	অ্যালার্মের মতো বাজুক
+Run %1$s again	%1$s আবার চালান
+Running timer	চলমান টাইমার
+SAVE TO	যেখানে রাখবেন
+SPENDING BY CATEGORY	ক্যাটাগরি অনুযায়ী খরচ
+START INSTEAD	বরং এটি শুরু করুন
+STARTS	শুরু
+STEP 1 OF 3	ধাপ ১ / ৩
+STEP 2 OF 3	ধাপ ২ / ৩
+STEP 3 OF 3	ধাপ ৩ / ৩
+Same as %1$s	%1$s-এর সমান
+Same password again	একই পাসওয়ার্ড আবার
+Sample tasks, bills and wallets to try the app with. Only works while the app is empty, so it can never mix into your own records.	অ্যাপটি চেষ্টা করে দেখার জন্য নমুনা কাজ, বিল ও ওয়ালেট। অ্যাপ খালি থাকলেই কাজ করে, তাই কখনো আপনার নিজের তথ্যের সাথে মেশে না।
+Saturday	শনিবার
+Save	সংরক্ষণ
+Save as bookmark	বুকমার্ক হিসেবে রাখুন
+Save as preset	প্রিসেট হিসেবে রাখুন
+Save one from Countdown or Pomodoro in Focus.	ফোকাসের কাউন্টডাউন বা পোমোডোরো থেকে একটি রাখুন।
+Save repeating cost	পুনরাবৃত্ত খরচ সংরক্ষণ
+Save repeating task	পুনরাবৃত্ত কাজ সংরক্ষণ
+Save review	পর্যালোচনা সংরক্ষণ
+Save this filter	এই ফিল্টার রাখুন
+Saves everything to a location you choose — with a password if you like, so it can only be restored by someone who knows it.	সবকিছু আপনার বাছাই করা জায়গায় সংরক্ষণ করে — চাইলে পাসওয়ার্ড দিয়ে, যাতে শুধু যিনি জানেন তিনিই ফেরাতে পারেন।
+Saving a task never starts a timer.	কাজ সংরক্ষণ করলে কখনো টাইমার চালু হয় না।
+Saving this plan does not post a transaction or change any wallet. Balances only move when you record a payment.	এই পরিকল্পনা সংরক্ষণ করলে কোনো লেনদেন হয় না, কোনো ওয়ালেট বদলায় না। পরিশোধ লিখলে তবেই ব্যালেন্স বদলায়।
+Savings goals	সঞ্চয়ের লক্ষ্য
+Say why the times changed — it's kept with the original.	সময় কেন বদলালেন তা লিখুন — মূল সময়ের সাথে এটি রাখা হয়।
+Say why — it's kept with the original times.	কেন তা লিখুন — মূল সময়ের সাথে এটি রাখা হয়।
+Schedule	সময়সূচি
+Schedule block	সময়-ব্লক
+Schedule remaining	বাকিটা নির্ধারণ করুন
+Schedule the remaining %1$s after	বাকি %1$s নির্ধারণ করুন এর পরে
+Search	খুঁজুন
+Search links	লিংক খুঁজুন
+Search note, payee or amount	নোট, প্রাপক বা পরিমাণ খুঁজুন
+Search settings	সেটিংস খুঁজুন
+Search tasks	কাজ খুঁজুন
+Search tasks, plans, ideas, links	কাজ, পরিকল্পনা, আইডিয়া, লিংক খুঁজুন
+Search title, address or note	শিরোনাম, ঠিকানা বা নোট খুঁজুন
+Second part: %1$s	দ্বিতীয় অংশ: %1$s
+Second part: %1$s min	দ্বিতীয় অংশ: %1$s মিনিট
+Security & app lock	নিরাপত্তা ও অ্যাপ লক
+Send a test notification	একটি পরীক্ষামূলক নোটিফিকেশন পাঠান
+Sep 28	সেপ্টে ২৮
+Session history	সেশনের ইতিহাস
+Sessions	সেশন
+Set a PIN	একটি পিন দিন
+Set a due date above to repeat this bill.	এই বিলটি পুনরাবৃত্তি করতে ওপরে একটি শেষ তারিখ দিন।
+Set a due date above — a reminder needs a day to fire on.	ওপরে একটি শেষ তারিখ দিন — রিমাইন্ডারের জন্য একটি দিন লাগে।
+Set an estimate to see proposed slots.	প্রস্তাবিত সময় দেখতে একটি আনুমানিক সময় দিন।
+Set app PIN	অ্যাপের পিন ঠিক করুন
+Set aside	আলাদা রাখুন
+Set aside for %1$s	%1$s-এর জন্য আলাদা রাখুন
+Set aside for goals	লক্ষ্যের জন্য আলাদা রাখা
+Set by Android for the Timer alarms channel	টাইমার অ্যালার্ম চ্যানেলের জন্য অ্যান্ড্রয়েড ঠিক করে
+Set days	নির্দিষ্ট দিন
+Set money aside toward something — it stays in your wallets.	কোনো কিছুর জন্য টাকা আলাদা রাখুন — তা আপনার ওয়ালেটেই থাকে।
+Set when it ended	কখন শেষ হয়েছিল ঠিক করুন
+Settings	সেটিংস
+Settings › Categories	সেটিংস › ক্যাটাগরি
+Settled	মেটানো
+Settled at %1$s · %2$s the %3$s estimate. 	%1$s-এ মেটানো · %3$s আনুমানিক খরচের %2$s।
+Seven-day habit streak	সাত দিনের অভ্যাসের ধারা
+Share	শেয়ার করুন
+Short break	ছোট বিরতি
+Short break minutes	ছোট বিরতির মিনিট
+Show all	সব দেখান
+Show amounts on the Money widget	টাকার উইজেটে পরিমাণ দেখান
+Shows on Today every day.	প্রতিদিন আজ-এ দেখায়।
+Shows on Today on the days you pick; other days never count.	আপনার বাছাই করা দিনগুলোতে আজ-এ দেখায়; অন্য দিন গোনা হয় না।
+Shows on Today until this month's target is met. The streak counts months.	এ মাসের লক্ষ্য পূরণ না হওয়া পর্যন্ত আজ-এ দেখায়। ধারা গোনা হয় মাসে।
+Shows on Today until this week's target is met. The streak counts weeks.	এ সপ্তাহের লক্ষ্য পূরণ না হওয়া পর্যন্ত আজ-এ দেখায়। ধারা গোনা হয় সপ্তাহে।
+Skip break	বিরতি বাদ দিন
+Skip for now	এখন বাদ দিন
+Skip that month	সেই মাস বাদ দিন
+Skip to break	বিরতিতে চলে যান
+Skip to focus	ফোকাসে চলে যান
+Snooze 10 min	১০ মিনিট পরে
+Snooze 5 min	৫ মিনিট পরে
+Something to do regularly — keep a streak going	নিয়মিত করার মতো কিছু — ধারা চালু রাখুন
+Sort: %1$s	সাজানো: %1$s
+Sound & vibration	শব্দ ও ভাইব্রেশন
+Sparks	ঝলক
+Spent	খরচ
+Spent %1$s · earned %2$s	খরচ %1$s · আয় %2$s
+Spent this month	এ মাসে খরচ
+Spent this week	এ সপ্তাহে খরচ
+Split	ভাগ করুন
+Start	শুরু করুন
+Start %1$s	%1$s শুরু করুন
+Start %1$s min	%1$s মিনিট শুরু
+Start a blocked task?	আটকে থাকা একটি কাজ শুরু করবেন?
+Start a task or a Focus timer — each stretch of work shows up here, where you can fix its times or add a note.	একটি কাজ বা ফোকাস টাইমার শুরু করুন — প্রতিটি কাজের সময় এখানে দেখাবে, যেখানে সময় ঠিক করতে বা নোট যোগ করতে পারবেন।
+Start a timer from Today; when it rings, the day is checked off.	আজ থেকে একটি টাইমার চালান; বাজলে দিনটিতে টিক পড়বে।
+Start anyway	তবুও শুরু করুন
+Start before what it waits on?	যার অপেক্ষায় আছে তার আগেই শুরু করবেন?
+Start break	বিরতি শুরু
+Start day	দিন শুরু
+Start focus	ফোকাস শুরু
+Start one	একটি শুরু করুন
+Start the next phase by itself	পরের ধাপ নিজে থেকে শুরু
+Start typing to search across tasks, habits, plans, ideas and links.	কাজ, অভ্যাস, পরিকল্পনা, আইডিয়া ও লিংক জুড়ে খুঁজতে লিখতে শুরু করুন।
+Start work	কাজ শুরু
+Start, breaks, end and the timeline	শুরু, বিরতি, শেষ আর সময়রেখা
+Started	শুরু
+Started %1$s · counts toward today's active work	%1$s-এ শুরু · আজকের সক্রিয় কাজে গোনা হচ্ছে
+Started while blocked	আটকে থাকা অবস্থায় শুরু
+Starting it moves it to Doing and starts tracking time.	শুরু করলে এটি চলছে-তে যাবে এবং সময় গোনা শুরু হবে।
+Starting soon	শিগগির শুরু
+Starts %1$s	শুরু %1$s
+Starts after “%1$s” ends, %2$s	“%1$s” শেষ হওয়ার পর শুরু, %2$s
+Starts and ends at the same moment — give it some length.	একই মুহূর্তে শুরু ও শেষ — কিছু দৈর্ঘ্য দিন।
+Still running — finish it to change its times.	এখনো চলছে — সময় বদলাতে এটি শেষ করুন।
+Stop	থামান
+Stop and mark done	থামিয়ে সম্পন্ন করুন
+Stop waiting on %1$s	%1$s-এর অপেক্ষা বাদ দিন
+Stopwatch	স্টপওয়াচ
+Stopwatch · counts as work	স্টপওয়াচ · কাজ হিসেবে গোনা হয়
+Stored as %1$s poisha. Two decimals maximum.	%1$s পয়সা হিসেবে রাখা হয়েছে। দশমিকের পরে সর্বোচ্চ দুই ঘর।
+Strikethrough	কেটে দেওয়া
+Study	পড়াশোনা
+Study session	পড়ার সেশন
+Summed from your tracked sessions — the same numbers as the Time report.	আপনার গোনা সেশন থেকে যোগফল — সময় রিপোর্টের একই সংখ্যা।
+Sunday	রবিবার
+Switch task	কাজ বদলান
+Switch to %1$s	%1$s-এ যান
+Switch work	কাজ বদলান
+Switched to %1$s	%1$s-এ চলে গেছে
+T!ME asks for your PIN when you open it.	খোলার সময় T!ME আপনার পিন চায়।
+T!ME can no longer write to the backup folder.	T!ME আর ব্যাকআপ ফোল্ডারে লিখতে পারছে না।
+T!ME can't recover a forgotten password — the backup would be unreadable.	T!ME ভুলে যাওয়া পাসওয়ার্ড উদ্ধার করতে পারে না — তখন ব্যাকআপটি পড়া যাবে না।
+T!ME counted it up to the last moment it saw it running. Check it in Focus › Session history.	T!ME যতক্ষণ সেটিকে চলতে দেখেছে ততক্ষণ পর্যন্ত গুনেছে। ফোকাস › সেশনের ইতিহাসে দেখে নিন।
+T!ME is locked	T!ME লক করা আছে
+TASKS	কাজ
+THEME	থিম
+TIME	সময়
+TITLE	শিরোনাম
+TODAY · 	আজ ·
+TODAY · %1$s	আজ · %1$s
+TODAY'S TIMELINE	আজকের সময়রেখা
+TOMORROW · 	আগামীকাল ·
+TRACKED BY CATEGORY	ক্যাটাগরি অনুযায়ী গোনা
+TRACKED BY PROJECT	প্রজেক্ট অনুযায়ী গোনা
+TRACKING NOW	এখন গোনা হচ্ছে
+Tags	ট্যাগ
+Take %1$s off today	আজ থেকে %1$s সরান
+Take a break	বিরতি নিন
+Take back	ফিরিয়ে নিন
+Take back from %1$s	%1$s থেকে ফিরিয়ে নিন
+Take it off	সরিয়ে দিন
+Take “%1$s” off today?	আজ থেকে “%1$s” সরাবেন?
+Taken off at %1$s	%1$s-এ সরানো হয়েছে
+Tap Money for the full breakdown	পুরো হিসাব দেখতে টাকা-য় ট্যাপ করুন
+Tap a day to check it off. Tap again for a rest day — rest days never break a streak.	টিক দিতে একটি দিনে ট্যাপ করুন। ছুটির দিনের জন্য আবার ট্যাপ করুন — ছুটির দিন কখনো ধারা ভাঙে না।
+Tap a day to record how much.	কতটা হলো লিখতে একটি দিনে ট্যাপ করুন।
+Tap a day: done, then rest day, then clear.	একটি দিনে ট্যাপ করুন: হয়েছে, তারপর ছুটির দিন, তারপর মুছে দিন।
+Tap a line to correct it.	ঠিক করতে একটি লাইনে ট্যাপ করুন।
+Tap to choose another	অন্যটি বাছতে ট্যাপ করুন
+Tap to open	খুলতে ট্যাপ করুন
+Tap to open T!ME.	T!ME খুলতে ট্যাপ করুন।
+Target	লক্ষ্য
+Target %1$s	লক্ষ্য %1$s
+Target (Tk)	লক্ষ্য (টাকা)
+Target date passed · %1$s to go	লক্ষ্যের তারিখ পেরিয়েছে · আরও %1$s বাকি
+Target met.	লক্ষ্য পূরণ হয়েছে।
+Target: %1$s	লক্ষ্য: %1$s
+Task	কাজ
+Tasks	কাজ
+Tasks finished	শেষ হওয়া কাজ
+Tea	চা
+Tea, laundry, a parking meter — start one and get on with things.	চা, কাপড় ধোয়া, পার্কিং মিটার — একটি চালু করে নিজের কাজে মন দিন।
+Ten tracked sessions	দশটি সেশন গোনা হয়েছে
+That doesn't look like a web address.	এটি ওয়েব ঠিকানার মতো দেখাচ্ছে না।
+That entry no longer exists.	সেই এন্ট্রিটি আর নেই।
+That file couldn't be read.	ফাইলটি পড়া যায়নি।
+That file has no rows.	ফাইলটিতে কোনো সারি নেই।
+That file is empty.	ফাইলটি খালি।
+That file is over 10 MB.	ফাইলটি ১০ MB-এর বেশি।
+That file looks corrupted — try a different backup.	ফাইলটি নষ্ট মনে হচ্ছে — অন্য একটি ব্যাকআপ চেষ্টা করুন।
+That overlaps another %1$s — the time would count twice.	এটি আরেকটি %1$s-এর সাথে মিলে যায় — সময়টা দুবার গোনা হবে।
+That session no longer exists.	সেই সেশনটি আর নেই।
+That's more than is outstanding.	এটি বাকির চেয়ে বেশি।
+That's more than the %1$s left to refund.	ফেরত দেওয়ার মতো বাকি %1$s-এর চেয়ে এটি বেশি।
+That's not the PIN.	এটি পিন নয়।
+That's not your current PIN.	এটি আপনার বর্তমান পিন নয়।
+The %1$s still owed stops counting. The %2$s already paid stays in your history.	এখনো বাকি %1$s আর গোনা হবে না। আগেই পরিশোধ হওয়া %2$s আপনার ইতিহাসে থাকবে।
+The backup folder couldn't be written to.	ব্যাকআপ ফোল্ডারে লেখা যায়নি।
+The backup password couldn't be unlocked on this phone — set it again.	এই ফোনে ব্যাকআপের পাসওয়ার্ড খোলা যায়নি — আবার সেট করুন।
+The backup's data didn't match its checksum — it may be damaged.	ব্যাকআপের তথ্য তার চেকসামের সাথে মেলেনি — এটি নষ্ট হতে পারে।
+The copy kept in T!ME is deleted. The transaction stays.	T!ME-এ রাখা কপিটি মুছে যাবে। লেনদেনটি থাকবে।
+The estimate is kept for variance reporting.	পার্থক্যের রিপোর্টের জন্য আনুমানিক খরচ রাখা হয়।
+The new backup couldn't be written or checked — the phone may be out of space. Older backups were kept.	নতুন ব্যাকআপটি লেখা বা যাচাই করা যায়নি — ফোনে জায়গা নাও থাকতে পারে। পুরোনো ব্যাকআপগুলো রাখা হয়েছে।
+The next focus phase has started%1$s.	পরের ফোকাস ধাপ শুরু হয়েছে%1$s।
+The repeat rule changed, so this applies from here on.	পুনরাবৃত্তির নিয়ম বদলেছে, তাই এটি এখান থেকে পরেরগুলোতে প্রযোজ্য।
+The two don't match	দুটি মিলছে না
+The wallet changed — that's more than is available now.	ওয়ালেট বদলেছে — এখন যা আছে এটি তার চেয়ে বেশি।
+Theme	থিম
+Theme, accent colour, pure black, celebrations	থিম, অ্যাকসেন্ট রং, একদম কালো, উদযাপন
+There is no account and no recovery email — forgetting the PIN means 	কোনো অ্যাকাউন্ট বা উদ্ধারের ইমেল নেই — পিন ভুলে গেলে
+There's no other category of this kind to merge into.	মেলানোর মতো এই ধরনের আর কোনো ক্যাটাগরি নেই।
+These move one kind of record each. To move everything — tasks, bills, habits, settings — use a backup.	এগুলো প্রতিবার এক ধরনের তথ্য সরায়। সবকিছু — কাজ, বিল, অভ্যাস, সেটিংস — সরাতে ব্যাকআপ ব্যবহার করুন।
+These set your report windows and your attribute targets. All of it is editable in Settings.	এগুলো দিয়ে আপনার রিপোর্টের সময়সীমা ও লক্ষ্য ঠিক হয়। সবই সেটিংসে বদলানো যায়।
+These times overlap	এই সময়গুলো মিলে যাচ্ছে
+They're in Links, in the folders they came from.	এগুলো লিংক-এ আছে, যে ফোল্ডার থেকে এসেছে সেখানেই।
+They're in Money › History now, and wallet balances include them. 	এগুলো এখন টাকা › ইতিহাসে আছে, ওয়ালেটের ব্যালেন্সেও যুক্ত।
+Things you want to do one day. No deadline, no estimate, 	যা একদিন করতে চান। শেষ তারিখ নেই, আনুমানিক সময় নেই,
+Thirty-day habit streak	ত্রিশ দিনের অভ্যাসের ধারা
+This address includes a sign-in name or password. It's saved as typed, but never shown in lists.	এই ঠিকানায় একটি সাইন-ইন নাম বা পাসওয়ার্ড আছে। যেমন লিখেছেন তেমনই রাখা হয়, কিন্তু তালিকায় কখনো দেখানো হয় না।
+This and following	এটি ও পরেরগুলো
+This backup is from an early test version of T!ME that this one can't convert. Nothing was changed.	এই ব্যাকআপটি T!ME-এর একটি প্রাথমিক পরীক্ষামূলক সংস্করণের, এই সংস্করণ রূপান্তর করতে পারে না। কিছুই বদলানো হয়নি।
+This backup is protected with a password.	এই ব্যাকআপটি পাসওয়ার্ড দিয়ে সুরক্ষিত।
+This backup was made by a newer version of T!ME and can't be read here.	এই ব্যাকআপটি T!ME-এর নতুন সংস্করণে তৈরি, এখানে পড়া যায় না।
+This backup was made by a newer version of T!ME — update the app, then restore it. Nothing was changed.	এই ব্যাকআপটি T!ME-এর নতুন সংস্করণে তৈরি — অ্যাপ হালনাগাদ করে তারপর ফেরান। কিছুই বদলানো হয়নি।
+This can't be undone.	এটি ফেরানো যায় না।
+This cannot be undone, and a backup made earlier is the only way back.	এটি ফেরানো যায় না, আগে তৈরি করা ব্যাকআপই একমাত্র উপায়।
+This clears your PIN and app-lock settings but keeps all your tasks, 	এতে আপনার পিন ও অ্যাপ লকের সেটিংস মুছে যাবে, কিন্তু আপনার সব কাজ,
+This expense has already been refunded in full.	এই খরচ আগেই পুরোটা ফেরত হয়েছে।
+This file couldn't be read as a T!ME backup.	ফাইলটি T!ME ব্যাকআপ হিসেবে পড়া যায়নি।
+This file is not encrypted — store it somewhere as trusted as your phone.	এই ফাইলটি এনক্রিপ্ট করা নয় — আপনার ফোনের মতোই নিরাপদ কোথাও রাখুন।
+This is what a T!ME notification looks like.	T!ME-এর নোটিফিকেশন দেখতে এমন।
+This month: 	এ মাসে:
+This occurrence	শুধু এটি
+This phone couldn't store the password safely	এই ফোন পাসওয়ার্ডটি নিরাপদে রাখতে পারেনি
+This replaces everything currently on this phone. A safety copy of your current data is taken automatically first.	এটি এই ফোনে এখন যা আছে সব বদলে দেবে। আগে আপনার বর্তমান তথ্যের একটি নিরাপত্তা কপি নিজে থেকে রাখা হয়।
+This week	এ সপ্তাহ
+This week: 	এ সপ্তাহে:
+This zip isn't a T!ME backup.	এই zip একটি T!ME ব্যাকআপ নয়।
+Time & money summary	সময় ও টাকার সারাংশ
+Time and Money statistics	সময় ও টাকার পরিসংখ্যান
+Time exported	সময় এক্সপোর্ট হয়েছে
+Time for a %1$s-minute break.	%1$s মিনিটের বিরতির সময়।
+Time for a backup	ব্যাকআপ নেওয়ার সময় হয়েছে
+Time for a break?	একটু বিরতি নেবেন?
+Time for this habit — check it off in T!ME	এই অভ্যাসের সময় — T!ME-এ টিক দিন
+Time report	সময়ের রিপোর্ট
+Time zone	সময় অঞ্চল
+Time's up	সময় শেষ
+Time's up — choose what's next in T!ME	সময় শেষ — T!ME-এ এরপর কী করবেন বেছে নিন
+Time's up%1$s	সময় শেষ%1$s
+Timed	সময় ধরে
+Timed events are schedule blocks on your calendar; all-day ones are tasks due that day.	সময়সহ ইভেন্ট ক্যালেন্ডারে সময়-ব্লক হয়; সারাদিনের ইভেন্ট সেদিনের কাজ হয়।
+Timer	টাইমার
+Timer alarms	টাইমারের অ্যালার্ম
+Timer presets	টাইমারের প্রিসেট
+Timer running	টাইমার চলছে
+Timers	টাইমার
+Timers & focus	টাইমার ও ফোকাস
+Timers and Focus countdowns sound at alarm volume and keep ringing until you stop them. Do Not Disturb's alarm setting still applies.	টাইমার ও ফোকাস কাউন্টডাউন অ্যালার্মের আওয়াজে বাজে এবং না থামানো পর্যন্ত বাজতে থাকে। বিরক্ত করবেন না-এর অ্যালার্ম সেটিং তবুও প্রযোজ্য।
+Timers and Focus countdowns you've set to ring like an alarm	যে টাইমার ও ফোকাস কাউন্টডাউন অ্যালার্মের মতো বাজাতে ঠিক করেছেন
+Timezone	সময় অঞ্চল
+Title	শিরোনাম
+Title (optional)	পদবি (ঐচ্ছিক)
+Tk 1,200.50	Tk ১,২০০.৫০
+To	পর্যন্ত
+To wallet	যে ওয়ালেটে
+To whom	কাকে
+Today	আজ
+Today · 	আজ ·
+Today's commitments	আজকের প্রতিশ্রুতি
+Today's workday	আজকের কর্মদিবস
+Today, 	আজ,
+Tomorrow	আগামীকাল
+Too many attempts. Try again in %1$s:%2$s.	অনেকবার চেষ্টা হয়েছে। %1$s:%2$s পরে আবার চেষ্টা করুন।
+Total active time	মোট সক্রিয় সময়
+Tracked	গোনা
+Tracking	চলছে
+Transaction	লেনদেন
+Transactions exported	লেনদেন এক্সপোর্ট হয়েছে
+Transfer	ট্রান্সফার
+Transfer fee	ট্রান্সফার ফি
+Transfer · not income or spending	ট্রান্সফার · আয় বা খরচ নয়
+Transfers	ট্রান্সফার
+Transfers and opening balances are excluded from income and spending reports. Refunds count as less spending, not income.	ট্রান্সফার ও শুরুর ব্যালেন্স আয় ও খরচের রিপোর্ট থেকে বাদ। ফেরত মানে কম খরচ, আয় নয়।
+Transfers need two wallets — record them in the app.	ট্রান্সফারে দুটি ওয়ালেট লাগে — অ্যাপে লিখুন।
+Transport	যাতায়াত
+True black backgrounds in dark mode — saves power on OLED screens	গাঢ় মোডে একদম কালো পটভূমি — OLED পর্দায় শক্তি বাঁচায়
+Turn off	বন্ধ করুন
+Turn off app lock?	অ্যাপ লক বন্ধ করবেন?
+Turn the description's %1$s checklist items into steps	বিবরণের %1$sটি চেকলিস্টের জিনিসকে ধাপে পরিণত করুন
+Turn the description's 1 checklist item into a step	বিবরণের ১টি চেকলিস্টের জিনিসকে ধাপে পরিণত করুন
+Type	ধরন
+Type "%1$s" isn't expense or income	ধরন "%1$s" খরচ বা আয় নয়
+UNSCHEDULED	অনির্ধারিত
+URL	URL
+Unarchive	আর্কাইভ থেকে ফেরান
+Unblock	আর আটকে নেই
+Unblocked	আর আটকে নেই
+Uncategorised	ক্যাটাগরিহীন
+Undo	ফিরিয়ে আনুন
+Unit	একক
+Unknown time zone "%1$s"	অজানা সময় অঞ্চল "%1$s"
+Unlink %1$s	%1$s আলাদা করুন
+Unlock T!ME	T!ME আনলক করুন
+Unlock and move	খুলে সরান
+Unlock with biometrics	বায়োমেট্রিক দিয়ে আনলক
+Unlock your workspace	আপনার কাজের জায়গা আনলক করুন
+Unscheduled	সময় ঠিক হয়নি
+Unscheduled %1$s	অনির্ধারিত %1$s
+Until %1$s	%1$s পর্যন্ত
+Untracked	গোনা হয়নি
+Up to %1$s free in this wallet.	এই ওয়ালেটে সর্বোচ্চ %1$s খালি।
+Up to %1$s held here.	এখানে সর্বোচ্চ %1$s রাখা আছে।
+Up to %1$s here.	এখানে সর্বোচ্চ %1$s।
+Up to %1$s is outstanding.	সর্বোচ্চ %1$s বাকি আছে।
+Up to %1$s — part of it was refunded already.	সর্বোচ্চ %1$s — এর কিছু অংশ আগেই ফেরত হয়েছে।
+Up to %1$s.	সর্বোচ্চ %1$s।
+Urgent	জরুরি
+Use PIN	পিন ব্যবহার করুন
+Use fingerprint	আঙুলের ছাপ ব্যবহার করুন
+Use its last day	মাসের শেষ দিন নিন
+Use wallpaper colours	ওয়ালপেপারের রং ব্যবহার করুন
+Used	ব্যবহৃত
+Used for rescheduling suggestions and the workload view.	রিশিডিউলের পরামর্শ ও কাজের চাপ দেখাতে ব্যবহৃত।
+Verify this phone's screen lock to reset T!ME's PIN	T!ME-এর পিন রিসেট করতে এই ফোনের স্ক্রিন লক যাচাই করুন
+Version	সংস্করণ
+Version %1$s (%2$s)	সংস্করণ %1$s (%2$s)
+Version, licenses	সংস্করণ, লাইসেন্স
+Violet	বেগুনি
+WEEK STARTS ON	সপ্তাহ শুরু হয়
+WEEKLY TARGET	সাপ্তাহিক লক্ষ্য
+WHAT WENT WELL?	কী ভালো হলো?
+WHAT'S INSIDE	ভেতরে যা আছে
+WHEN A TIMER ENDS	টাইমার শেষ হলে
+WHERE THE TIME WENT	সময় কোথায় গেল
+WORK	কাজ
+WORK & MONEY	কাজ ও টাকা
+WORK HOURS	কাজের সময়
+Waiting on	যার অপেক্ষায়
+Waiting on %1$s	%1$sটির অপেক্ষায়
+Waits on…	যার অপেক্ষায়…
+Wallet	ওয়ালেট
+Wallet transfer	ওয়ালেট ট্রান্সফার
+Wallets	ওয়ালেট
+Wallets are never deleted. Archive one from the menu to retire it with its history.	ওয়ালেট কখনো মোছা হয় না। মেনু থেকে আর্কাইভ করে ইতিহাসসহ বিদায় দিন।
+Wallets, plus what people owe you, minus what you owe.	ওয়ালেট, সাথে অন্যরা যা দেবে, বাদে আপনি যা দেবেন।
+Week	সপ্তাহ
+Week of %1$s %2$s: %3$s	%1$s %2$s-এর সপ্তাহ: %3$s
+Week start lives in Workday & calendar.	সপ্তাহের শুরু কর্মদিবস ও ক্যালেন্ডারে ঠিক হয়।
+Week starts	সপ্তাহ শুরু
+Week starts on	সপ্তাহ শুরু হয়
+Weekly	প্রতি সপ্তাহে
+Weekly reports, targets, habit weeks and the calendar all start here.	সাপ্তাহিক রিপোর্ট, লক্ষ্য, অভ্যাসের সপ্তাহ আর ক্যালেন্ডার এখান থেকে শুরু।
+Weekly review	সাপ্তাহিক পর্যালোচনা
+Weekly work target	সাপ্তাহিক কাজের লক্ষ্য
+Weeks with a saved review ÷ weeks since your first review	পর্যালোচনা সংরক্ষিত সপ্তাহ ÷ প্রথম পর্যালোচনার পর থেকে সপ্তাহ
+What for	কিসের জন্য
+When	কখন
+When it runs out, work stops at that moment and T!ME asks what's next — it never marks the task done by itself.	সময় শেষ হলে সেই মুহূর্তে কাজ থামে এবং T!ME জিজ্ঞেস করে এরপর কী — কাজটিকে নিজে থেকে কখনো শেষ ধরে না।
+While your phone was off	ফোন বন্ধ থাকার সময়
+Who is working?	কে কাজ করছেন?
+Why	কেন
+Why (optional)	কেন (ঐচ্ছিক)
+Why the change	কেন বদলালেন
+With the app lock on, widgets show counts only.	অ্যাপ লক চালু থাকলে উইজেট শুধু সংখ্যা দেখায়।
+Work	কাজ
+Work & timers	কাজ ও টাইমার
+Work categories	কাজের ক্যাটাগরি
+Work category	কাজের ক্যাটাগরি
+Work hours	কাজের সময়
+Work hours %1$s – %2$s	কাজের সময় %1$s – %2$s
+Work hours, rest days, week start, My Workday	কাজের সময়, ছুটির দিন, সপ্তাহের শুরু, আমার কর্মদিবস
+Work is still running	কাজ এখনো চলছে
+Work on…	কাজ করবেন…
+Work outside the day	দিনের বাইরের কাজ
+Work stopped mid-task %1$s times — %2$s of them to switch to another task.	কাজ %1$s বার মাঝপথে থেমেছে — এর %2$sবার অন্য কাজে যেতে।
+Work stopped mid-task once	কাজ একবার মাঝপথে থেমেছে
+Work stopped when it ran out. What next?	সময় শেষ হওয়ায় কাজ থেমেছে। এরপর কী?
+Work stopped when your %1$s-minute countdown ran out. What next?	আপনার %1$s মিনিটের কাউন্টডাউন শেষ হওয়ায় কাজ থেমেছে। এরপর কী?
+Workday & calendar	কর্মদিবস ও ক্যালেন্ডার
+Workdays with at least 1 h of work ÷ workdays so far (rest days left out)	অন্তত ১ ঘণ্টা কাজ হওয়া কর্মদিবস ÷ এ পর্যন্ত কর্মদিবস (ছুটির দিন বাদে)
+Workload	কাজের চাপ
+Workload — next 7 days	কাজের চাপ — আগামী ৭ দিন
+Write	লিখুন
+Write a short note about today…	আজকের দিন নিয়ে একটি ছোট নোট লিখুন…
+Write a short reflection on this month…	এই মাস নিয়ে একটি ছোট ভাবনা লিখুন…
+Write a short reflection on this week…	এই সপ্তাহ নিয়ে একটি ছোট ভাবনা লিখুন…
+Written in %1$s; shown in your time zone	%1$s-এ লেখা; আপনার সময় অঞ্চলে দেখানো
+Wrong PIN.	ভুল পিন।
+Wrong password, or the file is damaged. Nothing was changed.	ভুল পাসওয়ার্ড, অথবা ফাইলটি নষ্ট। কিছুই বদলানো হয়নি।
+YOU OWE	আপনি দেবেন
+You asked to be reminded again	আপনি আবার মনে করাতে বলেছিলেন
+You can add a PIN or fingerprint in step 3.	ধাপ ৩-এ একটি পিন বা আঙুলের ছাপ যোগ করতে পারবেন।
+You can change it, add fingerprint unlock, or turn the lock off 	সেটিংস › নিরাপত্তায় গিয়ে এটি বদলাতে, আঙুলের ছাপে খোলা যোগ করতে বা লক আবার
+You can track a task without starting a workday. Those sessions show up as Outside workday in the timesheet.	কর্মদিবস শুরু না করেও কাজের সময় গুনতে পারেন। সেই সেশনগুলো টাইমশিটে কর্মদিবসের বাইরে হিসেবে দেখায়।
+You have a habit to check in	আপনার একটি অভ্যাসে টিক দেওয়া বাকি
+You have something scheduled	আপনার একটি নির্ধারিত কাজ আছে
+You haven't backed up T!ME yet. A backup is the only way to move or recover your records.	আপনি এখনো T!ME-এর ব্যাকআপ নেননি। আপনার তথ্য সরানো বা ফিরিয়ে আনার একমাত্র উপায় ব্যাকআপ।
+You missed %1$s reminders	আপনি %1$sটি রিমাইন্ডার মিস করেছেন
+You missed a reminder	আপনি একটি রিমাইন্ডার মিস করেছেন
+You owe	আপনি দেবেন
+You owe %1$s	আপনি %1$s-কে দেবেন
+You owe %1$s %2$s	আপনি %1$s-কে %2$s দেবেন
+You'll see every link before anything is saved.	কিছু সংরক্ষণের আগে প্রতিটি লিংক দেখতে পাবেন।
+You've worked %1$s minutes without a pause.	আপনি একটানা %1$s মিনিট কাজ করেছেন।
+Your %1$s-minute break has started.	আপনার %1$s মিনিটের বিরতি শুরু হয়েছে।
+Your %1$s-minute timer finished.	আপনার %1$s মিনিটের টাইমার শেষ।
+Your break finished	আপনার বিরতি শেষ
+Your break paused it. Pick it up again as you go back on duty?	আপনার বিরতি এটি থামিয়েছিল। আবার দায়িত্বে ফিরে এটি ধরবেন?
+Your bucket list is empty	আপনার ইচ্ছাতালিকা খালি
+Your countdown finished	আপনার কাউন্টডাউন শেষ
+Your day on %1$s was never ended (on since %2$s).	%1$s-এর আপনার দিনটি কখনো শেষ করা হয়নি (%2$s থেকে চালু)।
+Your last backup is over %1$s days old.	আপনার শেষ ব্যাকআপ %1$s দিনের বেশি পুরোনো।
+Your money ledger as a spreadsheet: date, type, category, wallet, exact amount, note.	আপনার টাকার খাতা স্প্রেডশিট হিসেবে: তারিখ, ধরন, ক্যাটাগরি, ওয়ালেট, নির্ভুল পরিমাণ, নোট।
+Your own work and money categories, and projects	আপনার নিজের কাজ ও টাকার ক্যাটাগরি, এবং প্রজেক্ট
+Your records never leave this device, so a PIN here is the only thing standing 	আপনার তথ্য কখনো এই ডিভাইস ছাড়ে না, তাই এখানের পিনই একমাত্র বাধা
+Your booked time, for any calendar app. Tasks with only a due date aren't calendar events.	আপনার বুক করা সময়, যেকোনো ক্যালেন্ডার অ্যাপের জন্য। শুধু শেষ তারিখ থাকা কাজ ক্যালেন্ডার ইভেন্ট নয়।
+Your week and your taka	আপনার সপ্তাহ ও আপনার টাকা
+a running timer	একটি চলমান টাইমার
+a wallet	একটি ওয়ালেট
+able to open T!ME until you set a new PIN. You'll be asked to verify 	T!ME খুলতে পারবে। আগে আপনাকে এই ফোনের নিজের
+again in Settings › Security.	বন্ধ করতে পারবেন।
+against %1$s of work time	%1$s কাজের সময়ের বিপরীতে
+an estimate and a schedule later.	আনুমানিক সময় আর সময়সূচি পরে যোগ করতে পারবেন।
+and %1$s earlier	এবং আগের %1$sটি
+and %1$s more	এবং আরও %1$sটি
+another task	আরেকটি কাজ
+at least 	অন্তত
+at most 	সর্বোচ্চ
+before anything is saved, and can untick any of them.	এবং যেকোনোটির টিক তুলে দিতে পারবেন।
+best streak now	এখনকার সেরা ধারা
+between them and anyone holding your unlocked phone.	সেগুলো আর আপনার আনলক করা ফোন হাতে থাকা যে কারো মাঝে।
+borrowed 	ধার নেওয়া
+can be switched on afterwards in Settings › Security.	পরে সেটিংস › নিরাপত্তায় চালু করা যায়।
+current streak	চলতি ধারা
+cycle %1$s of %2$s	%2$s-এর মধ্যে %1$s নম্বর চক্র
+done today	আজ হয়েছে
+due 	বাকি
+due %1$s	শেষ তারিখ %1$s
+due in %1$s	%1$s-এ বাকি
+e.g. 5000	যেমন ৫০০০
+e.g. Builder, Student	যেমন নির্মাতা, ছাত্র
+enter is written to this phone's storage and stays there unless you export it yourself.	লেখেন তা এই ফোনেই সংরক্ষিত থাকে, আপনি নিজে এক্সপোর্ট না করলে সেখানেই থাকে।
+exactly on	ঠিক সমান
+existing · %1$s	আগের · %1$s
+in a way	এমনভাবে
+in this month 	এ মাসে
+in your time zone, before anything is saved.	আপনার সময় অঞ্চলে দেখতে পাবেন।
+included above	ওপরে ধরা আছে
+keeps the time and hides the task. You can find it again in Search.	সময় থাকে এবং কাজটি লুকানো থাকে। খুঁজুন-এ আবার পাবেন।
+last month	গত মাস
+last week	গত সপ্তাহ
+lent 	ধার দেওয়া
+link text	লিংকের লেখা
+logged %1$s, below target	%1$s লেখা হয়েছে, লক্ষ্যের নিচে
+milestones, not scores	মাইলফলক, স্কোর নয়
+money records, and ideas — anyone with access to this phone will be 	টাকার হিসাব ও আইডিয়া থাকবে — নতুন পিন না দেওয়া পর্যন্ত এই ফোনে যার হাত আছে সে-ই
+muted in Settings › Notifications, so this won't show.	সেটিংস › নোটিফিকেশনে বন্ধ, তাই এটি দেখাবে না।
+new · %1$s	নতুন · %1$s
+no date — excluded from forecasts	তারিখ নেই — পূর্বাভাস থেকে বাদ
+no deadline on any of them	কোনোটিরই শেষ তারিখ নেই
+no timer — they stay out of the clock until you want them in it.	টাইমার নেই — আপনি না চাওয়া পর্যন্ত এগুলো ঘড়ির বাইরে থাকে।
+not done	হয়নি
+not due	বাকি ছিল না
+not enough data	যথেষ্ট তথ্য নেই
+of %1$s	%1$s-এর মধ্যে
+of %1$s min · rings at %2$s	%1$s মিনিটের মধ্যে · বাজবে %2$s-এ
+or a few times a week. Check it off here or on Today.	অথবা সপ্তাহে কয়েকবার। এখানে বা আজ-এ টিক দিন।
+outstanding · was due %1$s	বাকি · শেষ তারিখ ছিল %1$s
+pages	পৃষ্ঠা
+part of the day	দিনের অংশ
+quick notes	দ্রুত নোট
+recent rate	সাম্প্রতিক হার
+resetting it from your device credential.	ডিভাইসের নিজের লক দিয়ে রিসেট করতে হয়।
+respected when proposing a new slot.	সেগুলো মেনে চলা হয়।
+rest day	ছুটির দিন
+something cost. T!ME keeps track so you don't have to.	লিখুন। T!ME হিসাব রাখে, আপনাকে রাখতে হয় না।
+split · total	ভাগ · মোট
+stops appearing on new ones. Renaming or recolouring updates every view at once. 	নতুনগুলোতে আর দেখায় না। নাম বা রং বদলালে সব জায়গায় একসাথে বদলায়।
+that task	সেই কাজটি
+this phone's own screen lock first.	স্ক্রিন লক যাচাই করতে বলা হবে।
+this point %1$s	%1$s-এর এই সময়
+those payments would point at nothing. Cancelling stops the rest counting as owed and keeps them.	সেই পরিশোধগুলো তখন কিছুর দিকে ইঙ্গিত করবে না। বাতিল করলে বাকিটা আর বাকি হিসেবে গোনা হয় না এবং পরিশোধগুলো থাকে।
+was due 	বাকি ছিল
+was due %1$s	শেষ তারিখ ছিল %1$s
+your schedule until you decide otherwise.	এগুলো আপনার সময়সূচির বাইরে থাকে।
+‖ Paused: 	‖ থামানো:
+“%1$s” and %2$s later deleted	“%1$s” এবং পরের %2$sটি মুছে ফেলা হয়েছে
+“%1$s” archived	“%1$s” আর্কাইভ করা হয়েছে
+“%1$s” deleted	“%1$s” মুছে ফেলা হয়েছে
+“%1$s” is done	“%1$s” শেষ
+“%1$s” isn't scheduled, so this may land before it's done.	“%1$s” নির্ধারিত নয়, তাই এটি শেষ হওয়ার আগেই পড়ে যেতে পারে।
+“%1$s” moved to %2$s	“%1$s” %2$s-এ সরানো হয়েছে
+“%1$s” stays cancelled, now with %2$s paid against it.	“%1$s” বাতিলই থাকবে, এখন এর বিপরীতে %2$s পরিশোধ।
+“%1$s” stays settled — it's still covered after this refund.	“%1$s” মেটানোই থাকবে — এই ফেরতের পরেও এটি পূরণ আছে।
+“%1$s” timer finished	“%1$s” টাইমার শেষ
+“%1$s” updated	“%1$s” আপডেট হয়েছে
+“%1$s” will have %2$s paid, %3$s outstanding.	“%1$s”-এ %2$s পরিশোধ হবে, %3$s বাকি থাকবে।
+− Active time already tracked	− ইতিমধ্যে গোনা সক্রিয় সময়
+○ Decrease	○ কমান
+○ Increase	○ বাড়ান
+● Decrease	● কমান
+● Increase	● বাড়ান
+● Now: 	● এখন:
+That collection no longer exists.	সেই সংগ্রহটি আর নেই।
+Sparks and the Bucket list keep their names.	ঝলক আর ইচ্ছাতালিকার নাম বদলানো যায় না।
+Give it a name.	একটি নাম দিন।
+There's already a collection called “%1$s”.	“%1$s” নামে একটি সংগ্রহ আগেই আছে।
+Sparks and the Bucket list can't be deleted.	ঝলক আর ইচ্ছাতালিকা মোছা যায় না।
+There's no Sparks collection to move its ideas to.	এর আইডিয়াগুলো সরানোর মতো কোনো ঝলক সংগ্রহ নেই।
+More for this collection	এই সংগ্রহের আরও বিকল্প
+Rename collection	সংগ্রহের নাম বদলান
+The collection is empty, so nothing else changes.	সংগ্রহটি খালি, তাই আর কিছু বদলায় না।
+Its 1 idea moves to Sparks — nothing is deleted but the collection.	এর ১টি আইডিয়া ঝলক-এ যাবে — শুধু সংগ্রহটি মুছবে।
+Its %1$s ideas move to Sparks — nothing is deleted but the collection.	এর %1$sটি আইডিয়া ঝলক-এ যাবে — শুধু সংগ্রহটি মুছবে।
+Delete “%1$s”?	“%1$s” মুছবেন?
+FOCUS	ফোকাস
+BREAK	বিরতি
+%1$s under	%1$s কম
+%1$s over	%1$s বেশি
+%1$s h	%1$s ঘণ্টা
+Set a due date (optional)	শেষ তারিখ দিন (ঐচ্ছিক)
+The end alert may be a few minutes late. Work still stops on time — allow exact alarms for an alert on the minute.	শেষের সতর্কতা কয়েক মিনিট দেরিতে আসতে পারে। কাজ তবুও ঠিক সময়ে থামবে — ঠিক মিনিটে সতর্কতার জন্য নির্ভুল অ্যালার্ম চালু করুন।
+Allow exact alarms	নির্ভুল অ্যালার্ম চালু করুন
+Hold to stop	থামাতে চেপে ধরুন
+Your timer is done.	আপনার টাইমার শেষ হয়েছে।
+Tone	সুর
+Volume	ভলিউম
+Gradually louder	ধীরে ধীরে জোরে
+Vibrate	কম্পন
+Say it aloud	জোরে বলে দিন
+Stop ringing after	বাজা থামবে
+Timer alarms (T!ME's sound)	টাইমার অ্যালার্ম (T!ME-এর শব্দ)
+Alarm-style timers, sounded with the tone and volume you chose in Timers & focus	অ্যালার্মের মতো টাইমার, টাইমার ও ফোকাসে বেছে নেওয়া সুর ও ভলিউমে বাজে
+Your sound file	আপনার শব্দ ফাইল
+Silent — vibrate only	নিঃশব্দ — শুধু কম্পন
+Phone's default alarm	ফোনের ডিফল্ট অ্যালার্ম
+Chosen sound	বেছে নেওয়া শব্দ
+ALARM SOUND	অ্যালার্মের শব্দ
+Used when Ring like an alarm is on.	"অ্যালার্মের মতো বাজুক" চালু থাকলে ব্যবহার হয়।
+Volume · %1$s%%	ভলিউম · %1$s%%
+Of the phone's alarm volume	ফোনের অ্যালার্ম ভলিউমের
+Starts quiet and rises to full volume	আস্তে শুরু হয়ে পুরো ভলিউমে ওঠে
+Reads out what finished every 30 s, with your phone's text-to-speech voice. With content hidden on a locked phone it names nothing.	ফোনের টেক্সট-টু-স্পিচ কণ্ঠে প্রতি ৩০ সেকেন্ডে কী শেষ হলো পড়ে শোনায়। লক করা ফোনে বিষয়বস্তু লুকানো থাকলে কোনো নাম বলে না।
+The notification stays, so it isn't missed	নোটিফিকেশনটি থেকে যায়, তাই হারিয়ে যায় না
+Choose from the phone's sounds…	ফোনের শব্দ থেকে বেছে নিন…
+Choose an audio file…	একটি অডিও ফাইল বেছে নিন…
+Alarm tone	অ্যালার্মের সুর
+Over %1$s s	%1$s সেকেন্ডে
+Over %1$s min	%1$s মিনিটে
+Vibration	কম্পন
+Gentle	মৃদু
+Standard	সাধারণ
+Pulse	স্পন্দন
+Heartbeat	হৃৎস্পন্দন
+FEEL	অনুভব
+Haptic feedback	স্পর্শ-কম্পন
+When you tick something off, drag a card, or start and stop Focus. Android's own touch-feedback switch still applies.	কিছু সম্পন্ন করলে, কার্ড টেনে নিলে, বা ফোকাস শুরু ও বন্ধ করলে। অ্যান্ড্রয়েডের নিজস্ব স্পর্শ-প্রতিক্রিয়া সুইচ তবুও প্রযোজ্য।
+Light	হালকা
+Medium	মাঝারি
+Strong	জোরালো
+Theme, accent colour, pure black, celebrations, haptics	থিম, অ্যাকসেন্ট রং, একদম কালো, উদযাপন, স্পর্শ-কম্পন
+Stop the alarm	অ্যালার্ম থামান
+PAUSED	বিরতিতে
+Pause or switch	বিরতি বা বদল
+Resume %1$s	%1$s আবার শুরু করুন
+Touch vibration is off in Android's settings, so you won't feel these until it's on.	অ্যান্ড্রয়েডের সেটিংসে স্পর্শ-কম্পন বন্ধ, তাই চালু না করা পর্যন্ত এগুলো অনুভব করবেন না।
+Open sound & vibration	শব্দ ও কম্পন খুলুন
+App language, clock, date order, currency label	অ্যাপের ভাষা, ঘড়ি, তারিখের ক্রম, মুদ্রার চিহ্ন
+Backups (manual and automatic), restore, import and export	ব্যাকআপ (নিজে ও স্বয়ংক্রিয়), পুনরুদ্ধার, ইমপোর্ট ও এক্সপোর্ট
+24-hour	২৪ ঘণ্টা
+12-hour	১২ ঘণ্টা
+On duty since %1$s	%1$s থেকে কাজে
+On a break	বিরতিতে আছেন
+Day ended	দিন শেষ
+Workday not started	কর্মদিবস শুরু হয়নি
+Start my day	দিন শুরু করুন
+tracked	ট্র্যাক করা
+tasks done	কাজ শেষ
+habits	অভ্যাস
+spent today	আজ খরচ
+%1$s of %2$s estimate · %3$s left	আনুমানিক %2$s-এর %1$s · বাকি %3$s
+%1$s over the %2$s estimate	আনুমানিক %2$s-এর চেয়ে %1$s বেশি
+Switch	বদলান
+NOTHING RUNNING	কিছুই চলছে না
+Start with	শুরু করুন
+One of Today's 3	আজকের ৩টির একটি
+%1$s estimate	আনুমানিক %1$s
+Nothing is due today. Add a task, or start a focus timer and name it later.	আজ কিছু বাকি নেই। একটি কাজ যোগ করুন, অথবা ফোকাস টাইমার চালু করে পরে নাম দিন।
+From before today	আজকের আগের
+%1$s · was due %2$s	%1$s · শেষ তারিখ ছিল %2$s
+Move to today	আজকে সরান
+%1$s · %2$s left · was due %3$s	%1$s · বাকি %2$s · শেষ তারিখ ছিল %3$s
+Pay	পরিশোধ
+Rest of today	আজকের বাকি সময়
+fixed	স্থির
+flexible	নমনীয়
+habit reminder	অভ্যাসের রিমাইন্ডার
+due today	আজ শেষ তারিখ
+Any time	যেকোনো সময়
+Paused · “%1$s”	বিরতিতে · “%1$s”
+Inbox · 1 not scheduled	ইনবক্স · ১টি নির্ধারিত নয়
+Inbox · %1$s not scheduled	ইনবক্স · %1$sটি নির্ধারিত নয়
+Plan them	পরিকল্পনা করুন
+This page fills in as you use T!ME: what you're working on, your day in order, your habits and what's due.	T!ME ব্যবহার করতে করতে এই পাতা ভরে উঠবে: আপনি কী করছেন, দিনের ক্রম, আপনার অভ্যাস আর কী বাকি।
+Something to do, with or without a date	করার মতো কিছু, তারিখসহ বা ছাড়া
+Start a habit	একটি অভ্যাস শুরু করুন
+Check in each day and keep a streak	প্রতিদিন টিক দিন এবং ধারা বজায় রাখুন
+Add a wallet	একটি ওয়ালেট যোগ করুন
+Cash, bank or bKash — then plan a bill	নগদ, ব্যাংক বা বিকাশ — তারপর একটি বিল পরিকল্পনা করুন
+Just focus	শুধু ফোকাস
+Start a timer now, name it later	এখনই টাইমার চালু করুন, পরে নাম দিন
+Today's 3	আজকের ৩
+Choose from all tasks	সব কাজ থেকে বাছুন
+Money this week	এই সপ্তাহের টাকা
+Nothing due in the next 7 days.	আগামী ৭ দিনে কিছু বাকি নেই।
+%1$s still owed this month	এ মাসে এখনো %1$s বাকি
+Me — your profile and progress	আমি — আপনার প্রোফাইল ও অগ্রগতি
+Your day at a glance	এক নজরে আপনার দিন
+What's happening now	এখন যা চলছে
+The purple card shows what you're working on, with its timer. Pause, switch to something else or mark it done from there. When nothing runs, it suggests what to start.	বেগুনি কার্ডে দেখায় আপনি কী নিয়ে কাজ করছেন, টাইমারসহ। সেখান থেকেই বিরতি দিন, অন্য কাজে যান বা শেষ হিসেবে চিহ্নিত করুন। কিছু না চললে, কী শুরু করবেন তা প্রস্তাব করে।
+Pick up to three things that would make today count. Tick them off here.	আজকের দিনটি সার্থক করবে এমন সর্বোচ্চ তিনটি জিনিস বাছুন। এখানেই টিক দিন।
+Everything still to come today, in time order: booked time, work that's due, habit reminders and bills.	আজ যা বাকি আছে, সময়ের ক্রমে: বুক করা সময়, বাকি কাজ, অভ্যাসের রিমাইন্ডার আর বিল।
+Add anything	যেকোনো কিছু যোগ করুন
+Your tasks — as a list, a board or a calendar	আপনার কাজ — তালিকা, বোর্ড বা ক্যালেন্ডার হিসেবে
+Everything you have to do, grouped by when it's due. Tap the circle to finish a task, tap the task to open it.	আপনার সব কাজ, শেষ তারিখ অনুযায়ী সাজানো। কাজ শেষ করতে বৃত্তে চাপুন, খুলতে কাজে চাপুন।
+The same tasks as cards moving through Inbox → Ready → Doing → Done. Hold a card to drag it, or use its ⋮ menu.	একই কাজগুলো কার্ড হিসেবে ইনবক্স → প্রস্তুত → চলছে → শেষ ধাপে এগোয়। টেনে নিতে কার্ড চেপে ধরুন, অথবা এর ⋮ মেনু ব্যবহার করুন।
+Time your work — stopwatch, countdown or Pomodoro	আপনার কাজের সময় মাপুন — স্টপওয়াচ, কাউন্টডাউন বা পোমোডোরো
+One timer for work	কাজের জন্য একটি টাইমার
+Start a timer on a task — or with no task — and the time is recorded. Only one runs at a time, so nothing is counted twice.	কোনো কাজে — বা কাজ ছাড়াই — টাইমার চালু করুন, সময় রেকর্ড হবে। একবারে একটিই চলে, তাই কিছু দুবার গোনা হয় না।
+Interrupted?	বাধা পেয়েছেন?
+Use Switch: the current task is paused with a note to yourself, and the new one starts at the same moment.	বদলান ব্যবহার করুন: চলতি কাজ নিজের জন্য একটি নোটসহ থামে, আর নতুনটি একই মুহূর্তে শুরু হয়।
+Your history	আপনার ইতিহাস
+Every stretch of work is kept. Fix a wrong start or end time from Session history in the ⋮ menu.	প্রতিটি কাজের সময় রাখা হয়। ⋮ মেনুর সেশন ইতিহাস থেকে ভুল শুরু বা শেষের সময় ঠিক করুন।
+Kitchen-style timers for tea or laundry. They ring, but they never count as work.	চা বা কাপড় ধোয়ার মতো কাজের টাইমার। এগুলো বাজে, কিন্তু কখনো কাজ হিসেবে গোনা হয় না।
+What you have, what's coming, what you spent	যা আছে, যা আসছে, যা খরচ করেছেন
+Your wallets (cash, bank, bKash…) and how much is left after the bills you expect this month.	আপনার ওয়ালেট (নগদ, ব্যাংক, বিকাশ…) এবং এ মাসের প্রত্যাশিত বিলের পর কত থাকবে।
+Bills and costs you expect to pay. Planning one moves no money — nothing changes until you record a payment.	যেসব বিল ও খরচ দিতে হবে বলে আশা করছেন। পরিকল্পনা করলে টাকা সরে না — পরিশোধ রেকর্ড না করা পর্যন্ত কিছু বদলায় না।
+Money that actually moved: income, spending and transfers between your wallets.	যে টাকা আসলেই সরেছে: আয়, খরচ আর ওয়ালেটের মধ্যে স্থানান্তর।
+Paying a planned bill	পরিকল্পিত বিল পরিশোধ
+Open it and tap Record payment. You can pay part now and the rest later.	এটি খুলে পরিশোধ রেকর্ড করুন চাপুন। এখন কিছু আর পরে বাকিটা দিতে পারেন।
+Thoughts that aren't tasks yet	যে ভাবনাগুলো এখনো কাজ হয়নি
+Capture quickly	দ্রুত লিখে রাখুন
+Jot down anything without giving it a date. Nothing here reminds you or counts as overdue.	তারিখ ছাড়াই যেকোনো কিছু লিখে রাখুন। এখানে কিছু মনে করিয়ে দেয় না বা দেরি হিসেবে গোনা হয় না।
+Collections	সংগ্রহ
+Group ideas — Sparks for quick thoughts, the Bucket list for life goals, and your own collections.	আইডিয়া সাজান — দ্রুত ভাবনার জন্য স্পার্কস, জীবনের লক্ষ্যের জন্য বাকেট লিস্ট, আর আপনার নিজের সংগ্রহ।
+Ready to act?	কাজ শুরু করতে প্রস্তুত?
+Open an idea and turn it into a task when you want to actually do it.	যখন সত্যিই করতে চান, আইডিয়াটি খুলে কাজে পরিণত করুন।
+Web pages you want to keep	যে ওয়েব পেজগুলো রাখতে চান
+Save from your browser	ব্রাউজার থেকে সংরক্ষণ করুন
+In any browser, tap Share and choose T!ME. Or paste an address with the + button.	যেকোনো ব্রাউজারে শেয়ার চেপে T!ME বাছুন। অথবা + বোতাম দিয়ে ঠিকানা পেস্ট করুন।
+Folders and favourites	ফোল্ডার ও প্রিয়
+Sort links into folders, star the ones you use most, and search by title, address or note.	লিংক ফোল্ডারে সাজান, বেশি ব্যবহৃতগুলোতে তারা দিন, এবং শিরোনাম, ঠিকানা বা নোট দিয়ে খুঁজুন।
+Attach a link to the task it belongs to, so it's there when you start work.	লিংকটি যে কাজের সাথে সম্পর্কিত তাতে যুক্ত করুন, যাতে কাজ শুরু করলে হাতের কাছে থাকে।
+Small things you want to do regularly	যে ছোট কাজগুলো নিয়মিত করতে চান
+Check in	টিক দিন
+Tap a day to mark it done. Tap again for a rest day — rest days never break a streak.	দিনটি সম্পন্ন করতে চাপুন। বিশ্রামের দিনের জন্য আবার চাপুন — বিশ্রামের দিন কখনো ধারা ভাঙে না।
+Your streak	আপনার ধারা
+How many days (or weeks) in a row you kept it up. Missing today isn't counted until the day is over.	টানা কত দিন (বা সপ্তাহ) বজায় রেখেছেন। দিন শেষ না হওয়া পর্যন্ত আজ বাদ পড়া গোনা হয় না।
+How %1$s works	%1$s কীভাবে কাজ করে
+Work time compared with your weekly target	সাপ্তাহিক লক্ষ্যের তুলনায় কাজের সময়
+How many of Today's 3 you finished	আজকের ৩টির কয়টি শেষ করেছেন
+Workdays with at least an hour of work	অন্তত এক ঘণ্টা কাজের কর্মদিবস
+Booked time you actually started on time	বুক করা সময়ের কতটা ঠিক সময়ে শুরু করেছেন
+Weeks you looked back over your money	যে সপ্তাহগুলোতে টাকার হিসাব দেখেছেন
+Your week	আপনার সপ্তাহ
+Nothing to show yet. As you track work, finish Today's 3 and review your week, you'll see how it's going here — plain numbers, no points or scores.	এখনো দেখানোর কিছু নেই। কাজ ট্র্যাক করলে, আজকের ৩টি শেষ করলে আর সপ্তাহ পর্যালোচনা করলে এখানে দেখবেন কেমন চলছে — সাধারণ সংখ্যা, কোনো পয়েন্ট বা স্কোর নয়।
+Hide how it's measured	কীভাবে মাপা হয় লুকান
+How your week is measured	আপনার সপ্তাহ কীভাবে মাপা হয়
+Not enough data yet	এখনো যথেষ্ট তথ্য নেই
+You have	আপনার আছে
+in %1$s	%1$s-এ
+no wallets yet	এখনো কোনো ওয়ালেট নেই
+After this month's bills: %1$s	এ মাসের বিলের পর: %1$s
+This month	এই মাস
+Spent so far	এ পর্যন্ত খরচ
+Bills still to pay	যে বিল এখনো দিতে হবে
+%1$s left	%1$s বাকি
+%1$s of %2$s — spent plus bills still to pay	%2$s-এর %1$s — খরচ ও বাকি বিল মিলিয়ে
+Set a monthly budget	মাসিক বাজেট ঠিক করুন
+Hide how this is worked out	কীভাবে হিসাব হয় লুকান
+See how this is worked out	কীভাবে হিসাব হয় দেখুন
+“You have” adds up every wallet. “Spent so far” is this month's spending, not counting transfers between your wallets. “Bills still to pay” is what's left on the bills you planned, due by %1$s. Planning a bill moves no money until you record a payment.	“আপনার আছে” সব ওয়ালেট যোগ করে। “এ পর্যন্ত খরচ” এ মাসের খরচ, ওয়ালেটের মধ্যে স্থানান্তর বাদে। “যে বিল এখনো দিতে হবে” পরিকল্পিত বিলের বাকি অংশ, %1$s-এর মধ্যে দিতে হবে। পরিশোধ রেকর্ড না করা পর্যন্ত বিল পরিকল্পনায় টাকা সরে না।
+Count late bills from earlier months	আগের মাসের দেরি হওয়া বিল গুনুন
+%1$s is still owed from before this month	এ মাসের আগের %1$s এখনো বাকি
+Add wallet	ওয়ালেট যোগ করুন
+A wallet is where money is kept — cash, a bank account, bKash. Add one to start recording money.	ওয়ালেট হলো যেখানে টাকা থাকে — নগদ, ব্যাংক অ্যাকাউন্ট, বিকাশ। টাকা রেকর্ড শুরু করতে একটি যোগ করুন।
+REPORTS	রিপোর্ট
+Time	সময়
+Where your hours went — by day, category and project	আপনার সময় কোথায় গেল — দিন, ক্যাটাগরি আর প্রজেক্ট অনুযায়ী
+Streaks, done-rates and a year at a glance	ধারা, সম্পন্নের হার আর এক নজরে এক বছর
+The next 7 days: work booked vs hours you have	আগামী ৭ দিন: বুক করা কাজ বনাম আপনার হাতে থাকা সময়
+Look back at your week and plan the next	সপ্তাহ ফিরে দেখুন আর পরেরটা পরিকল্পনা করুন
+1 stretch of work	১টি কাজের সময়কাল
+%1$s stretches of work, all on one day	%1$sটি কাজের সময়কাল, সবই এক দিনে
+%1$s stretches of work across %2$s days	%2$s দিনে %1$sটি কাজের সময়কাল
+You paused a task once, to switch to something else.	অন্য কিছুতে যেতে একবার একটি কাজ থামিয়েছেন।
+You paused a task once before finishing it.	শেষ করার আগে একবার একটি কাজ থামিয়েছেন।
+You paused tasks %1$s times before finishing them.	শেষ করার আগে %1$s বার কাজ থামিয়েছেন।
+You paused tasks %1$s times before finishing them — once to switch to something else.	শেষ করার আগে %1$s বার কাজ থামিয়েছেন — একবার অন্য কিছুতে যেতে।
+You paused tasks %1$s times before finishing them — %2$s times to switch to something else.	শেষ করার আগে %1$s বার কাজ থামিয়েছেন — %2$s বার অন্য কিছুতে যেতে।
+Recording since %1$s	%1$s থেকে রেকর্ড হচ্ছে
+Paused — tap Resume to carry on	থামানো — চালিয়ে যেতে আবার শুরু চাপুন
+Tap Start to record your time	সময় রেকর্ড করতে শুরু চাপুন
+Still to pay	এখনো দিতে হবে
+Late from earlier months	আগের মাস থেকে দেরি হওয়া
+counted in the total	মোটে ধরা হয়েছে
+No date %1$s	তারিখ নেই %1$s
+In Money › Overview's "bills still to pay"	টাকা › সারসংক্ষেপের "যে বিল এখনো দিতে হবে"-তে
+NO DATE YET	এখনো তারিখ নেই
+Automatic backups have no password, so anyone who can open that folder can read them. Set a password above to lock them.	স্বয়ংক্রিয় ব্যাকআপে কোনো পাসওয়ার্ড নেই, তাই যে কেউ ওই ফোল্ডার খুলতে পারলে পড়তে পারবে। লক করতে ওপরে একটি পাসওয়ার্ড দিন।
+Pick a backup file you made earlier (.zip, or .timebackup if it has a password). It replaces what's on this phone — you'll see what's in it first.	আগে তৈরি একটি ব্যাকআপ ফাইল বাছুন (.zip, অথবা পাসওয়ার্ড থাকলে .timebackup)। এটি এই ফোনের তথ্য বদলে দেবে — আগে দেখে নিতে পারবেন এতে কী আছে।
+Welcome to T!ME	T!ME-এ স্বাগতম
+One place for your time, your money and your habits. Everything stays on this phone.	আপনার সময়, টাকা আর অভ্যাস — সব এক জায়গায়। সবকিছু এই ফোনেই থাকে।
+Plan your day	দিনের পরিকল্পনা করুন
+Write down what you need to do. Give it a date or a time slot if you like, and pick up to three things that matter today.	কী করতে হবে লিখে রাখুন। চাইলে তারিখ বা সময় দিন, আর আজকের জন্য সবচেয়ে জরুরি তিনটি কাজ বেছে নিন।
+Track your time	সময়ের হিসাব রাখুন
+Press Start when you begin a task. If something interrupts you, switch — T!ME pauses the first one and remembers where you were.	কাজ শুরু করলে শুরু চাপুন। মাঝে অন্য কিছু এলে বদলে নিন — T!ME আগেরটা থামিয়ে রাখে আর মনে রাখে কোথায় ছিলেন।
+Money you expect, money spent	প্রত্যাশিত খরচ, আসল খরচ
+Note bills before they're due, then record what you actually paid. You always see what you have after this month's bills.	বিল আসার আগেই লিখে রাখুন, তারপর আসলে যা দিলেন তা লিখুন। এই মাসের বিলের পর কত থাকবে তা সবসময় দেখতে পাবেন।
+Build habits	অভ্যাস গড়ুন
+Tick a habit each day you do it. Rest days never break a streak.	যেদিন অভ্যাসটি করবেন সেদিন টিক দিন। বিশ্রামের দিনে ধারাবাহিকতা ভাঙে না।
+Private and offline	ব্যক্তিগত ও অফলাইন
+No account, no internet, no ads. Add a PIN if you like, and make backups to a folder you choose.	কোনো অ্যাকাউন্ট, ইন্টারনেট বা বিজ্ঞাপন নেই। চাইলে পিন দিন, আর নিজের বাছাই করা ফোল্ডারে ব্যাকআপ রাখুন।
+Skip	বাদ দিন
+Page %1$s of %2$s	পৃষ্ঠা %1$s / %2$s
+Set up T!ME	T!ME সাজিয়ে নিন
+Next	পরবর্তী
+Getting started	শুরু করা যাক
+Hide getting started	শুরুর তালিকা লুকান
+Track some time	কিছু সময়ের হিসাব রাখুন
+Cash, bank or bKash — with what's in it now	নগদ, ব্যাংক বা বিকাশ — এখন যত আছে তা সহ
+Plan a bill	একটি বিল পরিকল্পনা করুন
+Rent, a phone bill — anything you expect to pay	ভাড়া, ফোন বিল — যা কিছু দিতে হবে বলে জানেন
+Not done yet	এখনো হয়নি
+Help & guides	সাহায্য ও নির্দেশিকা
+Watch the welcome tour again	স্বাগত পরিচিতি আবার দেখুন
+Show tips again	টিপস আবার দেখান
+Guides	নির্দেশিকা
+Reminders	রিমাইন্ডার
+Notifications that make sure you don't forget	এমন নোটিফিকেশন যাতে কিছু ভুলে না যান
+Turn one on	একটি চালু করুন
+Snooze, don't lose	পিছিয়ে দিন, হারাবেন না
+Snoozing moves the reminder, never the deadline. A bill reminder only reminds you — it never pays anything.	পিছিয়ে দিলে শুধু রিমাইন্ডার সরে, শেষ তারিখ নয়। বিলের রিমাইন্ডার শুধু মনে করায় — নিজে কিছু পরিশোধ করে না।
+At night reminders arrive silently instead of being dropped. Timers you started still ring.	রাতে রিমাইন্ডার বাদ না পড়ে নিঃশব্দে আসে। আপনার চালু করা টাইমার তবুও বাজে।
+Your data	আপনার ডেটা
+Private, offline, and yours to keep	ব্যক্তিগত, অফলাইন, আর শুধু আপনার
+Stays on this phone	এই ফোনেই থাকে
+T!ME has no account and never uses the internet. Nobody else can see your records.	T!ME-এ কোনো অ্যাকাউন্ট নেই, আর এটি কখনো ইন্টারনেট ব্যবহার করে না। আপনার তথ্য আর কেউ দেখতে পায় না।
+Make backups	ব্যাকআপ রাখুন
+Settings › Data & backup saves everything to one file, with a password if you like. Automatic backups can go to a folder you choose every day.	সেটিংস › ডেটা ও ব্যাকআপ সবকিছু একটি ফাইলে রাখে, চাইলে পাসওয়ার্ড দিয়ে। স্বয়ংক্রিয় ব্যাকআপ প্রতিদিন আপনার বাছাই করা ফোল্ডারে যেতে পারে।
+Lock the app	অ্যাপ লক করুন
+Add a PIN or fingerprint in Settings › Security & app lock. Widgets and notifications then hide the details.	সেটিংস › নিরাপত্তা ও অ্যাপ লক থেকে পিন বা আঙুলের ছাপ দিন। তখন উইজেট আর নোটিফিকেশন বিস্তারিত লুকিয়ে রাখে।
+You can open this again any time with the ? next to the title.	শিরোনামের পাশের ? চেপে যেকোনো সময় এটি আবার খুলতে পারবেন।
+How each part works, the welcome tour, tips	প্রতিটি অংশ কীভাবে কাজ করে, স্বাগত পরিচিতি, টিপস
+Search help	সাহায্যে খুঁজুন
+Six short pages on what T!ME is for	T!ME কীসের জন্য — ছয়টি ছোট পাতায়
+Done — each tab explains itself again the next time you open it	হয়ে গেছে — পরের বার খুললে প্রতিটি ট্যাব আবার নিজের পরিচয় দেবে
+Each tab's first-visit tip and Today's getting-started card	প্রতিটি ট্যাবের প্রথম দেখার টিপ আর আজকের "শুরু করা যাক" কার্ড
+GUIDES	নির্দেশিকা
+Nothing in the guides matches "%1$s". Try another word, or search Settings for a setting.	নির্দেশিকায় "%1$s" এর সাথে মেলে এমন কিছু নেই। অন্য শব্দ দিয়ে চেষ্টা করুন, অথবা সেটিংসে খুঁজুন।
+Expanded	খোলা
+Collapsed	বন্ধ
+A bill is due	একটি বিলের সময় হয়েছে
+Edit bill to pay	পরিশোধের বিল সম্পাদনা
+New bill to pay	নতুন পরিশোধের বিল
+Saving this doesn't pay anything or change a wallet. Balances only move when you record a payment.	এটি সংরক্ষণ করলে কিছু পরিশোধ হয় না, কোনো ওয়ালেটও বদলায় না। পেমেন্ট লিখলে তবেই ব্যালান্স বদলায়।
+Book time	সময় বুক করুন
+Booked time can stand alone — no task is needed. If it overlaps something else on your calendar, you'll be asked what to do.	বুক করা সময় একাই থাকতে পারে — কোনো কাজ লাগে না। ক্যালেন্ডারে অন্য কিছুর সাথে মিলে গেলে কী করবেন জিজ্ঞেস করা হবে।
+A start and end on the calendar — a meeting, a class, study time	ক্যালেন্ডারে শুরু আর শেষের সময় — মিটিং, ক্লাস, পড়ার সময়
+Bill to pay	পরিশোধের বিল
+Money you'll need to pay later — nothing is paid yet	পরে যে টাকা দিতে হবে — এখনো কিছু দেওয়া হয়নি
+Money in or out	টাকা আসা বা যাওয়া
+Spending or income that already happened — updates a wallet	যে খরচ বা আয় হয়ে গেছে — ওয়ালেটের হিসাব বদলায়
+Edit money in or out	টাকা আসা-যাওয়া সম্পাদনা
+Record money in or out	টাকা আসা বা যাওয়া লিখুন
+No wallets yet — add one first (Add › Wallet). Money in or out has to go to a wallet.	এখনো কোনো ওয়ালেট নেই — আগে একটি যোগ করুন (যোগ করুন › ওয়ালেট)। টাকা আসা-যাওয়া কোনো ওয়ালেটে হতে হবে।
+This already happened, so the wallet's balance changes now — unlike a bill to pay.	এটি হয়ে গেছে, তাই ওয়ালেটের ব্যালান্স এখনই বদলায় — পরিশোধের বিলের মতো নয়।
+Timed events become booked time on your calendar; all-day ones become tasks due that day.	সময়সহ ইভেন্ট ক্যালেন্ডারে বুক করা সময় হয়; সারাদিনের ইভেন্ট সেদিনের কাজ হয়।
+Every task, bill, payment, wallet, idea and link is removed from this phone. 	এই ফোন থেকে সব কাজ, বিল, পেমেন্ট, ওয়ালেট, আইডিয়া আর লিংক মুছে যাবে। 
+Bills due, heading over budget	বিলের সময়, বাজেট ছাড়ানোর পথে
+At 80%, when bills still to pay would take you over, and when you're over — once a month each.	৮০% হলে, বাকি বিলগুলো বাজেট ছাড়িয়ে দেবে এমন হলে, আর ছাড়িয়ে গেলে — প্রতিটি মাসে একবার।
+Money you record as spent or received shows up here, newest first.	খরচ বা আয় হিসেবে যা লিখবেন তা এখানে দেখাবে, নতুনগুলো আগে।
+No bills to pay yet	এখনো পরিশোধের কোনো বিল নেই
+Add a bill to pay	পরিশোধের বিল যোগ করুন
+No bill matches this filter right now.	এই ফিল্টারের সাথে এখন কোনো বিল মেলে না।
+At 80%, when bills still to pay would go over, and when over	৮০% হলে, বাকি বিল বাজেট ছাড়ালে, আর ছাড়িয়ে গেলে
+The copy kept in T!ME is deleted. The record stays.	T!ME-এ রাখা কপিটি মুছে যাবে। রেকর্ডটি থাকবে।
+Hide T!ME in recent apps	সাম্প্রতিক অ্যাপে T!ME লুকান
+While the lock is on, the recent-apps screen shows a blank card instead of your last page.	লক চালু থাকলে সাম্প্রতিক অ্যাপের তালিকায় আপনার শেষ পাতার বদলে একটি ফাঁকা কার্ড দেখাবে।
+T!ME also locks as soon as the phone's screen turns off, unless auto-lock is set to Never.	ফোনের স্ক্রিন বন্ধ হলেই T!ME লক হয়ে যায়, যদি না অটো-লক "কখনো না" রাখা থাকে।
+A note can hold up to %1$s characters — the rest of what you pasted wasn't added.	একটি নোটে সর্বোচ্চ %1$s অক্ষর রাখা যায় — পেস্ট করা বাকি অংশ যোগ হয়নি।
+%1$s of %2$s characters	%2$s অক্ষরের মধ্যে %1$s
+Ideas you save to this collection show up here.	এই সংগ্রহে যে আইডিয়া রাখবেন তা এখানে দেখাবে।
+Add an idea	একটি আইডিয়া যোগ করুন
+Your best guess is fine — you record what you actually pay later. Up to two decimals.	আনুমানিক অঙ্কই যথেষ্ট — আসলে কত দিলেন তা পরে লিখবেন। দশমিকের পর সর্বোচ্চ দুই ঘর।
+What's in it right now. Leave empty for nothing.	এখন এতে কত আছে। কিছু না থাকলে খালি রাখুন।
+Export your bookmarks from a browser as an HTML file, then choose it here. You'll see every link before anything is saved.	ব্রাউজার থেকে বুকমার্কগুলো HTML ফাইল হিসেবে এক্সপোর্ট করুন, তারপর এখানে বেছে নিন। কিছু সংরক্ষণের আগে প্রতিটি লিংক দেখতে পাবেন।
+Choose an .ics file exported from a calendar app. You'll see every event, in your time zone, before anything is saved.	কোনো ক্যালেন্ডার অ্যাপ থেকে এক্সপোর্ট করা .ics ফাইল বেছে নিন। কিছু সংরক্ষণের আগে প্রতিটি ইভেন্ট আপনার সময় অঞ্চলে দেখতে পাবেন।
+They're in Money › History now, and wallet balances include them. Delete any from there if something looks wrong.	এগুলো এখন টাকা › ইতিহাসে আছে, আর ওয়ালেটের ব্যালান্সে যোগ হয়েছে। কিছু ভুল মনে হলে সেখান থেকে মুছে দিন।
+A bank statement or a spreadsheet export. You'll see every row before anything is saved, and can untick any of them.	ব্যাংক স্টেটমেন্ট বা স্প্রেডশিট এক্সপোর্ট। কিছু সংরক্ষণের আগে প্রতিটি সারি দেখতে পাবেন, আর যেকোনোটির টিক তুলে দিতে পারবেন।
+Every task, bill, payment, wallet, idea and link is removed from this phone. This cannot be undone, and a backup made earlier is the only way back.	এই ফোন থেকে সব কাজ, বিল, পেমেন্ট, ওয়ালেট, আইডিয়া আর লিংক মুছে যাবে। এটি ফেরানো যায় না — আগে নেওয়া ব্যাকআপই ফেরার একমাত্র উপায়।
+Pick something small you want to do regularly — every day, on set days, or a few times a week. Check it off here or on Today.	নিয়মিত করতে চান এমন ছোট কিছু বেছে নিন — প্রতিদিন, নির্দিষ্ট দিনে, বা সপ্তাহে কয়েকবার। এখানে বা আজ পাতায় টিক দিন।
+Things you want to do one day. No deadline, no estimate, no timer — they stay out of the clock until you want them in it.	যা কোনো একদিন করতে চান। কোনো সময়সীমা, অনুমান বা টাইমার নেই — আপনি না চাওয়া পর্যন্ত এগুলো সময়ের হিসাবের বাইরে থাকে।
+Loose thoughts that aren't tasks — they stay out of your schedule until you decide otherwise.	এলোমেলো ভাবনা যা এখনো কাজ নয় — আপনি না চাওয়া পর্যন্ত এগুলো আপনার সময়সূচির বাইরে থাকে।
+Local-first — no account, no server, no network permission. Everything you enter is written to this phone's storage and stays there unless you export it yourself.	সবকিছু ফোনেই — কোনো অ্যাকাউন্ট, সার্ভার বা ইন্টারনেট অনুমতি নেই। আপনি যা লেখেন সব এই ফোনের স্টোরেজে থাকে, আপনি নিজে এক্সপোর্ট না করলে সেখানেই থাকে।
+Archiving keeps a category or project on the records that already use it; it just stops appearing on new ones. Renaming or recolouring updates every view at once. Merging moves its records to another and archives it. Records with no category show as Uncategorised.	আর্কাইভ করলে বিভাগ বা প্রকল্পটি আগের রেকর্ডে থেকে যায়; শুধু নতুনগুলোতে আর দেখা যায় না। নাম বা রং বদলালে সব জায়গায় একসাথে বদলায়। একত্র করলে এর রেকর্ডগুলো অন্যটিতে চলে যায় আর এটি আর্কাইভ হয়। বিভাগ ছাড়া রেকর্ড "বিভাগহীন" হিসেবে দেখায়।
+Force-stopping T!ME, a powered-off phone, or aggressive battery policies can delay or skip delivery. Missed items are surfaced when you reopen the app, not replayed as a burst of alarms.	T!ME জোর করে বন্ধ করলে, ফোন বন্ধ থাকলে বা কড়া ব্যাটারি নিয়মে নোটিফিকেশন দেরিতে আসতে বা বাদ পড়তে পারে। অ্যাপ আবার খুললে বাদ পড়াগুলো দেখানো হয় — একসাথে অনেক অ্যালার্ম বাজে না।
+Due %1$s · plus %2$s with no date	%1$s পর্যন্ত · এছাড়া তারিখ ছাড়া %2$s
+this month, incl. %1$s with no date	এই মাসে, তারিখ ছাড়া %1$s সহ
+Money you expect to spend — rent, a bill, a subscription. Adding one here moves nothing until you record the payment.	যে টাকা খরচ হবে বলে জানেন — ভাড়া, বিল, সাবস্ক্রিপশন। এখানে যোগ করলে কিছুই সরে না, পেমেন্ট লিখলে তবেই সরে।
+no date — counted as owed now	তারিখ নেই — এখন বাকি হিসেবে ধরা হয়েছে
+%1$s · what it started with — not income	%1$s · শুরুতে যা ছিল — আয় নয়
+Each column stands for one state — starting a timer still means Doing, finishing still means Done. A limit only warns when a column holds more than it; it never stops a move.	প্রতিটি কলাম একটি অবস্থা বোঝায় — টাইমার শুরু মানে এখনো চলছে, শেষ মানে এখনো সম্পন্ন। সীমা শুধু কলামে বেশি হলে সতর্ক করে; সরানো কখনো আটকায় না।
+A title is enough to start — you can add a due date, an estimate and a schedule later.	শুরু করতে শুধু একটি শিরোনামই যথেষ্ট — শেষ তারিখ, অনুমান আর সময়সূচি পরে যোগ করতে পারবেন।
+This clears your PIN and app-lock settings but keeps all your tasks, money records, and ideas — anyone with access to this phone will be able to open T!ME until you set a new PIN. You'll be asked to verify this phone's own screen lock first.	এতে আপনার পিন আর অ্যাপ লকের সেটিং মুছে যাবে, কিন্তু সব কাজ, টাকার হিসাব আর আইডিয়া থাকবে — নতুন পিন না দেওয়া পর্যন্ত এই ফোন যার হাতে থাকবে সে-ই T!ME খুলতে পারবে। আগে এই ফোনের নিজস্ব স্ক্রিন লক যাচাই করতে বলা হবে।
+Your name	আপনার নাম
+What should T!ME call you?	T!ME আপনাকে কী নামে ডাকবে?
+Lock T!ME with a PIN	পিন দিয়ে T!ME লক করুন
+Everything stays on this phone. A PIN stops anyone who picks up your unlocked phone from opening T!ME. It's optional.	সবকিছু এই ফোনেই থাকে। পিন থাকলে আপনার খোলা ফোন হাতে পেয়েও কেউ T!ME খুলতে পারবে না। এটি ঐচ্ছিক।
+You can change it, add fingerprint unlock or turn the lock off in Settings › Security & app lock.	সেটিংস › নিরাপত্তা ও অ্যাপ লক থেকে এটি বদলাতে, আঙুলের ছাপ যোগ করতে বা লক বন্ধ করতে পারবেন।
+T!ME asks for it when you come back after a while. You can add fingerprint unlock later in Settings › Security & app lock.	কিছুক্ষণ পর ফিরে এলে T!ME এটি চাইবে। আঙুলের ছাপে খোলা পরে সেটিংস › নিরাপত্তা ও অ্যাপ লক থেকে যোগ করতে পারবেন।
+There's no account, so there's no email reset. If you forget the PIN, you can reset it with your phone's own screen lock.	কোনো অ্যাকাউন্ট নেই, তাই ইমেইলে রিসেটও নেই। পিন ভুলে গেলে ফোনের নিজস্ব স্ক্রিন লক দিয়ে রিসেট করতে পারবেন।
+When you usually work and which days you rest — T!ME uses them to plan your time and for your weekly reports. You can change all of it later in Settings.	সাধারণত কখন কাজ করেন আর কোন দিন বিশ্রাম নেন — T!ME এগুলো দিয়ে আপনার সময় সাজায় আর সাপ্তাহিক রিপোর্ট বানায়। পরে সেটিংস থেকে সব বদলাতে পারবেন।
+Work starts	কাজ শুরু
+Work ends	কাজ শেষ
+%1$s · follows your phone	%1$s · আপনার ফোন অনুযায়ী
+Work ends before it starts — pick a later end time.	কাজ শুরুর আগেই শেষ হচ্ছে — পরের কোনো শেষ সময় বেছে নিন।
+A rest day never counts as a missed day.	বিশ্রামের দিন কখনো বাদ পড়া দিন হিসেবে ধরা হয় না।
+%1$s — but money reminders are muted in Settings › Notifications, so this won't show.	%1$s — কিন্তু সেটিংস › নোটিফিকেশনে টাকার রিমাইন্ডার বন্ধ, তাই এটি দেখাবে না।
+%1$s has already passed — pick a later time, or it will show as soon as you save.	%1$s পেরিয়ে গেছে — পরের কোনো সময় বেছে নিন, নইলে সংরক্ষণ করলেই এটি দেখাবে।
+A stopwatch is running	একটি স্টপওয়াচ চলছে
+A stopwatch run is paused	একটি স্টপওয়াচ থামানো আছে
+A countdown is running	একটি কাউন্টডাউন চলছে
+A countdown is paused	একটি কাউন্টডাউন থামানো আছে
+A Pomodoro is running	একটি পোমোডোরো চলছে
+A Pomodoro is paused	একটি পোমোডোরো থামানো আছে
+Open the stopwatch	স্টপওয়াচ খুলুন
+Open the countdown	কাউন্টডাউন খুলুন
+Open the Pomodoro	পোমোডোরো খুলুন
+One work timer at a time. Finish that run to start this kind — the time it recorded is kept.	একসাথে একটিই কাজের টাইমার। এটি শুরু করতে আগেরটি শেষ করুন — তাতে লেখা সময় থেকে যাবে।
+Finish it and start here	সেটি শেষ করে এখানে শুরু করুন
+In Plan	পরিকল্পনায়
+Recently added	সম্প্রতি যোগ করা
+No ideas yet. Tap New idea to catch your first thought — it stays out of your schedule until you decide otherwise.	এখনো কোনো আইডিয়া নেই। প্রথম ভাবনাটি লিখে রাখতে নতুন আইডিয়া চাপুন — আপনি না চাওয়া পর্যন্ত এটি সময়সূচির বাইরে থাকবে।
+1 quick note	১টি দ্রুত নোট
+1 idea	১টি আইডিয়া
+%1$s ideas	%1$sটি আইডিয়া
+IN %1$s · NO DUE DATE	%1$s-এ · শেষ তারিখ নেই
+NO DUE DATE	শেষ তারিখ নেই
+It's a task in Plan now, under No date yet. The idea stays here too.	এটি এখন পরিকল্পনায় একটি কাজ, "এখনো তারিখ নেই" অংশে। আইডিয়াটিও এখানে থাকছে।
+It has %1$s of tracked time. Deleting it removes that time from your reports; archiving keeps the time and hides the task. You can find it again in Search.	এতে %1$s সময় লেখা আছে। মুছলে সেই সময় আপনার রিপোর্ট থেকে সরে যাবে; আর্কাইভ করলে সময় থাকে আর কাজটি লুকানো থাকে। খোঁজ থেকে আবার পাবেন।
+Its timer is running. Deleting it removes that time from your reports; archiving keeps the time and hides the task. You can find it again in Search.	এর টাইমার চলছে। মুছলে সেই সময় আপনার রিপোর্ট থেকে সরে যাবে; আর্কাইভ করলে সময় থাকে আর কাজটি লুকানো থাকে। খোঁজ থেকে আবার পাবেন।
+%1$s · running	%1$s · চলছে
+No bills without a date	তারিখ ছাড়া কোনো বিল নেই
+COMING UP	সামনে যা আছে
+Booked time	বুক করা সময়
++ Book time	+ সময় বুক করুন
+No time booked yet.	এখনো কোনো সময় বুক করা হয়নি।
+Book more time	আরও সময় বুক করুন
+Split this booked time	এই বুক করা সময় ভাগ করুন
+More for this booked time	এই বুক করা সময়ের আরও বিকল্প
+Book time for it	এর জন্য সময় বুক করুন
+A due date says when it must be done; booked time says when you'll do it.	শেষ তারিখ বলে কবে শেষ করতে হবে; বুক করা সময় বলে কখন করবেন।
+%1$s booked for %2$s of work left. Shorten one, or keep the extra as buffer.	%2$s কাজ বাকি, বুক করা আছে %1$s। একটি ছোট করুন, বা বাড়তিটুকু হাতে রাখুন।
+%1$s is split in two. Nothing moves until you choose where the second part goes.	%1$s দুই ভাগ হবে। দ্বিতীয় ভাগ কোথায় যাবে বেছে না নেওয়া পর্যন্ত কিছুই সরবে না।
+Needs an estimate	আনুমানিক সময় দিলে দেখা যাবে
+Tap Lap while it runs to mark a split — each one shows here.	চলার সময় ল্যাপ চাপলে একটি ভাগ চিহ্নিত হয় — প্রতিটি এখানে দেখাবে।
+Bills due	বাকি বিল
+Edit booked time	বুক করা সময় বদলান
+Save anyway	তবুও সেভ করুন
+Overlaps “%1$s”. Saving keeps both — nothing else moves.	“%1$s”-এর সাথে মিলে যায়। সেভ করলে দুটোই থাকবে — আর কিছু সরবে না।
+Save repeating booked time	বারবার হওয়া বুক করা সময় সেভ করুন
+None yet. Book time from the task's page — anything it overlaps is named there.	এখনো নেই। কাজের পাতা থেকে সময় বুক করুন — কিছুর সাথে মিলে গেলে সেখানে বলা হবে।
+%1$s. Change it from the task's page.	%1$s। কাজের পাতা থেকে বদলান।
+%1$s and %2$s more. Change them from the task's page.	%1$s আর আরও %2$sটি। কাজের পাতা থেকে বদলান।
+Pick a due date above — the time is booked on that day.	ওপরে শেষ তারিখ বেছে নিন — সেদিনই সময় বুক হবে।
+When	কখন
+Change time	সময় বদলান
+Due by %1$s	%1$s-এর মধ্যে দিতে হবে
+Due by %1$s · plus %2$s with no date	%1$s-এর মধ্যে দিতে হবে · এছাড়া তারিখ ছাড়া %2$s
+until %1$s	%1$s পর্যন্ত
+%1$s so far	এ পর্যন্ত %1$s
+last worked %1$s	শেষ কাজ %1$s
+%1$s streak	টানা %1$s
+Paused · %1$s so far	থামানো · এ পর্যন্ত %1$s
+Paused · %1$s of the break	থামানো · বিরতির %1$s
+If the new time overlaps something else on your calendar, it's named under the times before you save.	নতুন সময় ক্যালেন্ডারের অন্য কিছুর সাথে মিলে গেলে, সেভ করার আগে সময়ের নিচে তা দেখানো হবে।
+All done	সব শেষ
+Everything on your list is finished. Add the next thing when you're ready.	তালিকার সব কাজ শেষ। প্রস্তুত হলে পরের কাজ যোগ করুন।
+Hide done (%1$s)	শেষ হওয়া লুকান (%1$s)
+Done (%1$s)	শেষ হয়েছে (%1$s)
+Archived %1$s	আর্কাইভ করা %1$s
+Unsorted	সাজানো হয়নি
+Search everything	সব কিছুতে খুঁজুন
+Search your tasks, booked time, habits, bills and payments, ideas and links.	আপনার কাজ, বুক করা সময়, অভ্যাস, বিল ও লেনদেন, আইডিয়া আর লিংকে খুঁজুন।
+1 active habit	১টি চালু অভ্যাস
+%1$s active habits	%1$sটি চালু অভ্যাস
+1 rest day	১টি বিশ্রামের দিন
+%1$s rest days	%1$sটি বিশ্রামের দিন
+Each bar is that day's work time. The part filled from the left is what's booked, plus estimates of tasks due that day with no time booked.	প্রতিটি বার সেদিনের কাজের সময়। বাঁ দিক থেকে ভরা অংশটুকু বুক করা সময়, সাথে সেদিনের বাকি কাজের আনুমানিক সময় যেগুলোর সময় বুক করা নেই।
+Tap to set one — alerts ignore it until you do	সেট করতে চাপুন — না করা পর্যন্ত সতর্কবার্তা এটি দেখে না
+Notifications there leave out task names and amounts	সেখানে নোটিফিকেশনে কাজের নাম আর টাকার পরিমাণ থাকে না
+Protect T!ME with a PIN of %1$s–%2$s digits.	T!ME-কে %1$s–%2$s অঙ্কের পিন দিয়ে সুরক্ষিত করুন।
+Booked time must end after it starts	বুক করা সময় শুরুর পরে শেষ হতে হবে
+A new slot replaces your booked time, and holds all %1$s left.	নতুন সময়টি আপনার বুক করা সময়ের জায়গা নেবে, এবং বাকি পুরো %1$s ধরবে।
+A task is something to do (a due date is when it should be done). Booked time is time you set aside on the calendar to do it.	কাজ হলো যা করতে হবে (শেষ তারিখ হলো কবে শেষ হওয়া উচিত)। বুক করা সময় হলো ক্যালেন্ডারে সেটি করার জন্য রাখা সময়।
+A task or booked time?	কাজ নাকি বুক করা সময়?
+Booked time removed	বুক করা সময় সরানো হয়েছে
+Booked time split in two	বুক করা সময় দুই ভাগ হয়েছে
+Bookings started within 10 min of their start ÷ bookings that have begun	শুরুর ১০ মিনিটের মধ্যে শুরু হওয়া বুকিং ÷ শুরু হয়ে যাওয়া বুকিং
+Everything else you've booked — untouched	আর যা বুক করেছেন — অপরিবর্তিত
+ · flexible	 · নমনীয়
+Its booked time is fixed — you locked it in place. Applying unlocks it and moves it.	এর বুক করা সময় স্থির — আপনি জায়গায় আটকে রেখেছেন। প্রয়োগ করলে এটি খুলে সরানো হবে।
+Move the new one	নতুনটি সরান
+New booking, %1$s %2$s	নতুন বুকিং, %1$s %2$s
+Nothing else booked today. Book time for a task from Plan, or tap + to book time.	আজ আর কিছু বুক করা নেই। পরিকল্পনা থেকে কাজের জন্য সময় বুক করুন, অথবা + চেপে সময় বুক করুন।
+Nothing moves until you apply, and an Undo appears right after. Time already passed is never rewritten — only booked time still ahead. Your other bookings, your work hours and the tasks this one waits on are respected when proposing a new slot.	আপনি প্রয়োগ না করা পর্যন্ত কিছুই সরে না, আর ঠিক পরেই ফিরিয়ে আনার সুযোগ থাকে। পেরিয়ে যাওয়া সময় কখনো বদলায় না — শুধু সামনের বুক করা সময় বদলায়। নতুন সময় প্রস্তাবের সময় আপনার অন্য বুকিং, কাজের সময় আর যে কাজগুলোর জন্য এটি অপেক্ষা করে সেগুলো মানা হয়।
+Shorten your booked time	আপনার বুক করা সময় ছোট করুন
+Switch on Remind me when you add a task, a bill or booked time, and choose when. Android asks for permission the first time.	কাজ, বিল বা বুক করা সময় যোগ করার সময় "মনে করিয়ে দিন" চালু করুন আর কখন তা বেছে নিন। প্রথমবার Android অনুমতি চাইবে।
+The + button adds a task, booked time, a habit, a bill you expect, money you spent or a link.	+ বোতাম দিয়ে কাজ, বুক করা সময়, অভ্যাস, প্রত্যাশিত বিল, খরচ করা টাকা বা লিংক যোগ করুন।
+These minutes collide. The fixed booking stays where it is — you choose what happens to the new one.	এই মিনিটগুলো মিলে যায়। স্থির বুকিংটি যেখানে আছে সেখানেই থাকে — নতুনটির কী হবে আপনি বাছুন।
+Your booked time already holds exactly the work left. Nothing to change.	আপনার বুক করা সময়ে ঠিক বাকি কাজটুকুই আছে। বদলানোর কিছু নেই।
+OPEN-SOURCE LICENSES	ওপেন-সোর্স লাইসেন্স
+Built with these libraries, all under the Apache License 2.0:	এই লাইব্রেরিগুলো দিয়ে তৈরি, সবগুলো Apache License 2.0-এর অধীনে:
+Roboto and the Material icons are also Apache License 2.0. The licence text: apache.org/licenses/LICENSE-2.0. No code was copied from other apps.	Roboto আর Material আইকনও Apache License 2.0-এর অধীনে। লাইসেন্সের লেখা: apache.org/licenses/LICENSE-2.0। অন্য কোনো অ্যাপ থেকে কোড নেওয়া হয়নি।
+%1$s · paid toward a bill	%1$s · একটি বিলের পরিশোধ
+Cancel bill	বিল বাতিল
+Income, spending by category, bills vs what you paid	আয়, ক্যাটাগরি অনুযায়ী খরচ, বিল বনাম যা দিয়েছেন
+It's recorded as paid, and the extra shows as the bill going over its estimate.	এটি পরিশোধ হিসেবে লেখা হয়, আর বাড়তিটা বিলের আনুমানিক খরচ ছাড়ানো হিসেবে দেখায়।
+Keep the bill open	বিলটি খোলা রাখুন
+No bills settled in this period.	এই সময়ে কোনো বিল মেটানো হয়নি।
+No wallets yet — you can still add this bill and choose a wallet when you pay it.	এখনো কোনো ওয়ালেট নেই — তবুও বিলটি যোগ করতে পারেন, পরিশোধের সময় ওয়ালেট বাছবেন।
+One transaction: creates the %1$s expense, links it to the bill, and moves it out of %2$s.	একটি লেনদেন: %1$s খরচ তৈরি করে, বিলের সাথে জোড়ে, আর %2$s থেকে সরায়।
+Settled bills	মেটানো বিল
+Mark the bill settled	বিলটি মেটানো হিসেবে চিহ্নিত করুন
+expected %1$s, paid %2$s	প্রত্যাশিত %1$s, দেওয়া হয়েছে %2$s
+paid toward a bill	একটি বিলের পরিশোধ
+THE BILL IT PAID	যে বিল এটি মিটিয়েছিল
+You can undo it for a few seconds afterwards.	পরের কয়েক সেকেন্ড এটি ফিরিয়ে আনতে পারবেন।
+due today, no time booked	আজ শেষ তারিখ, সময় বুক করা হয়নি
+due · no time booked	বাকি · সময় বুক করা হয়নি
+due this day · no time booked	এই দিনে শেষ তারিখ · সময় বুক করা হয়নি
+Book time for a task or an appointment. Tap an empty hour to book it. T!ME warns you about overlaps and never moves things by itself.	কাজ বা অ্যাপয়েন্টমেন্টের জন্য সময় বুক করুন। খালি ঘণ্টায় চেপে সময় বুক করুন। T!ME সময় মিলে গেলে সতর্ক করে এবং নিজে থেকে কিছু সরায় না।
+Started %1$s — the rest fills in as the weeks go by.	%1$s থেকে শুরু — সপ্তাহ যত যাবে, বাকিটা ভরে উঠবে।
+of %1$s done	— %1$sটির মধ্যে হয়েছে
+Nothing on it yet — places to go, things to try	এখনো কিছু নেই — যাওয়ার জায়গা, চেষ্টা করার জিনিস
+Start again	আবার শুরু করুন
+Remind me at	কখন মনে করাবে
+When is it due?	কবে শেষ করতে হবে?
+Pick a date…	তারিখ বাছুন…
+How long will it take?	কতক্ষণ লাগবে?
+Not sure	জানি না
+Other…	অন্য…
+Starts at	শুরু
+Books %1$s — as long as your estimate.	%1$s বুক হবে — আপনার আনুমানিক সময়ের সমান।
+Books %1$s — 45 min, since there's no estimate.	%1$s বুক হবে — আনুমানিক সময় নেই, তাই ৪৫ মিনিট।
+More options	আরও বিকল্প
+Priority, project, tags and notes	অগ্রাধিকার, প্রজেক্ট, ট্যাগ আর নোট
+Start the booked time at	বুক করা সময় কখন শুরু
+Pick a time	সময় বাছুন
+Or set it exactly:	অথবা ঠিক কতক্ষণ দিন:
+Hours	ঘণ্টা
+That's %1$s.	মোট %1$s।
+%1$s · due %2$s	%1$s · শেষ তারিখ %2$s
+That time has already passed today — pick a later one, or book it for another day.	আজকের এই সময় পেরিয়ে গেছে — পরের কোনো সময় বাছুন, বা অন্য দিনে বুক করুন।
+%1$s of %2$s weeks met	%2$sটির মধ্যে %1$sটি সপ্তাহ পূরণ
+1 check-in	১বার টিক
+%1$s check-ins	%1$sবার টিক
+best streak %1$s	সেরা ধারা %1$s
+%1$s/%2$s	%1$s/%2$s
+Just focus	শুধু ফোকাস
+Notifies you: %1$s.	নোটিফিকেশন: %1$s।
+Notifications, 1 unread	নোটিফিকেশন, ১টি পড়া হয়নি
+Notifications, %1$s unread	নোটিফিকেশন, %1$sটি পড়া হয়নি
+Mark all read	সব পড়া হয়েছে
+Clear all	সব মুছুন
+No notifications yet	এখনো কোনো নোটিফিকেশন নেই
+Reminders, missed reminders, budget alerts and backup notices appear here — even if Android's notifications are off for T!ME.	রিমাইন্ডার, মিস করা রিমাইন্ডার, বাজেট সতর্কবার্তা আর ব্যাকআপের খবর এখানে আসে — Android-এ T!ME-এর নোটিফিকেশন বন্ধ থাকলেও।
+YESTERDAY	গতকাল
+EARLIER	আগে
+Unread	পড়া হয়নি
+That's no longer in T!ME — it was deleted.	এটি আর T!ME-এ নেই — মুছে ফেলা হয়েছে।
+Clear all notifications?	সব নোটিফিকেশন মুছবেন?
+This empties the list. Your tasks, bills and reminders stay as they are.	এতে শুধু তালিকা খালি হয়। আপনার কাজ, বিল আর রিমাইন্ডার যেমন আছে তেমনই থাকবে।
+TODAY	আজ
+Already late	ইতিমধ্যে দেরি
+past its date — counted in the total	তারিখ পেরিয়ে গেছে — মোটের মধ্যে ধরা

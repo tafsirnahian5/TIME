@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Without this the window stayed Material.Light in dark mode, so cold start flashed
+         white and any composable with no background of its own (the lock screen) rendered
+         light on top of an otherwise dark app. -->
+    <style name="Theme.TME" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/window_background</item>
+    </style>
+</resources>

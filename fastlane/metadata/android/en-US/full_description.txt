@@ -1,0 +1,19 @@
+<p>T!ME puts your time, money and habits in one private app. Plan your day, track the time you spend working, keep on top of bills and spending, and build habits. Everything stays on your phone: there is no account, no server and no internet permission.</p>
+
+<p><b>Today</b> — what's running now, your three priorities, the rest of the day in time order, habits to tick and money due. Start, pause and end your workday.</p>
+
+<p><b>Plan</b> — tasks as a list, a board or a calendar (month, week, day, agenda). Due dates, estimates, booked time, repeats, projects, tags, dependencies and reminders. Overlaps are always shown to you, never resolved behind your back.</p>
+
+<p><b>Focus</b> — one work timer: stopwatch, countdown or Pomodoro, all recording real work sessions. Utility timers that can ring like an alarm, with your own tone and hold-to-stop.</p>
+
+<p><b>Money</b> — wallets, bills to pay, money in and out, refunds, loans and dues, savings goals, budgets with alerts, receipts, and exact amounts to the poisha.</p>
+
+<p><b>Habits</b> — flexible schedules, measurable targets, rest days that never break a streak, a yearly heatmap and a widget.</p>
+
+<p><b>Ideas and Links</b> — quick notes, collections, a bucket list and saved links. Share a web page to T!ME to save it.</p>
+
+<p><b>Reports</b> — time, money, habits, workload, and weekly and monthly reviews. No points, levels or scores.</p>
+
+<p><b>Your data</b> — an optional PIN lock, password-protected and automatic backups, and CSV, calendar (.ics) and bookmark import and export.</p>
+
+<p>Available in English and Bangla (বাংলা).</p>

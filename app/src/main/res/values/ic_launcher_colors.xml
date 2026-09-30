@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Launcher plate. Deliberately NOT the UI accent: the icon reads as a dark
+         tile on any wallpaper, while the in-app accent stays accessible on white. -->
+    <color name="ic_launcher_background">#0A0A0A</color>
+</resources>

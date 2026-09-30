@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The T! mark for use inside the app (TimeMark), on the launcher's dark plate.
+     Same paths as ic_launcher_foreground.xml (the app's own T! design),
+     cropped to the glyph: the 56-unit viewport is the icon's 108-unit canvas from 26 to 82. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="56dp" android:height="56dp"
+    android:viewportWidth="56" android:viewportHeight="56">
+    <group android:translateX="-26" android:translateY="-26">
+        <path android:fillColor="#E8EDF2" android:pathData="M36.234,30.240 H71.766 A3.132,3.132 0 0 1 74.898,33.372 V38.664 A3.132,3.132 0 0 1 71.766,41.796 H36.234 A3.132,3.132 0 0 1 33.102,38.664 V33.372 A3.132,3.132 0 0 1 36.234,30.240 Z"/>
+        <path android:fillColor="#E8EDF2" android:pathData="M48.438,30.240 H59.346 V61.625 A2.419,2.419 0 0 1 56.927,64.044 H50.857 A2.419,2.419 0 0 1 48.438,61.625 Z"/>
+        <path android:fillColor="#FB8C3C" android:pathData="M51.635,68.364 H56.149 A2.441,2.441 0 0 1 58.590,70.805 V75.319 A2.441,2.441 0 0 1 56.149,77.760 H51.635 A2.441,2.441 0 0 1 49.194,75.319 V70.805 A2.441,2.441 0 0 1 51.635,68.364 Z"/>
+    </group>
+</vector>

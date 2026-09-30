@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Only the receipts folder is ever shared, and only to open one in a viewer. -->
+<paths>
+    <files-path name="attachments" path="attachments/" />
+</paths>

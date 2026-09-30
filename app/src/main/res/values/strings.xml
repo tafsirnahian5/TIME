@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">T!ME</string>
+    <string name="widget_habits_description">Today\'s habits — tap one to check it off. Shows counts only while T!ME is locked.</string>
+    <string name="widget_today_description">What\'s on today: current work, next blocks and habits. Shows counts only while T!ME is locked.</string>
+    <string name="widget_focus_description">The running timer with Pause and Finish. Shows no task names or controls while T!ME is locked.</string>
+    <string name="widget_money_description">Bills due this week, and your total balance only if you turn amounts on. Counts only while T!ME is locked.</string>
+</resources>
